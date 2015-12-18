@@ -1,0 +1,12253 @@
+Les Gens
+Люди
+le corps
+Тело
+Le Visage
+Лицо
+La main
+Рука
+le pied
+Стопа
+Les Muscles
+Мускулы
+Le Squelette
+Скелет
+Les Organes Internes
+Внутренние Органы
+Les Organes de Reproduction
+La Famille
+Семья
+Les Relations
+Отношения
+Les èmotions
+Эмоции
+Les événements de la vie
+События Жизни
+L'Apparence
+Внешность
+Les Vêtements D'Enfants
+Детская Одежда
+Les Vêtements pour Hommes
+Мужская Одежда
+Les Vêtements pour Femmes
+Женская Одежда
+Les Accessoires
+Аксессуары
+Les Cheveux
+Волосы
+La Beauté
+Красота
+La Santé
+Здоровье
+La Maladie
+Болезнь
+Le Médecin
+Доктор
+La Blessure
+Травма
+Les Premiers Secours
+Первая Помощь
+L'Hôpital
+Больница
+Le Dentiste
+Стамотолог
+L'Opticien
+Оптик
+La Grossesse
+La Naissance
+Les Thérapies Alternatives
+Альтернативная Терапия
+La Maison
+Дом
+La Maison
+Дом
+Les Systèmes Domestiques
+Внутренние Системы
+Le Salon
+Гостиная
+La Salle à Manger
+Столовая
+La Cuisine
+Кухня
+Les Ustensiles de Cuisine
+Кухонные Принадлежности
+La Chambre
+Спальня
+La Salle de Bain
+Ванная
+La Chambre D'enfants
+Детская Комната
+La Buanderie
+Бытовка
+L'Atelier
+Мастерская
+La Boîte à Outils
+Инструменты
+La Décoration
+Украшение
+Le Jardin
+Сад
+Les Plantes de Jardin
+Садовые Растения
+Les Outils de Jardin
+Садовые Инструменты
+Le Jardinage
+Садоводство
+Les Services
+Услуги
+Les Services d'urgence
+Аварийные Службы
+La Banque
+Банк
+Les Communications
+Коммуникации
+L'Hôtel
+Отель
+Les Courses
+Покупки
+Le Centre Commercial
+Торговый Центр
+Le Supermarché
+Супермаркет
+La Pharmacie
+Химик
+Le Fleuriste
+Флорист
+Le Marchand de Journaux
+Продавец Газет
+Le Confiseur
+Кондитер
+Les Autres Magasins
+Другие Магазины
+La Nourriture
+Еда
+La Viande
+Мясо
+Le Poisson
+Рыба
+Les Légumes
+Овощи
+Le Fruit
+Фрукты
+Les Céréales el les Légumes Secs
+Зерновые и Бобовые Культуры
+Les Herbes et les Epices
+Травы и Специи
+Les Aliments en Bouteilles
+Продукты в Бутылках
+Les Produits Laitiers
+Молочные Продукты
+Les Pains et la Farine
+Хлеб и Мука
+Les Gâteaux et les Desserts
+Торты и Десерты
+La Charcuterie
+Деликатесы
+Les Boissons
+Напитки
+Sortir Manger
+Питание вне Дома
+Le Café
+Кафе
+Le Bar
+Клуб
+Le Restaurant
+Ресторан
+La Restauration Rapide
+Фастфуд
+Le Petit Déjeuner
+Завтрак
+Le Repas
+Ужин
+L'Etude
+Учиться
+L'Ecole
+Школа
+Les Mathématiques
+Математика
+La Science
+Наука
+L'Enseignement Supérieur
+Колледж
+Le Travail
+Работать
+Le Bureau
+Оффис
+L'Ordinateur
+Компьютер
+Les Médias
+Масс-Медиа
+Le Droit
+Закон
+La Ferme
+Ферма
+La Construction
+Строительство
+Les Professions
+Профессии
+Le Transport
+Транспорт
+Les Routes
+Дорога
+Le Bus
+Автобус
+La Voiture
+Машина
+La Moto
+Мотоцикл
+La Bicyclette
+Велосипед
+Le Train
+Поезд
+L'Avion
+Самолет
+L'Aéroport
+Аэропорт
+La Navire
+Судно
+Le Port
+Порт
+Les Sports
+Спорт
+Le Football Américain
+Американский Футбол
+Le Rugby
+Регби
+Le Football
+Футбол
+Le Hockey
+Хоккей
+Le Cricket
+Крикет
+Le Basket
+Баскетбол
+Le Baseball
+Бейсбол
+Le Tennis
+Теннис
+Le Golf
+Гольф
+L'Athlétisme
+Атлетика
+Les Sports de Combat
+Спортивные Единоборства
+La Natation
+Плавание
+La Voile
+Парусный Спорт
+L'Equitation
+Конный Спорт
+La Pêche
+Рыбалка
+Le Ski
+Лыжный Спорт
+Les Autres Sports
+Другие Спорты
+Le Conditionnement Physique
+Фитнес
+Le Temps Libre
+Свободное Время
+Le Théâtre
+Театр
+L'Orchestre
+Оркестр
+Le Concert
+Концерт
+Le Tourisme
+Туризм
+Les Activités de Plein Air
+Отдых на Свежем Воздухе
+La Plage
+Пляж
+Le Camping
+Кемпинг
+Les Distractions à la Maison
+Домашняя Электроника
+La Photographie
+Фотография
+Les Jeux
+Игры
+Les Arts et Métiers
+Декоративно-Прикладное Искусство
+L'Environnement
+Среда
+L'Espace
+Космос
+La Terre
+Земля
+Le Paysage
+Ландшафт
+Les Temps
+Погода
+Les Roches
+Камни
+Les Minéraux
+Минералы
+Les Animaux
+Животные
+Les Plantes
+Растения
+La Ville
+Город
+L'Architecture
+Архитектура
+L'Information
+Ссылка
+L'Heure
+Время
+Le Calendrier
+Календарь
+Les Nombres
+Числа
+Les Poids et Mesures
+Веса и Меры
+La Carte du Monde
+Карта Мира
+le cou
+шея
+la poitrine
+грудь
+le ventre
+живот
+la hanche
+бок
+le tibia
+голень
+l'homme
+мужчина
+la jambe
+нога
+la tête
+голова
+le sein
+молочная железа
+la taille
+талия
+le nombril
+пупок
+l'avant-bras
+предплечье
+la cuisse
+бедро
+le genou
+колено
+le pied
+ступня
+la femme
+женщина
+l'épaule
+плечо
+le bras
+рука
+le coude
+локоть
+le poignet
+запястье
+la main
+кисть
+la cheville
+лодыжка
+la nuque
+затылок
+le dos
+спина
+l'aisselle
+подмышка
+le creux des reins
+поясница
+la fesse
+ягодица
+le mollet
+икра
+le talon
+пятка
+les cheveux
+волосы
+la peau
+кожа
+le sourcil
+бровь
+le cil
+ресница
+l'oreille
+ухо
+le nez
+нос
+le grain de beauté
+родинка
+la lèvre
+губа
+le menton
+подбородок
+le front
+лоб
+la tempe
+висок
+l'oeil
+глаз
+la joue
+щека
+la narine
+ноздря
+la bouche
+рот
+la mâchoire
+нижняя челюсть
+la ride
+морщина
+la tache de rousseur
+веснушки
+le pore
+пора
+la fossette
+ямочка
+l'annulaire
+безымянный палец
+l'auriculaire
+мизинец
+le poignet
+запястье
+le majeur
+средний палец
+l'index
+указательный палец
+le pouce
+большой палец
+la paume
+ладонь
+l'ongle
+ноготь
+la cuticule
+кутикула
+le noeud de l'articulation
+сустав пальца
+le poing
+кулак
+l'avant-pied
+подушечка пальца
+l'orteil
+палец ноги
+la plante du pied
+подошва
+le cou-de-pied
+подъём
+la cambrure
+свод стопы
+le talon
+пятка
+le dos du pied
+перемычка стопы
+l'ongle du pied
+ноготь на пальце ноги
+le gros orteil
+большой палец
+le petit orteil
+мизинец
+la cheville
+лодыжка
+le frontal
+лобная
+l'intercostal
+межрёберные мышцы
+le biceps
+бицепс
+les abdominaux
+брюшные
+les quadriceps
+четырёхглавая
+le pectoral
+грудная
+le tendon du jarret
+подколенное сухожилие
+le tendon d'Achille
+ахиллово сухожилие
+le deltoïde
+дельтовидная
+le trapèze
+трапециевидная
+le dorsal
+спинная
+le triceps
+трицепс
+le fessier
+ягодичная
+les muscles jumeaux
+икроножная
+la clavicule
+ключица
+l'omoplate
+лопатка
+le sternum
+грудина
+la côte
+ребро
+le cubitus
+локтевая кость
+le radius
+лучевая кость
+le bassin
+таз
+la rotule
+коленная чашечка
+le péroné
+малоберцовая кость
+le métatarsien
+плюсна
+le crâne
+череп
+le maxillaire
+нижняя челюсть
+l'humérus
+плечевая кость
+la cage thoracique
+грудная клетка
+le métacarpien
+пясть
+le fémur
+бедренная кость
+le tibia
+большеберцовая кость
+les vertèbres cervicales
+шейные позвонки
+les vertèbres thoraciques
+грудные позвонки
+les lombaires
+поясничные позвонки
+le coccyx
+копчик
+la colonne vertébrale
+позвоночник
+l'articulation
+сустав
+le cartilage
+хрящ
+le ligament
+связка
+l'os
+кость
+le tendon
+сухожилие
+le foie
+печень
+le duodénum
+двенадцатиперстная кишка
+le rein
+почка
+le pancréas
+поджелудочная железа
+l'intestin grêle
+тонкии кишечник
+le gros intestin
+толстый кишечник
+l'appendice
+слепая кишка
+la thyroïde
+щитовидная железа
+la trachée
+трахея
+le poumon
+лёгкие
+le coeur
+сердце
+l'estomac
+желудок
+la rate
+селезёнка
+la tête
+голова
+le sinus
+лобная пазуха
+le palais
+нёбо
+la langue
+язык
+le larynx
+гортань
+la pomme d'Adam
+адамова яблоко
+les cordes vocales
+голосовые связки
+le cerveau
+мозг
+le pharynx
+глотка
+l'épiglotte
+надгортанник
+la gorge
+горло
+les systèmes du corps
+физиологические системы
+le diaphragme
+диафрагма
+le système respiratoire
+дыхательная
+le système digestif
+пищеварительная
+la veine
+вена
+l'artère
+артерия
+le système cardio-vasculaire
+сердечно-сосудистая
+le système lymphatique
+лимфатическая
+la glande
+железа
+le nerf
+нерв
+le système urinaire
+мочевыделительная
+le système endocrine
+эндокринная
+le système nerveux
+нервная
+le système reproducteur
+репродуктивная
+la grand-mère
+бабушка
+le grand-père
+дедушка
+l'oncle
+дядя
+la tante
+тётя
+le père
+отец
+la mère
+мать
+le cousin
+двоюродный брат
+le frère
+брат
+la soeur
+сестра
+la femme (II)
+жена
+la belle-fille (II)
+невестка
+le fils
+сын
+la fille (II)
+дочь
+le gendre
+зять
+le petit-fils
+внук
+la petite-fille
+внучка
+le mari
+муж
+les parents (II)
+родственники
+les parents (I)
+родители
+les petits-enfants
+внуки
+la belle-mère (I)
+мачеха
+le beau-fils
+пасынок
+la génération
+поколение
+les grands-parents
+дедушка и бабушка
+les enfants
+дети
+le beau-père (I)
+отчим
+la belle-fille (I)
+падчерица
+les jumeaux
+близнецы
+la belle-mère (II)
+свекровь
+le beau-père (II)
+свёкор
+le beau-frère
+шурин
+la belle-soeur
+золовка
+la nièce
+племянница
+le neveu
+племянник
+Mademoiselle
+госпожа
+Monsieur
+господин
+Madame
+барышня
+les stades
+возраст
+le bébé
+младенец
+l'enfant
+ребёнок
+le garçon
+мальчик
+la fille (I)
+девочка
+l'adolescente
+подросток
+l'adulte
+взрослый
+l'homme
+мужчина
+la femme (I)
+женщина
+le chef
+руководитель
+l'assistante
+помощник
+l'associée
+деловой партнёр
+l'employeuse
+работодатель
+l'employé
+наёмный работник
+le collègue
+коллега
+le bureau
+офис
+le voisin
+сосед
+l'ami
+друг (I)
+la connaissance
+знакомый
+le correspondant
+друг по переписке
+le petit ami
+друг (II)
+la petite amie
+подруга
+le couple
+пара
+le fiancé
+жених
+la fiancée
+невеста
+les fiancés
+помолвленные
+le sourire
+улыбка
+heureux
+счастливая
+triste
+грустный
+excité
+возбуждённый
+ennuyé
+скучающий
+surpris
+удивлённая
+effrayé
+испуганный
+fâché
+рассерженна
+confus
+растерянный
+inquiet
+обеспокоенный
+nerveux
+взволнованный
+fier
+гордые
+confiant
+уверенный
+gêné
+смущённая
+timide
+застенчивая
+consterné
+расстроенный
+rire
+смеяться
+soupirer
+вздыхать
+crier
+кричать
+choqué
+потрясённый
+pleurer
+плакать
+bâiller
+зевать
+s'évanouir
+падать в обморок
+naître
+родиться
+commencer à l'école
+пойти в школу
+faire des amis
+подружиться
+obtenir sa licence
+получить диплом
+trouver un emploi
+устроиться на работу
+tomber amoureux
+влюбляться
+se marier
+пожениться
+avoir un bébé
+родить ребёнка
+le baptême
+крещение
+la bar-mitsvah
+бар мицва
+l'anniversaire de mariage
+годовщина
+émigrer
+эмигрировать
+prendre sa retraite
+выйти на пенсию
+le mariage
+свадьба
+le divorce
+развод
+l'enterrement
+похороны
+mourir
+умереть
+faire son testament
+составлять завещание
+l'acte de naissance
+свидетельство о рождении
+le repas de noces
+свадебный обед
+le voyage de noces
+медовый месяц
+les fêtes
+торжества
+la fête
+празднование дня рождения
+la carte
+поздравительная открытка
+l'anniversaire
+день рождения
+le cadeau
+подарок
+le Noël
+Рождество
+la Pâque
+Пасха (I)
+le Nouvel An
+Новый Год
+le carnaval
+карнавал
+le défilé
+процессия
+le Ramadan
+Рамадан
+la fête de Thanksgiving
+День Благодарение
+Pâques
+Пасха (II)
+la veille de la Toussaint
+Хэллоуин
+Diwali
+Дивали
+le tricot de corps
+распашонка
+le bouton-pression
+кнопка
+la grenouillère
+ползунки
+le pyjama
+пижама
+la combinaison-short
+короткий комбинезон
+la combinaison de neige
+комбинезон
+le bavoir
+слюнявчик
+les moufles
+варежки
+les chaussons
+пинетки
+la couche éponge
+махровый подгузник
+la couche jetable
+одноразовый подгузник
+la culotte en plastique
+непромокаемый подгузник
+le petit enfant
+маленький ребёнок
+le chapeau de soleil
+панамка
+la salopette
+брюки-комбинезон
+le t-shirt
+футболка
+le tablier
+передник
+le bermuda
+шорты
+la jupe
+юбка
+l'enfant
+ребёнок
+la robe
+платье
+la capuche
+капюшон
+les sandales
+сандалии
+le jean
+джинсы
+le sac à dos
+рюкзак
+le bouton
+пуговица
+l'écharpe
+шарф
+l'anorak
+куртка
+les bottes de caoutchouc
+резиновые сапоги
+l'imperméable
+дождевик
+le duffle-coat
+пальто
+la robe de chambre
+халат
+le logo
+логотип
+les baskets
+кроссовки
+la chemise de nuit
+ночная рубашка
+la tenue de foot
+футбольная форма
+le survêtement
+спортивный костюм
+les leggings
+леггинсы
+les pantoufles
+тапочки
+les vêtements de nuit
+ночная одежда
+la fibre naturelle
+натуральное волокно
+synthétique
+синтетика
+le col
+воротничок
+la cravate
+галстук
+la veste
+пиджак
+la manchette
+манжета
+le pantalon
+брюки
+le bouton
+пуговица
+le costume
+деловой костюм
+les chaussures en cuir
+кожаные туфли
+la ceinture
+пояс
+le revers
+лацкан
+la boutonnière
+петлица
+la poche
+карман
+le manteau
+пальто
+la doublure
+подкладка
+la chemise
+сорочка
+le peignoir
+халат
+l'imperméable
+плащ
+long
+длинный
+le cardigan
+кардиган
+les sous-vêtements
+нижнее бельё
+le survêtement
+спортивный костюм
+court
+короткий
+le blazer
+блейзер
+la veste de sport
+спортивный пиджак
+le gilet
+жилет
+le col rond
+образный вырез
+le t-shirt
+футболка
+l'anorak
+куртка
+le sweat-shirt
+свитер
+le coupe-vent
+ветровка
+le pullover
+пуловер
+le pyjama
+пижама
+le tricot de corps
+майка
+les vêtements sport
+домашняя одежда
+le short
+шорты
+le slip
+плавки
+le caleçon
+трусы
+les chaussettes
+носки
+la veste
+жакет
+l'encolure
+ворот
+la couture
+шов
+la manche
+рукав
+la jupe
+юбка
+l'ourlet
+подол
+à genou
+до колена
+les chaussures
+туфли
+les collants
+колготки
+sans bretelles
+без бретелек
+sans manches
+без рукавов
+la robe du soir
+вечернее платье
+long
+макси
+la robe
+платье
+le chemisier
+блузка
+le pantalon
+брюки
+décontracté
+домашняя одежда
+la lingerie
+бельё
+la bretelle
+бретелька
+le négligé
+пеньюар
+le caraco
+комбинация
+la camisole
+грация
+la guêpière
+бюстье
+la jarretelle
+подвязки
+les bas
+чулки
+le soutien-gorge
+бюстгальтер
+le slip
+трусы
+le débardeur
+майка
+la chemise de nuit
+ночная рубашка
+le mariage
+свадьба
+le voile
+фата
+la dentelle
+кружева
+le bouquet
+букет
+la traîne
+шлейф
+la robe de mariée
+свадебное платье
+le corset
+корсет
+ajusté
+кроить
+la jarretière
+подвязка
+dos-nu
+лиф завязывается на шее
+la ceinture
+пояс
+le soutien-gorge sport
+спортивный лиф
+l'épaulette
+подплечник
+à armature
+на косточках
+la casquette
+бейсболка
+le chapeau
+шляпа
+le foulard
+косынка
+la ceinture
+ремень
+la boucle
+пряжка
+la manche
+рукоятка
+la pointe
+наконечник
+le mouchoir
+носовой платок
+le noeud papillon
+галстук-бабочка
+l'épingle de cravate
+булавка для галстука
+les gants
+перчатки
+le parapluie
+зонтик
+les bijoux
+украшения
+le pendentif
+кулон
+la broche
+брошь
+le bouton de manchette
+запонки
+le rang de perles
+нитка жемчуга
+le maillon
+звено
+le fermoir (I)
+застёжка (I)
+la boucle d'oreille
+серьги
+la bague
+кольцо
+la pierre
+камень
+le bracelet
+браслет
+la chaîne
+цепочка
+le collier
+ожерелье
+la montre
+часы
+la boîte à bijoux
+футляр для украшений
+les sacs
+сумки
+le portefeuille
+портмоне
+le porte-monnaie
+кошелёк
+le sac a bandoulière
+сумка на ремне
+le fermoir (II)
+застёжка (II)
+la bretelle
+лямка
+le fourre-tout
+дорожная сумка
+la serviette
+портфель
+le sac à main
+женская сумка
+le sac à dos
+рюкзак
+les chaussures
+обувь
+le lacet
+шнурок
+la languette
+язычок
+le talon
+каблук
+l'oeillet
+глазок
+la semelle
+подошва
+la chaussure lacée
+туфли на шнуровке
+le pataugas
+ботинки для прогулок
+la basket
+кроссовки
+la chaussure de cuir
+кожаные туфли
+la tong
+вьетнамки
+la chaussure à talon
+туфли на каблуке
+la chaussure à semelle compensée
+босоножки на платформе
+la sandale
+босоножки
+le mocassin
+мокасины
+le richelieu
+мужские полуботинки
+le peigne
+расчёска
+la brosse
+щётка
+laver
+мыть
+la coiffeuse
+парикмахер (I)
+le lavabo
+раковина
+la cliente
+клиентка
+le peignoir
+пеньюар
+couper
+стричь
+rincer
+смывать
+sécher
+высушить феном
+faire une mise en plis
+укладывать
+les accessoires
+аксессуары
+le sèche-cheveux
+фен
+le shampoing
+шампунь
+le conditionneur
+кондиционер для волос
+le gel pour les cheveux
+гель
+la laque
+лак для волос
+le fer à friser
+щипцы для завивки
+les ciseaux
+ножницы
+le serre-tête
+обруч
+le bigoudi
+бигуди
+la pince à cheveux
+шпильки
+les coiffures
+причёски
+le ruban
+лента
+la queue de cheval
+хвост
+la natte
+коса
+le rouleau
+французская коса
+le chignon
+пучок
+les couettes
+хвостики
+au carré
+каре
+la coupe courte
+короткая стрижка
+frisé
+кудрявые
+la permanente
+химическая завивка
+raide
+прямые волосы
+les racines
+корни
+les reflets
+крашеные волосы
+chauve
+лысый
+la perruque
+парик
+blond
+белокурый
+châtain
+русый
+auburn
+каштановый
+roux
+рыжий
+noir
+чёрный
+gris
+седой
+blanc
+обесцвеченные
+teint
+крашенные
+la bande de cheveux
+лента для волос
+gras
+жирные
+rafraîchir
+делать прическу
+sec
+сухие
+le coiffeur
+парикмахер (II)
+normal
+нормальные
+les pellicules
+перхоть
+le cuir chevelu
+кожа головы
+les fourches
+сечёные концы
+décrêper
+выпрямлять
+la teinture de cheveux
+краска для волос
+le fard á paupières
+тени для век
+le mascara
+тушь для ресниц
+l'eye-liner
+подводка для глаз
+le fond de teint
+крем-основа
+le rouge à lèvres
+губная помада
+le maquillage
+косметика
+le crayon á sourcils
+карандаш для бровей
+la brosse à sourcils
+щёточка для бровей
+la pince à épiler
+пинцет
+le brillant à lèvres
+блеск для губ
+le pinceau à lèvres
+кисточка для губ
+le crayon à lèvres
+карандаш для губ
+le pinceau
+кисточка для лица
+le correcteur
+корректирующая помада
+le miroir
+зеркало
+la poudre
+пудра
+la houppette
+пуховка
+le poudrier
+пудреница
+les soins de beauté
+косметические процедуры
+le masque de beauté
+маска для лица
+le lit U.V.
+солярий
+le soin du visage
+уход за лицом
+exfolier
+делать эксфолиацию
+l'épilation
+эпиляция парафином
+la pédicurie
+педикюр
+les accessoires de toilette
+косметические средства
+le démaquillant
+очищающий лосьон
+le tonique
+тоник
+la crème hydratante
+увлажняющий крем
+l'autobronzant
+крем для искусственного загара
+le parfum
+духи
+l'eau de toilette
+туалетная вода
+la manicure
+маникюр
+le dissolvant
+средства для снятия лака
+la lime à ongles
+пилка
+le vernis à ongles
+лак для ногтей
+les ciseaux à ongles
+маникюрные ножницы
+le coupe-ongles
+кусачки для ногтей
+clair
+светлый
+le teint
+цвет лица
+le bronzage
+загар
+foncé
+смуглый
+sensible
+чувствительная
+le tatouage
+татуировка
+sec
+сухая
+antirides
+против морщин
+les boules de coton
+ватные тампоны
+gras
+жирная
+le ton
+тон
+hypoallergénique
+гипоаллергенный
+le mal de tête
+головная боль
+le saignement de nez
+носовое кровотечение
+la toux
+кашель
+la fièvre
+жар
+l'éternuement
+чихание
+le rhume
+простуда
+la grippe
+грипп
+l'asthme
+астма
+les crampes
+спазмы
+la nausée
+тошнота
+la varicelle
+ветряная оспа
+l'éruption
+сыпь
+la crise cardiaque
+сердечный приступ
+l'allergie
+аллергия
+l'eczéma
+экзема
+vomir
+страдать рвотой
+la diarrhée
+диарея
+l'attaque
+инсульт
+la migraine
+мигрень
+le virus
+вирус
+s'évanouir
+потерять сознание
+l'épilepsie
+эпилепсия
+la rougeole
+корь
+la tension
+кровяное давление
+le diabète
+диабет
+l'infection
+инфекция
+le mal d'estomac
+боли в животе
+le rhume des foins
+сенная лихорадка
+les oreillons
+свинка
+la consultation
+консультация
+le médecin
+врач
+la lampe de radio
+экран для просмотра рентгеновского снимка
+l'ordonnance
+рецепт
+la patiente
+пациент
+le tonomètre
+тонометр
+le stéthoscope
+стетоскоп
+le manchon
+манжет
+la toise
+ростомер
+l'infirmière
+медсестра
+la balance
+весы
+le rendez-vous
+запись к врачу
+l'inoculation
+прививка
+la salle d'attente
+приёмная
+le thermomètre
+термометр
+le cabinet
+кабинет
+l'examen médical
+медицинский осмотр
+l'entorse
+растяжение
+l'écharpe
+перевязка
+la minerve
+шейная шина
+la coupure
+порез
+l'écorchure
+ссадина
+la contusion
+ушиб
+l'écharde
+заноза
+le coup de soleil
+солнечный ожог
+la brûlure
+ожог
+la morsure
+укус
+la piqûre
+укус насекомого
+l'accident
+несчастный случай
+l'urgence
+чрезвычайная ситуация
+la blessure
+рана
+l'hémorragie
+кровотечение
+l'ampoule
+волдырь
+l'empoisonnement
+отравление
+le traumatisme crânien
+травма головы
+le choc électrique
+поражение электротоком
+la commotion cérébrale
+сотрясение мозга
+la pommade
+мазь
+le pansement (II)
+пластырь
+l'épingle de sûreté
+английская булавка
+le bandage
+бинт
+les analgésiques
+обезболивающее средство
+la trousse de premiers secours
+аптечка первой помощи
+la serviette antiseptique
+антисептическая салфетка
+la pince fine
+пинцет
+les ciseaux
+ножницы
+l'antiseptique
+антисептик
+la gaze
+марля
+le pansement (I)
+повязка
+l'attelle
+шина
+le sparadrap
+лейкопластырь
+la réanimation
+реанимация
+le choc
+шок
+le pouls
+пульс
+étouffer
+задыхаться
+sans connaissance
+без сознания
+la respiration
+дыхание
+stérile
+стерильный
+l'infirmière
+медсестра
+le chirurgien
+хирург
+la courbe
+карта пациента
+l'anesthésiste
+анестезиолог
+la salle d'opération
+операционная
+le chariot
+каталка
+le bouton d'appel
+кнопка вызова
+la salle des urgences
+отделение первой помощи
+la salle
+палата
+la chaise roulante
+кресло-коляска
+l'analyse de sang
+анализ крови
+l'injection
+инъекция
+la radio
+рентгеноскопия
+la scanographie
+компьютерная томография
+l'opération
+операция
+admis
+поступивший
+renvoyé
+выписанный
+la clinique
+клиника
+les heures de visite
+часы посещения
+la salle de pédiatrie
+детское отделение
+la maternité (I)
+родильное отделение (I)
+la chambre privée
+отдельная палата
+le service de soins intensifs
+отделение интенсивной терапии
+le malade en consultation externe
+амбулаторный пациент
+les services
+отделения
+l'O.R.L.
+отоларингология
+la cardiologie
+кардиология
+l'orthopédie
+ортопедия
+la gynécologie
+гинекология
+la kinésithérapie
+физиотерапия
+la dermatologie
+дерматология
+la pédiatrie
+педиатрия
+la radiologie
+радиология
+la chirurgie
+хирургия
+la maternité (II)
+родильное отделение (II)
+la psychiatrie
+психиатрия
+l'ophtalmologie
+офтальмология
+la neurologie
+неврология
+l'urologie
+урология
+la chirurgie esthétique
+пластическая хирургия
+la pathologie
+патология
+le résultat
+результат
+l'oncologie
+онкология
+l'endocrinologie
+эндокринология
+l'orientation d'un patient
+направление
+l'analyse
+анализ
+le spécialiste
+врач-специалист
+la dent
+зуб
+l'émail
+эмаль
+la gencive
+дёсна
+le nerf
+нерв
+la racine
+корень
+la prémolaire
+малый коренной зуб
+l'incisive
+резец
+la molaire
+коренной зуб
+la canine
+клык
+la rage de dents
+зубная боль
+la fraise
+бор
+la plaque
+зубной налёт
+le fil dentaire
+зубная нить
+la carie
+кариес
+l'extraction
+удаление
+le plombage
+пломба
+la couronne
+коронка
+la visite de contrôle
+профилактический осмотр
+la lampe
+лампа-рефлектор
+la sonde
+зонд
+le bavoir
+фартук
+le crachoir
+лоток
+le fauteuil de dentiste
+зубоврачебное кресло
+utiliser le fil dentaire
+чистить зубы нитью
+brosser
+чистить зубы щёткой
+l'appareil dentaire
+зубная пластина
+la radio dentaire
+рентген зубов
+la radio
+рентгеновский снимок
+le dentier
+зубной протез
+l'examen de la vue
+проверка зрения
+l'étui
+футляр
+le verre
+линза
+les lunettes
+очки
+les lunettes de soleil
+солнцезащитные очки
+la monture
+оправа
+la solution nettoyante
+чистящая жидкость
+la solution désinfectante
+дезинфицирующая жидкость
+l'étui à lentilles
+контейнер для контактных линз
+les lentilles de contact
+контактные линзы
+l'oeil
+глаз
+le sourcil
+бровь
+la pupille
+зрачок
+l'iris
+радужная оболочка
+la paupière
+веко
+le cil
+ресница
+la cornée
+роговица
+la rétine
+сетчатка
+le nerf optique
+зрительный нерв
+la vue
+зрение
+la dioptrie
+диоптрия
+la larme
+слеза
+la cataracte
+катаракта
+l'astigmatisme
+астигматизм
+la presbytie
+дальнозоркость
+la myopie
+близорукость
+bifocal
+бифокальные
+le maître
+тренер
+le massage
+массаж
+le shiatsu
+шиацу
+le yoga
+йога
+le tapis
+мат
+la chiropractie
+хиропрактика
+l'ostéopathie
+остеопатия
+la réflexologie
+рефлексология
+la méditation
+медитация
+le conseiller
+социопсихолог
+la thérapie de groupe
+групповая психотерапия
+le reiki
+рейки
+l'acuponcture
+иглоукалывание
+la médecine ayurvédique
+аюрведа
+l'hypnothérapie
+лечение гипнозом
+l'herboristerie
+фитотерапия
+les huiles essentielles
+эфирные масла
+l'aromathérapie
+ароматерапия
+l'homéopathie
+гомеопатия
+l'acupression
+точечный массаж
+la thérapeute
+врач
+la psychothérapie
+психотерапия
+la guérison par cristaux
+кристаллотерапия
+le feng shui
+фэн-шуй
+le stress
+стресс
+le supplément
+пищевая добавка
+l'hydrothérapie
+водолечение
+la naturopathie
+натуротерапия
+la relaxation
+релаксация
+l'herbe
+лекарственное растение
+le mur
+стена
+la gouttière
+водосток
+l'avant-toit
+карниз
+le toit
+крыша
+la cheminée
+труба
+le chien assis
+мансардное окно
+la tuile
+черепица
+le volet
+ставня
+le porche
+крыльцо
+la fenêtre
+окно
+l'agrandissement
+пристройка
+l'allée
+дорожка
+la porte d'entrée
+парадная дверь
+individuelle
+особняк
+la pavillon
+бунгало
+le garage
+гараж
+l'étage
+этаж
+l'alarme
+сигнализация
+louer
+снять дом
+mitoyenne
+смежный дом
+le sous-sol
+подвал
+le grenier
+мансарда
+la cour
+внутренний двор
+la boite aux lettres
+почтовый ящик
+attenante
+террасный дом
+la maison de deux étages
+городской дом
+la chambre
+комната
+la lampe d'entrée
+фонарь на крыльце
+le propriétaire
+владелец дома
+le locataire
+квартиросъёмщик
+l'entrée
+вход
+le vestibule
+прихожая
+la main courante
+парила
+le palier
+лестничная площадка
+la rampe
+балясина
+la sonnette
+дверной звонок
+le paillasson
+коврик
+le marteau de porte
+дверное кольцо
+la chaîne de sûreté
+цепочка
+la serrure
+замок
+le verrou
+засов
+l'appartement
+квартира
+le balcon
+балкон
+l'immeuble
+многоквартирный дом
+l'interphone
+домофон
+l'ascenseur
+лифт
+le radiateur
+батарея
+l'appareil de chauffage
+электрокамин
+l'aile
+лопасть
+le ventilateur
+вентилятор
+le convecteur
+конвектор
+l'électricité
+электричество
+le filament
+вольфрамовая нить
+l'ampoule
+электрическая лампа
+le culot à baïonnette
+цоколь
+la prise
+штепсельная вилка
+la mise à la terre
+заземление
+la broche
+штекер
+neutre
+не под напряжением
+sous tension
+под напряжением
+les fils
+электрокабель
+la tension
+напряжение
+le fusible
+плавкий предохранитель
+la prise de courant
+розетка
+le courant continu
+постоянный ток
+le transformateur
+трансформатор
+l'ampère
+ампер
+la boîte à fusibles
+электрический щиток
+l'interrupteur
+прерыватель
+le compteur d'électricité
+электросчётчик
+le réseau d'électricité
+питающая сеть
+le courant
+мощность
+la génératrice
+генератор
+le courant alternatif
+переменный ток
+la coupure de courant
+отключение электроэнергии
+la plomberie
+сантехника
+la chaudière
+бойлер
+l'arrivée
+вход
+la sortie
+выход
+l'isolation
+термоизоляция
+la soupape de sûreté
+предохранительный клапан
+le trop-plein
+водосливная трубка
+la chambre d'eau
+ёмкость для воды
+le thermostat
+термостат
+le brûleur à gaz
+газовая горелка
+le réservoir
+резервуар
+le robinet de purge
+спускной кран
+la résistance
+нагревательный элемент
+l'évier
+раковина
+le robinet
+смеситель
+la conduite d'amenée
+водопроводная труба
+le broyeur d'ordures
+грязесборник
+le tuyau d'écoulement (I)
+отводная трубка
+la manette
+ручка переключения
+le joint
+раструб
+le robinet de sectionnement
+перекрывающий вентиль
+la toilette
+туалет
+le flotteur
+поплавок
+le siège
+сиденье
+la cuvette
+унитаз
+la chasse d'eau
+сливной бачок
+le tuyau d'écoulement (II)
+сливная труба
+l'enlèvement de déchets
+уборка мусора
+la boîte à déchets recyclables
+мусорный контейнер
+la bouteille
+бутылка
+la poubelle
+мусорное 	ведро
+la pédale
+педаль
+le couvercle
+крышка
+la boîte de tri
+сортировочный контейнер
+les déchets bios
+органические отходы
+le tableau
+картина
+le cadre
+рама
+la lampe
+настольная лампа
+la pendule
+часы
+l'applique
+светильник
+le miroir
+зеркало
+le vase
+ваза
+la tablette de cheminée
+каминная полка
+la cheminée
+камин
+le garde-feu
+экран
+la bougie
+свеча
+le sol
+пол
+la table basse
+журнальный столик
+le coussin
+диванная подушка
+le canapé
+диван
+la vitrine
+сервант
+le plafond
+потолок
+le bureau
+кабинет
+le tapis
+ковёр
+le canapé-lit
+диван-кровать
+la bibliothèque
+книжная полка
+la moulure
+лепнина
+le fauteuil
+кресло
+le rideau
+портьера
+le brise-bise
+тюлевая занавеска
+le store vénitien
+жалюзи
+le store
+штора
+la table
+стол
+le poivre
+перец
+le sel
+соль
+la chaise
+стул
+le dossier
+спинка стула
+le siège
+сиденье
+le pied
+ножка стула
+les couverts
+столовый прибор
+la vaisselle
+посуда
+servir
+подавать
+le napperon
+салфетка (I)
+le repas
+обед (I)
+rassasié
+сытый
+l'invité
+гость
+manger
+есть
+le petit déjeuner
+завтрак
+avoir faim
+голодный
+la portion
+порция
+l'hôtesse
+хозяйка
+mettre la table
+накрывать на стол
+la nappe
+скатерть
+le dîner
+ужин
+le déjeuner
+обед (II)
+l'hôte
+хозяин
+la grande tasse
+кружка
+la tasse à café
+кофейная чашка
+la tasse à thé
+чайная чашка
+la cuiller à café
+чайная ложка
+l'assiette
+мелкая тарелка
+le bol
+глубокая тарелка
+la cafetière
+кофейник
+la théière
+заварочный чайник
+le pot
+кувшин
+le coquetier
+подставка для яйца
+le verre
+стакан
+le verre à vin
+бокал
+la verrerie
+стеклянная посуда
+le couvert
+столовые приборы
+le rond de serviette
+кольцо для салфетки
+la serviette
+салфетка (II)
+l'assiette à dessert
+пирожковая тарелка
+la fourchette
+вилка
+l'assiette plate
+порционная тарелка
+l'assiette à soupe
+суповая тарелка
+la cuiller à soupe
+столовая ложка
+la cuiller
+десертная ложка
+le couteau
+нож
+l'étagère
+полки
+le revêtement
+защитная панель
+le robinet
+кран
+l'évier
+раковина
+le tiroir
+ящик
+la hotte
+вытяжка
+la table de cuisson céramique
+керамическая конфорка
+le plan de travail
+рабочая поверхность
+le four
+духовка
+le placard
+шкаф для посуды
+les appareils ménagers
+кухонная техника
+le micro-ondes
+микроволновая печь
+la bouilloire électrique
+электрический чайник
+le grille-pain
+тостер
+le robot ménager
+кухонный комбайн
+le bol du mixeur
+чаша
+la lame
+нож
+le mixeur
+блендер
+le couvercle
+крышка
+le lave-vaisselle
+посудомоечная машина
+le freezer
+отделение для льда
+le congélateur
+морозильная камера
+le réfrigérateur-congélateur
+холодильник с морозильной камерой
+le bac à légumes
+отделение для овощей
+la clayette
+полка
+le frigidaire
+холодильник
+la table de cuisson
+конфорка
+l'égouttoir
+сушилка
+le brûleur
+горелка
+la poubelle
+мусорное ведро
+décongeler
+размораживать
+cuire à la vapeur
+готовить на пару
+sauter
+тушить
+la cuisine
+приготовление пищи
+éplucher
+очистить
+couper
+нарезать
+râper
+натереть
+verser
+влить
+mélanger
+смешать
+battre
+взбить венчиком
+bouillir
+варить
+frire
+жарить
+abaisser à rouleau
+раскатать
+remuer
+помешивать
+mijoter
+томить
+pocher
+бланшировать
+cuire au four
+выпекать
+rôtir
+запекать
+griller
+готовить на гриле
+la planche à hacher
+разделочная доска
+le couteau de cuisine
+кухонный нож
+le couteau à pain
+нож для хлеба
+le fendoir
+секач
+l'aiguisoir
+ножеточка
+l'écrase-viande
+молоток для мяса
+la broche
+шампур
+l'épluche-légumes
+картофелечистка
+le vide-pomme
+приспособление для удаления сердцевины яблок
+la râpe
+тёрка
+le mortier
+ступка
+le presse-purée
+толкушка
+l'ouvre-boîte
+консервный нож
+l'ouvre-bouteille
+открывалка
+le presse-ail
+чесночница
+la cuiller à servir
+сервировочная ложка
+la truelle
+лопатка для рыбы
+la passoire (I)
+дуршлаг
+la spatule
+лопатка
+la cuiller en bois
+деревянная ложка
+l'écumoire
+шумовка
+la louche
+половник
+la fourchette à découper
+разделочная вилка
+la cuiller à glace
+порционный совочек
+le fouet
+венчик
+la passoire (II)
+сито
+la poêle
+сковорода
+la casserole
+кастрюля
+le gril
+сковорода для гриля
+anti-adhérent
+антипригарное покрытие
+le wok
+вок
+le fait-tout
+керамический горшочек
+le grand bol
+миска
+le moule à soufflé
+форма для суфле
+le plat à gratin
+форма для запеканки
+le ramequin
+порционная формочка
+la cocotte
+жаропрочная кастрюля
+la pâtisserie
+выпечка
+la balance
+весы
+le pot gradué
+мерная кружка
+le moule à gâteaux
+форма для торта
+la tourtière
+форма для пирога
+le moule à tarte
+форма для сладкого пирога
+le pinceau à pâtisserie
+кондитерская щёточка
+le rouleau pâtissier
+скалка
+la poche à douille
+кондитерский мешочек
+le moule à muffins
+противень для булочек
+la plaque à gâteaux
+противень
+la grille de refroidissement
+подставка для охлаждения
+le gant isolant
+прихватка
+le tablier
+фартук
+l'armoire
+гардероб
+la lampe de chevet
+лампа
+la tête de lit
+спинка кровати
+la table de nuit
+прикроватная тумбочка
+la commode
+комод
+le tiroir
+ящик
+le lit
+кровать
+le matelas
+матрас
+le couvre-lit
+покрывало
+l'oreiller
+подушка
+le sol
+пол
+la coiffeuse
+туалетный столик
+le miroir
+зеркало
+la bouillotte
+грелка
+le radio-réveil
+часы-радио
+le réveil
+будильник
+la boîte de kleenex
+коробка с бумажными салфетками
+le cintre
+вешалка для одежды
+le linge de lit
+постельное бельё
+la taie d'oreiller
+наволочка
+le drap
+простыня
+la frange de lit
+подзор
+la couette
+пуховое одеяло
+l'édredon
+стеганое одеяло
+la couverture
+шерстяное одеяло
+le lit simple
+односпальная кровать
+le grand lit
+двуспальная кровать
+la couverture chauffante
+электрическое одеяло
+le pied de lit
+изножье
+le ressort
+пружина
+le tapis
+ковёр
+l'insomnie
+бессонница
+se coucher
+ложиться спать
+s'endormir
+заснуть
+se réveiller
+просыпаться
+se lever
+вставать
+faire le lit
+застилать кровать
+ronfler
+храпеть
+l'armoire encastrée
+встроенный гардероб
+mettre le réveil
+завести будильник
+la baignoire
+ванна
+le bidet
+биде
+la bonde
+пробка
+le lavabo
+раковина
+le porte-serviettes
+вешалка для полотенец
+la porte de douche
+створка душевой кабины
+le robinet d'eau froide
+кран холодной воды
+le robinet d'eau chaude
+кран горячей воды
+le pommeau de douche
+насадка душа
+la douche
+душевая кабина
+le tuyau d'écoulement
+водосток
+le siège des toilettes
+сиденье унитаза
+les toilettes
+унитаз
+la brosse
+туалетный ёршик
+la pharmacie de ménage
+аптечка
+le tapis de bain
+коврик для ванной
+le rouleau de papier hygiénique
+туалетная бумага
+le rideau de douche
+занавеска для душа
+prendre une douche
+принять душ
+prendre une bain
+принимать ванну
+l'hygiène dentaire
+гигиена полости рта
+la brosse á dents
+зубная щётка
+le fil dentaire
+зубная нить
+le dentifrice
+зубная паста
+l'eau dentifrice
+полоскание для рта
+le luffa
+губка (I)
+l'éponge
+губка (II)
+la pierre ponce
+пемза
+la brosse pour le dos
+щётка для спины
+le déodorant
+дезодорант
+le porte-savon
+мыльница
+le gel douche
+гель для душа
+le savon
+мыло
+la crème pour le visage
+крем для лица
+le bain moussant
+пена для ванны
+la serviette
+полотенце для рук
+la serviette de bain
+банное полотенце
+les serviettes
+полотенца
+la lotion pour le corps
+лосьон для тела
+le talc
+тальк
+le peignoir
+банный халат
+le rasage
+бритьё
+le rasoir électrique
+электробритва
+la mousse raser
+пена для бритья
+le rasoir jetable
+одноразовая бритва
+la lame de rasoir
+бритвенное лезвие
+l'after-shave
+лосьон после бритья
+les soins de bébé
+уход за ребёнком
+la crème pour l'érythème
+крем против сыпи
+la serviette humide
+гигиенические салфетки
+l'éponge
+губка
+la baignoire en plastique
+детская ванночка
+le pot
+горшок
+le matelas à langer
+пеленальный матрац
+le matelas
+матрас
+le lit d'enfant
+кроватка
+le mobile
+подвесные погремушки
+les barreaux
+прутья кроватки
+le protège-barreaux
+защитный буфер
+le drap
+простыня
+la couverture
+одеяло
+la literie
+постель
+le hochet
+погремушка
+le moïse
+переносная колыбель
+la poupée
+кукла
+le jouet en peluche
+мягкая игрушка
+la maison de poupée
+кукольный домик
+la maison pliante
+игровой домик
+l'ours en peluche
+медвежонок
+le jouet
+игрушка
+le panier à jouets
+корзина для игрушек
+la balle
+мяч
+le parc
+манеж
+la serrure de sécurité
+детский замок
+la moniteur
+переговорное устройство
+la barrière d'escalier
+ограждение лестницы
+la chaise haute
+высокий стул
+la tétine
+соска
+la tasse
+поильник
+le biberon
+бутылочка
+la capote
+откидной верх коляски
+la poussette
+прогулочная коляска
+le landau
+коляска
+la couche
+подгузник
+le couffin
+переносная кроватка
+le sac
+переносная сумка
+le porte-bébé
+кенгуру
+le linge
+стирка
+le linge sale
+грязное бельё
+le panier à linge (I)
+корзина для грязного белья
+le lave-linge
+стиральная машина
+le lave-linge séchant
+стиральная машина с сушкой
+le sèche-linge
+сушильная машина
+le panier à linge (II)
+бельевая корзина
+la pince à linge
+прищепка
+sécher
+сушить
+la corde à linge
+бельевая верёвка
+la planche à repasser
+гладильная доска
+le fer à repasser
+утюг
+charger
+загружать
+essorer
+отжимать
+rincer
+полоскать
+l'essoreuse
+центрифуга
+l'équipement d'entretien
+принадлежности для уборки
+le tuyau flexible
+всасывающий шланг
+l'aspirateur
+пылесос
+le seau
+ведро
+le balai laveur
+швабра
+la poudre
+порошок
+la pelle
+совок
+la balayette
+щётка
+l'eau de Javel
+отбеливатель
+le détergent
+моющие средства
+le liquide
+жидкость
+le chiffon
+тряпка для пыли
+la cire
+полироль
+nettoyer
+чистить
+laver
+мыть
+essuyer
+вытирать
+laver à la brosse
+чистить щёткой
+racler
+скрести
+balayer
+подметать
+épousseter
+вытирать пыль
+la scie sauteuse
+электропила
+la perceuse rechargeable
+аккумуляторная дрель
+la pile
+отделение для батареек
+la perceuse électrique
+электродрели
+le mandrin
+держатель
+le pistolet à colle
+клеевой пистолет
+la ponceuse
+шлифовальный станок
+l'étau
+тиски
+le serre-joint
+струбцина
+la scie circulaire
+циркулярная пила
+la lame
+диск
+l'établi
+верстак
+la colle à bois
+столярный клей
+la guimbarde
+грунтгебель (шпунтгебель)
+les copeaux
+стружка
+le porte-outils
+стеллажи для инструментов
+le vilebrequin
+коловорот
+le prolongateur
+удлинитель
+découper
+резать
+scier
+пилить
+percer
+сверлить
+marteler
+забивать
+la soudure
+припой
+sculpter
+вырезать
+tourner
+точить
+raboter
+строгать
+les matériaux
+материалы
+le médium
+мдф плита
+le contreplaqué
+фанера
+l'aggloméré
+ДСП
+l'isorel
+двп
+le bois tendre
+мягкая древесина
+le bois
+древо
+le bois dur
+твёрдая древесина
+le vernis
+лак
+la couleur pour bois
+морилка
+le fil de fer
+проволока
+le câble
+кабель
+l'inox
+нержавеющая сталь
+galvanisé
+оцинкованное железо
+le métal
+металл
+la clef (II)
+гаечный ключ
+la clef à molette
+разводной ключ
+le marteau
+молоток
+la pince plate
+пассатижи
+la clef à pipe
+торцевой ключ
+le niveau
+ватерпас
+le joint
+шайба
+l'écrou
+гайка
+la clef (I)
+ключ
+la pince universelle
+плоскогубцы
+la douille
+насадки
+le couteau
+нож
+le mètre
+рулетка
+le tournevis
+отвёртка
+les embouts de tournevis
+насадки для отвёртки
+les forêts
+сверла для дрели
+le forêt à métaux
+сверло по металлу
+l'alésoir
+развёртка
+les forêts de bois
+столярные сверла
+le forêt à bois plat
+перо
+le tournevis cruciforme
+крестовая отвёртка
+la tête
+шляпка гвоздя
+le clou
+гвоздь
+la vis
+шуруп
+le foret de sécurité
+защитная насадка
+la foret de maçonnerie
+сверла по камню
+la pince à dénuder
+торцевые кусачки
+le fer à souder
+паяльник
+la pince coupante
+кусачки
+le ruban isolant
+изоляционная лента
+le scalpel
+скальпель
+la soudure
+припой
+la scie à chantourner
+лобзик
+les lunettes de sécurité
+защитные очки
+le rabot
+рубанок
+la scie égoïne
+ножовка
+la boîte à onglets
+усорез
+la perceuse manuelle
+ручная дрель
+la paille de fer
+проволочная мочалка
+la scie à métaux
+ножовка по металлу
+le papier de verre
+наждачная бумага
+le burin
+долото
+la lime
+напильник
+la pierre à aiguiser
+точильный камень
+le coupe-tube
+труборез
+la ventouse
+вантуз
+la clef serre-tube
+газовый ключ
+le papier peint
+обои
+le tapissier décorateur
+мастер
+l'escabeau
+стремянка
+la brosse à tapisser
+обойная щётка
+la table à encoller
+стол для обоев
+la brosse à encoller
+щётка для клея
+la colle à tapisser
+обойный клей
+le seau
+ведро
+les ciseaux
+ножницы
+le cutter
+резак
+le fil à plomb
+отвес
+le grattoir
+скребок
+décoller
+обдирать
+mastiquer
+шпаклевать
+poncer
+затирать
+plâtrer
+штукатурить
+poser
+клеить обои
+carreler
+класть кафель
+peindre
+красить
+le rouleau
+валик
+la brosse
+кисть
+le pot de peinture
+ведро с краской
+les bleus
+спецовка
+la couverture de protection
+защитное покрытие
+le bac à peinture
+лоток для краски
+l'éponge
+губка
+le papier cache
+маскирующая лента
+le papier de verre
+наждачная бумага
+le mastic (I)
+шпатлёвка
+spirit le white-spirit
+растворитель (I)
+la térébenthine
+скипидар
+brillant
+глянцевый
+mat
+матовый
+la peinture mate
+водоэмульсионная краска
+le pochoir
+трафарет
+le papier gaufré
+тисненые обои
+l'apprêt
+грунтовка
+la couche de fond
+первичная грунтовка
+la dernière couche
+завершающий слой
+l'agent de conservation
+защитный слой
+le mastic (II)
+раствор (цементный)
+le solvant
+растворитель (II)
+l'enduit
+уплотнитель
+les styles de jardin
+виды садов
+le patio
+сад во внутреннем дворике
+le jardin sur le toit
+сад на крыше
+la rocaille
+альпийская горка
+le jardin à la française
+регулярный парк
+la cour
+сад во дворе
+le jardin paysan
+сад в сельском стиле
+le jardin d'herbes aromatiques
+травяной сад
+le jardin d'eau
+декоративный пруд
+le panier suspendu
+подвесной вазон
+le treillis
+шпалера
+la pergola
+арка (I)
+le pavé
+мощеный участок
+l'allée
+дорожка
+le tas de compost
+компостная куча
+le portail
+ворота
+la cabane
+сарай
+la serre
+теплица
+la clôture
+забор
+la bordure de plantes herbacées
+цветочный бордюр
+le potager
+огород
+l'arceau
+арка (II)
+la haie
+живая изгородь
+le bassin
+пруд
+la pelouse
+газон
+le parterre
+клумба
+les planches
+настил
+la fontaine
+фонтан
+le sol
+почва
+la terre
+верхний слой
+le sable
+песок
+la chaux
+известняк
+le vase
+сапропель
+l'argile
+глина
+annuel
+однолетнее
+bisannuel
+двулетнее
+vivace
+многолетнее
+le bulbe
+луковичное
+la fougère
+папоротник
+le jonc
+камыш
+le bambou
+бамбук
+les mauvaises herbes
+сорняки
+l'herbe (II)
+травы
+la plante aquatique
+водные растения
+l'arbre
+дерево
+le palmier
+пальма
+le conifère
+хвойное
+á feuilles persistantes
+вечнозелёное
+á feuilles caduques
+лиственное
+la topiaire
+фигурно подстриженные деревья
+la plante alpestre
+альпийское растение
+la plante grasse
+суккулент
+le cactus
+кактус
+la plante grimpante
+вьющееся растение
+la plante en pot
+горшечное растения
+la plante d'ombre
+тенелюбивое растение
+l'arbuste à fleurs
+цветущий кустарник
+la couverture du sol
+покрытие
+la plante rampante
+ползучее растение
+ornemental
+декоративное растение
+l'herbe (I)
+трава
+la bêche
+лопата
+la grande cisaille
+кусторез
+le balai à gazon
+лёгкие грабли
+le râteau
+грабли
+la houe
+тяпка
+la tondeuse à gazon
+газонокосилка
+le sac à herbe
+мешок для травы
+le moteur
+мотор
+la tondeuse
+триммер
+l'écran de protection
+щиток
+la brouette
+садовая тачка
+le support
+подставка
+le bras
+ручка
+le panier de jardinier
+корзинка садовника
+la petite fourche
+вилка
+le sécateur
+секатор
+les gants de jardinage
+садовые перчатки
+le déplantoir
+совок
+la lame
+лезвие
+le germoir
+ящик для рассады
+les cannes
+колышки
+la ficelle
+бечёвка
+les étiquettes
+бирки
+les attaches
+проволочная подвязка
+les anneaux
+кольцевая подвязка
+la cisaille
+садовые ножницы
+la scie à main
+ножовка
+le pesticide
+пестициды
+le tamis
+сито
+le pot à fleurs
+цветочный горшок
+les bottes
+резиновые сапоги
+le vaporisateur
+пульверизатор
+l'arroseur
+дождевальная установка
+le dévidoir de tuyau
+рукавная катушка
+le jet
+наконечник
+le tuyau d'arrosage
+шланг
+la pomme
+разбрызгиватель
+l'arrosoir
+лейка
+tondre
+стричь газон
+la pelouse
+газон
+le parterre
+клумба
+la tondeuse
+газонокосилка
+la haie
+живая изгородь
+le tuteur
+колышек
+gazonner
+дерновать
+piquer
+прокалывать
+ratisser
+рыхлить
+tailler
+подстригать
+bêcher
+копать
+semer
+сеять
+fumer en surface
+удобрять (I)
+arroser
+поливать
+palisser
+направлять рост
+enlever les fleurs fanées
+удалять отцветшие бутоны
+asperger
+опрыскивать
+greffer
+прививать растения
+propager
+размножать
+la coupe
+черенок
+élaguer
+обрезать дерево
+transplanter
+пересаживать
+désherber
+полоть
+pailler
+мульчировать
+récolter
+собирать урожай
+cultiver
+культивировать
+dessiner
+оформлять
+fertiliser
+удобрять (II)
+tamiser
+просеивать
+biologique
+органический
+le semis
+рассада
+le sous-sol
+подпочва
+soigner
+ухаживать
+mettre en pot
+сажать в горшок
+cueillir
+собирать
+retourner
+аэрировать
+l'engrais
+удобрение
+le drainage
+дренаж
+l'herbicide
+гербицид
+l'ambulance
+скорая помощь
+l'infirmier du SAMU
+фельдшер
+le brancard
+носилки
+la police
+полиция
+le policier
+полицейский
+le badge
+значок полицейского
+l'uniforme
+форма
+la matraque
+резиновая дубинка
+les menottes
+наручники
+la voiture de police
+полицейская машина
+la sirène
+сирена
+les feux
+проблесковый маячок
+le poste de police
+полицейский участок
+le crime
+преступление
+le cambriolage
+ограбление
+la plainte
+жалоба
+l'arrestation
+арест
+l'officier de police
+детектив
+l'agression
+оскорбление действием
+l'enquête
+расследование
+la cellule
+КПЗ
+l'inspecteur
+инспектор
+les empreintes
+отпечатки пальцев
+le suspect
+подозрение
+l'accusation
+обвинение
+les pompiers
+пожарная команда
+l'incendie
+пожар
+la fumée
+дым
+la nacelle
+люлька
+la flèche
+стрела крана
+le tuyau
+брандспойт
+le casque
+каска
+les sapeurs-pompiers
+пожарные
+le jet d'eau
+водомёт
+l'échelle
+пожарная лестница (I)
+la cabine
+кабина
+le poste d'incendie
+пожарная часть
+l'escalier de secours
+пожарная лестница (II)
+la voiture de pompiers
+пожарная машина
+le détecteur de fumée
+дымовая сигнализация
+l'avertisseur d'incendie
+пожарная сигнализация
+la hache
+багор
+l'extincteur
+огнетушитель
+la borne d'incendie
+гидрант
+le caissier
+кассир
+le guichet
+окошко
+le client
+клиент
+les dépliants
+буклет
+le comptoir
+стойка
+les fiches de versement
+платёжные бланки
+le directeur d'agence
+менеджер банка
+la carte de crédit
+кредитная карточка
+la carte bancaire
+дебетовая карточка
+le carnet de chèques
+чековая книжка
+le talon
+корешок квитанции
+le numéro de compte
+номер счёта
+la signature
+подпись
+le montant
+сумма
+le chèque
+чек
+le prêt
+заём
+l'impôt
+налог
+l'épargne
+сбережения
+l'hypothèque
+ипотека
+le taux d'intérêt
+процентная ставка
+le découvert
+превышение кредита
+le paiement
+выплата
+le prélèvement
+списание в безакцептном порядке
+la fiche de retrait
+расходный ордер
+verser
+вносить на счёт
+le virement bancaire
+банковский перевод
+les frais bancaire
+банковские комиссионные
+le compte courant
+текущий счёт
+le compte d'épargne
+сберегательный счёт
+le code secret
+пин-код
+la pièce
+монета
+l'argent
+деньги
+le billet
+банкнота
+le distributeur
+банкомат
+le clavier
+клавиатура
+l'écran
+экран
+la fente
+прорезь для карточки
+les devises étrangères
+иностранная валюта
+le bureau de change
+обменный пункт
+le traveller
+дорожный чек
+le taux de change
+обменный курс
+la conseillère financière
+финансовый консультант
+la bourse
+фондовая биржа
+le prix des actions
+цена акции
+l'agent de la bourse
+биржевой маклер
+encaisser
+обналичить
+les actions
+акций
+la valeur
+деноминация
+les dividendes
+дивиденды
+la commission
+комиссионные
+l'action
+акция без фиксированного дивиденда
+l'investissement
+инвестиции
+le portefeuille
+портфель ценных бумаг
+les titres
+ценные бумаги
+le comptable
+бухгалтер
+la poste
+почтовое отделение
+le postier
+почтовый работник
+le guichet (I)
+окошко
+la balance
+весы
+le guichet (II)
+стойка
+l'enveloppe
+конверт
+l'adresse
+адрес
+le tampon de la poste
+почтовый штемпель
+le timbre
+марка
+le code postal
+почтовый индекс
+le facteur
+почтальон
+la lettre
+письмо
+l'expéditeur
+обратный адрес
+la distribution
+доставка
+fragile
+хрупкий
+ne pas plier
+не сгибать
+par avion
+авиапочтой
+la signature
+подпись
+le tarif d'affranchissement
+почтовые расходы
+le sac postal
+сумка почтальона
+dessus
+этой стороной вверх
+l'envoi en recommandé
+заказное письмо
+la levée
+выемка писем
+le mandat postal
+почтовый перевод
+le télégramme
+телеграмма
+le fax
+факс
+la boîte aux lettres (I)
+почтовый ящик
+la boîte aux lettres (II)
+ящик для писем
+le colis
+посылка
+le service de messagerie
+курьер
+le téléphone
+телефон
+le combiné (II)
+трубка (I)
+la base
+база
+le téléphone sans fil
+беспроводной телефон
+le répondeur
+автоответчик
+le visiophone
+видеофон
+la cabine téléphonique
+телефонная будка
+le portable
+мобильный телефон
+le clavier
+клавиатура
+le téléphone à pièces
+монетный таксофон
+le rendu de monnaie
+возврат монет
+le combiné (I)
+трубка (II)
+le téléphone à carte
+карточный таксофон
+les renseignements
+телефонный справочник
+répondre
+ответить
+le téléphoniste
+оператор
+le P.C.V.
+звонок за счёт вызываемого абонента
+occupé
+линия занята
+composer
+набрать номер
+le message vocal
+голосовое сообщение
+coupé
+связь прервана
+le hall
+вестибюль
+la réception
+рецепция
+le client
+постоялец
+la clef de la chambre
+ключ от номера
+les messages
+сообщения
+le casier
+ячейка для корреспонденции
+la réceptionniste
+портье
+le registre
+книга записи постояльцев
+le comptoir
+стойка регистрации
+le porteur
+носильщик
+les bagages
+багаж
+le diable
+тележка
+l'ascenseur
+лифт
+le numéro de chambre
+номер комнаты
+les chambres
+номер
+la chambre simple
+номер на одного
+la chambre double
+номер на двоих
+la chambre à deux lits
+двухместный номер
+la salle de bain privée
+отдельная ванная
+le service de ménage
+горничная
+le service de blanchisserie
+прачечная
+le service d'étage
+обслуживание в номер
+le plateau à petit déjeuner
+поднос с завтраком
+le minibar
+мини-бар
+le restaurant
+ресторан
+la salle de sport
+гимнастический зал
+la piscine
+бассейн
+la pension complète
+полный пансион
+la demi-pension
+полупансион
+la chambre avec le petit déjeuner
+ночлег и завтрак
+l'atrium
+атриум
+l'enseigne
+вывеска
+l'ascenseur
+лифт
+le client
+покупатель
+le rez-de-chaussée
+цокольный этаж
+l'escalier mécanique
+эскалатор
+le premier étage
+первый этаж
+le deuxième étage
+второй этаж
+le rayon enfants
+отдел детских товаров
+le service après-vente
+обслуживание покупателей
+les cabines d'essayage
+примерочные
+le rayon bagages
+отдел сумок
+le guide
+справочная служба
+les soins de bébés
+комната матери и ребёнка
+le rayon chaussures
+обувной отдел
+le vendeur
+продавец
+les vêtements pour hommes
+мужская одежда
+les vêtements pour femmes
+женская одежда
+la lingerie
+женское бельё
+la parfumerie
+парфюмерия
+la beauté
+косметика
+le linge de maison
+постельное бельё
+l'ameublement
+мебель
+la mercerie
+галантерея
+la vaisselle
+товары для кухни
+la porcelaine
+фарфор
+l'électroménager
+электротовары
+l'éclairage
+светильники
+les articles de sport
+спорттовары
+la papeterie
+канцтовары
+l'alimentation
+продукты
+l'allée
+проход
+l'étagère
+полка
+le tapis roulant
+транспортёр
+le caissier
+кассир
+les promotions
+спецпредложения
+le client
+покупатель
+la caisse
+кассовый аппарат
+le sac à provisions
+пластиковый пакет
+le caddie
+тележка
+les provisions
+бакалейные продукты
+l'anse
+ручка
+le code-barres
+штрихкод
+le lecteur optique
+сканер
+la boulangerie
+хлебо-булочные изделия
+la crémerie
+молочные продукты
+les conserves
+консервы
+la confiserie
+кондитерские изделия
+les légumes
+овощи
+les fruits
+фрукты
+la viande et la volaille
+мясо и птица
+le poisson
+рыба
+la charcuterie
+гастрономия
+les produits surgelés
+замороженные продукты
+les plats cuisinés
+готовые блюда
+les boissons
+напитки
+les produits d'entretien
+хозяйственные товары
+les articles de toilette
+туалетные принадлежности
+les articles pour bébés
+товары для младенцев
+l'électroménager
+электротовары
+la nourriture pour animaux
+корм для животных
+les magazines
+журналы
+le soin dentaire
+средства для ухода за зубами
+l'hygiène féminine
+средства женской гигиены
+les déodorants
+дезодоранты
+les cachets de vitamines
+витамины
+l'officine
+лекарства
+le pharmacien
+фармацевт
+le médicament pour la toux
+лекарство от кашля
+l'herboristerie
+лекарственные травы
+les soins de la peau
+средства для ухода за кожей
+l'écran solaire
+солнцезащитный крем
+l'après-soleil
+крем после загара
+l'écran total
+крем с УФ-фильтром
+le produit anti-insecte
+репеллент от насекомых
+la serviette humide
+влажные салфетки
+le kleenex
+бумажные салфетки
+la capsule
+капсулы
+la pilule
+таблетки
+le sirop
+сироп
+la cuiller pour mesurer
+мерная ложечка
+l'inhalateur
+ингалятор
+le mode d'emploi
+инструкция
+la crème
+крем
+la pommade
+мазь
+le gel
+гель
+le suppositoire
+свечи
+les gouttes
+капли
+la seringue
+шприц
+le spray
+спрей
+la poudre
+порошок
+le fer
+железо
+le médicament multivitamine
+поливитамины
+soluble
+растворимый
+le laxatif
+слабительное
+l'analgésique
+болеутоляющее
+le calcium
+кальций
+les effets secondaires
+побочный эффект
+la posologie
+дозировка
+la diarrhée
+диарея
+le sédatif
+успокоительное
+le magnésium
+магний
+la date d'expiration
+срок годности
+la médication
+лечение
+le médicament
+лекарство
+le somnifère
+снотворное
+l'insuline
+инсулин
+les cachets antinaupathiques
+таблетки против укачивания
+jetable
+одноразовый
+la pastille pour la gorge
+пастилки от боли в горле
+l'anti-inflammatoire
+противовоспалительное
+les fleurs
+цветы
+le lis
+лилия
+l'acacia
+акация
+l'oeillet
+гвоздика
+la plante en pot
+цветы в горшках
+le glaïeul
+гладиолус
+l'iris
+ирис
+la marguerite
+маргаритка
+le chrysanthème
+хризантема
+la gypsophile
+гипсофила
+la giroflée
+левкой
+le gerbera
+гербера
+le feuillage
+листья
+la rose
+роза
+le freesia
+фрезия
+l'orchidée
+орхидея
+la pivoine
+пион
+la jonquille
+нарцисс
+la tige
+стебель
+la botte
+пучок
+la tulipe
+тюльпан
+le bourgeon
+бутон
+l'emballage
+обёртка
+les compositions florales
+аранжировка
+le ruban
+лента
+le bouquet
+букет
+les fleurs séchées
+сухие цветы
+le pot-pourri
+смесь из сухих цветов
+la couronne
+венок
+la guirlande de fleurs
+гирлянда
+les cigarettes
+сигареты
+le paquet de cigarettes
+пачка сигарет
+les allumettes
+спички
+les billets de loterie
+лотерейные билеты
+la carte postale
+почтовая карточка
+les timbres
+марки
+la bande dessinée
+комикс
+le magazine
+журнал
+le journal
+газета
+le tabac
+табак
+le briquet
+зажигалка
+la pipe
+трубка
+le fourneau
+чашечка
+le tuyau
+мундштук
+le cigare
+сигара
+la confiserie (II)
+кондитерский магазин
+la boîte de chocolats
+коробка шоколадных конфет
+les chips
+чипсы
+le caramel
+карамель
+le biscuit
+печенье
+la truffe
+трюфель
+le chocolat blanc
+белый шоколад
+le chocolat au lait
+молочный шоколад
+les bonbons assortis
+конфеты ассорти
+le chocolat noir
+горький шоколад
+la confiserie (I)
+кондитерские изделия
+le chocolat
+шоколад
+la tablette de chocolat
+плитка шоколада
+les bonbons
+леденцы
+la sucette
+леденец на палочке
+le caramel au beurre
+ирис
+le nougat
+нуга
+la guimauve
+пастила
+le bonbon à la menthe
+мятные пастилки
+le chewing-gum
+жевательная резинка
+la dragée à la gelée
+желейный мармелад
+le bonbon au fruit
+фруктовые конфеты
+le réglisse
+лакрица
+la boulangerie
+булочная
+la pâtisserie
+кондитерская
+la boucherie
+мясной магазин
+la poissonnerie
+рыбный магазин
+le marchand de légumes
+овощной магазин
+l'épicerie
+бакалея
+le magasin de chaussures
+обувной магазин
+la quincaillerie
+хозяйственный магазин
+le magasin d'antiquités
+антикварный магазин
+la boutique de cadeaux
+магазин подарков
+l'agence de voyage
+туристическое агентство
+la bijouterie
+ювелирный магазин
+la librairie
+книжный магазин
+le magasin de disques
+музыкальный магазин
+le magasin de vins et spiritueux
+винный магазин
+l'animalerie
+зоомагазин
+le magasin de meubles
+мебельный магазин
+la boutique
+бутик
+le tailleur
+ателье
+le salon coiffure
+парикмахерская
+le marché
+рынок
+la laverie automatique
+прачечная
+le magasin d'appareils photos
+фотомагазин
+la pépinière
+товары для сада и огорода
+le magasin bio
+магазин здоровой пищи
+le pressing
+химчистка
+la boutique d'art
+художественный салон
+l'agent immobilier
+агентство недвижимости
+le marchand d'occasion
+комиссионный магазин
+l'agneau
+баранина
+le bacon
+корейка
+les saucisses
+колбаски
+le foie
+печень
+la balance
+весы
+le fusil
+точила для ножей
+l'allonge
+мясной крюк
+le boucher
+мясник
+le porc
+свинина
+la venaison
+оленина
+les abats
+потроха
+de ferme
+деревенское
+la viande rouge
+красное мясо
+le boeuf
+говядина
+le lapin
+крольчатина
+salé
+солёное
+naturel
+натуральное
+la viande maigre
+постное мясо
+le veau
+телятина
+la langue de boeuf
+язык
+fumé
+копчёное
+la viande blanche
+белое мясо
+la viande cuite
+готовое мясо
+la tranche
+ломтик
+le jambon
+окорок
+la couenne
+шкурка
+la tranche de lard
+свиная корейка
+la viande hachée
+фарш
+le filet
+вырезка
+le rumsteck
+задняя часть
+le bifteck d'aloyau
+филейный край
+la côte de boeuf
+грудинка
+le gras
+жир
+l'os
+кость
+la côtelette
+отбивная 	котлета
+le gigot
+баранья нога
+le coeur
+сердце
+la volaille
+птица
+la dinde
+индейка
+la peau
+кожа
+le blanc
+грудка
+la cuisse (II)
+бедро
+le poulet
+курица
+l'aile
+крыло
+le poulet préparé
+потрошеная курица
+le canard
+утка
+l'oie
+гусь
+le faisan
+фазан
+la cuisse (I)
+ножка
+la caille
+перепел
+la poissonnerie
+рыбный прилавок
+la glace
+лёд
+les crevettes décortiquées
+очищенные креветки
+le rouget barbet
+барабулька
+les filets de flétan
+филе палтуса
+la truite arc-en-ciel
+радужная форель
+les ailes de raie
+крылья ската
+la lotte
+морской чёрт
+le maquereau
+скумбрия
+la truite
+форель
+l'espadon
+рыба-меч
+la sole
+морской язык
+la limande-sole
+камбала европейская
+l'aiglefin
+пикша
+la sardine
+сардина
+la raie
+скат
+le merlan
+мерлан
+le bar
+морской окунь
+le saumon
+лосось
+la morue
+треска
+la daurade
+дорада
+le thon
+тунец
+les fruits de mer
+морепродукты
+la coquille Saint-Jacques
+морской гребешок
+le homard
+омар
+la crevette
+королевские креветки
+la moule
+мидии
+le crabe
+краб
+l'huître
+устрица
+l'écrevisse
+рак
+la coque
+сердцевидка
+la pieuvre
+осьминог
+la seiche
+каракатица
+le calamar
+кальмар
+le clam
+съедобные моллюски
+surgelé
+мороженая
+préparé
+потрошеная
+fumé
+копчёная
+écaillé
+без чешуи
+en filets
+разделанная на филе
+salé
+солёная
+sans peau
+без кожи
+l'arête
+кость
+le filet
+филе
+frais
+свежая
+la tranche
+стейк
+la queue
+хвост
+l'écaille
+чешуя
+la longe
+спинка
+la fève
+столовый боб
+le haricot grimpant
+фасоль длинностручковая
+la graine
+фасолина
+le haricot vert
+фасоль зелёная (французская)
+le petit pois
+зелёный горошек
+le germe de soja
+проростки соевых бобов
+le bambou
+бамбук
+l'okra
+окра
+la gousse (I)
+стручок
+le maïs
+кукуруза
+l'endive
+цикорий
+le fenouil
+фенхель
+les coeurs de palmier
+сердцевины пальмы
+le céleri
+сельдерей
+la feuille
+лист
+la fleurette
+цветок
+la pointe
+верхушка
+biologique
+экологически чистый
+le trognon
+стебель
+le grain
+семя
+le coeur
+сердцевина
+le sac en plastique
+пластиковый мешок
+la roquette
+руккола
+le cresson
+кресс водяной
+le radicchio
+радичио
+le chou de Bruxelles
+брюссельская капуста
+la bette
+мангольд
+le chou frisé
+капуста листовая
+l'oseille
+щавель
+la chicorée
+цикорий-эндивий
+le pissenlit
+одуванчик
+les épinards
+шпинат
+le chou-rave
+кольраби
+le chou chinois
+китайская капуста
+la laitue
+салат-латук
+le brocoli
+брокколи
+le chou
+капуста белокочанная
+le chou précoce
+капуста весенняя
+les légumes
+овощи
+la pomme de terre
+картофель
+le chou-fleur
+цветная капуста
+l'artichaut
+артишок
+le radis
+редис
+le navet
+репа
+la courge
+кабачок
+le piment
+перец чили
+le poivron
+болгарский перец
+l'oignon
+репчатый лук
+la tomate cerise
+томаты-черри
+surgelé
+замороженный
+amer
+горький
+la carotte
+морковь
+le taro
+корень таро
+cru
+сырой
+ferme
+жёсткий
+le fruit de l'arbre à pain
+плод хлебного дерева
+la châtaigne d'eau
+водяной каштан
+épicé
+острый
+la pulpe
+мякоть
+la pomme de terre nouvelle
+молодой картофель
+le manioc
+маниока
+sucré
+сладкий
+la racine
+корень
+la patate douce
+батат
+l'igname
+ямс
+la betterave
+свёкла
+le rutabaga
+брюква
+le topinambour
+топинамбур
+le raifort
+хрен
+le panais
+пастернак
+le gingembre
+имбирь
+l'aubergine
+баклажан
+la tomate
+помидор
+la ciboule
+зеленый лук
+le poireau
+лук-порей
+l'échalote
+лук шалот
+l'ail
+чеснок
+la gousse (II)
+зубчик
+le champignon
+гриб
+la truffe
+трюфель
+le concombre
+огурец
+la courgette
+цукини
+la courge musquée
+тыква-горлянка
+la courge gland
+тыква желудеобразная
+la citrouille
+тыква обычная
+l'orange
+апельсин
+la clémentine
+клемантин
+le pamplemousse
+грейпфрут
+la peau blanche
+кожура (I)
+le tangelo
+танжело
+la satsuma
+сацума
+le quartier
+долька
+la mandarine
+мандарин
+le citron vert
+лайм
+le zeste
+цедра
+le citron
+лимон
+le kumquat
+кумкват
+les fruits à noyau
+косточковые
+la pêche
+персик
+la nectarine
+нектарина
+l'abricot
+абрикос
+la prune
+слива
+la cerise
+вишня
+la poire
+груша
+la pomme
+яблоко
+la corbeille de fruits
+корзина фруктов
+la framboise
+малина
+la mûre
+ежевика
+la groseille
+красная смородина
+la canneberge
+клюква
+le cassis
+чёрная смородина
+la myrtille
+черника
+la groseille blanche
+белая смородина
+la loganberry
+логановая ягода
+la groseille à maquereau
+крыжовник
+le melon
+дыня
+les raisins
+виноград
+la pastèque
+арбуз
+l'écorce
+корка
+le pépin
+семечко
+la pulpe (II)
+мякоть (I)
+sucré
+сладкий
+aigre
+кислый
+croquant
+хрустящий
+sans pépins
+бес косточек
+la fibre
+клетчатка
+frais
+свежий
+pourri
+гнилой
+juteux
+сочный
+la rhubarbe
+ревень
+le jus
+сок
+la pulpe (I)
+мякоть (II)
+le trognon
+сердцевина
+le fruit
+фрукты
+la mangue
+манго
+l'avocat
+авокадо
+l'ananas
+ананас
+la papaye
+папайя
+le litchi
+личи
+le kiwi
+киви
+le physalis
+физалис
+le coing
+айва
+le fruit de la passion
+маракуйя
+la banane
+банан
+la peau
+кожура (II)
+la goyave
+гуайява
+la grenade
+гранат
+le kaki
+хурма
+le feijoa
+фейхоа
+la figue de Barbarie
+фига кактусовая
+la carambole
+карамбола
+le mangoustan
+мангостан
+le pignon
+кедровый орех
+la pistache
+фисташка
+la noix de cajou
+кешью
+la cacahouète
+арахис
+la noisette
+фундук
+la noix du Brèsil
+бразильский орех
+la noix pacane
+пекан
+l'amande
+миндаль
+la noix
+грецкий орех
+le marron
+каштан
+le macadamia
+макадама
+la figue
+инжир
+la datte
+финик
+le pruneau
+чёрнослив
+le raisin de Smyrne
+кишмиш
+le raisin sec
+изюм
+le raisin Corinthe
+коринка
+la noix de coco
+кокос
+la coquille
+скорлупа
+vert
+зелёный
+dur
+твёрдый
+salé
+солёный
+grillé
+жареный
+les fruits tropicaux
+тропический фрукт
+décortiqué
+лущеный
+mûr
+спелый
+mou
+мягкий
+séché
+сушёный
+cru
+сырой
+de saison
+сезонный
+le fruit confit
+засахаренный фрукт
+complet
+цельный
+les céréales
+злаки
+le blé
+пшеница
+l'avoine
+овес
+l'orge
+ячмень
+le millet
+просо
+le maïs
+кукуруза
+le quinoa
+квиноа
+sec
+сухое
+frais
+свежее
+à grains ronds
+круглозернистый
+la balle
+шелуха
+parfumé
+ароматизированное
+complet
+цельное зерно
+le grain
+зерно
+laisser tremper
+вымачивать
+à grains longs
+длиннозёрнистый
+la graine
+семя
+la céréale
+каша
+facile à cuisiner
+легко готовить
+le riz
+рис
+le riz blanc
+белый рис
+le riz complet
+коричневый рис
+le riz sauvage
+дикий рис
+le riz rond
+круглый рис
+les céréales traitées
+крупы
+le couscous
+кускус
+le blé écrasé
+перловая крупа
+la semoule
+манная крупа
+le son
+отруби
+les gros haricots blancs
+крупная белая фасоль
+les haricots blancs
+белая фасоль
+les haricots rouges
+красная фасоль
+les adzukis
+фасоль адзуки
+les graines de soja
+соя-бобы
+les haricots à oeil noir
+фасоль «чёрный глаз»
+les haricots pinto
+пёстрая фасоль
+les haricots mungo
+бобы мунг
+les flageolets
+флажоле
+les lentilles
+чечевица коричневая
+les lentilles rouges
+чечевица красная
+les petits pois
+зелёный горох
+les pois chiches
+нут
+les pois cassés
+лущеный горох
+les graines
+семена
+la graine de potiron
+тыквенное семя
+la graine de moutarde
+горчичное семя
+la graine de carvi
+тмин
+la graine de sésame
+кунжут
+la graine de tournesol
+семя подсолнечника
+les épices
+пряности
+la vanille
+ваниль
+la noix de muscade
+мускатный орех (I)
+le macis
+мускатный цвет
+le curcuma
+куркума
+le cumin
+тмин римский
+le bouquet garni
+смесь пряностей
+le poivre de la Jamaïque
+душистый перец
+le grain de poivre
+чёрный перец горошком
+le fenugrec
+шамбала
+le piment
+перец чили
+le safran
+шафран
+la cardamome
+кардамон
+la poudre de curry
+карри порошок
+le paprika
+красный перец
+l'ail
+чеснок
+en flocons
+хлопья
+en poudre
+молотый
+écrasé
+толчёный
+en morceaux
+цельный
+les herbes
+травы
+les bâtons
+палочки
+la cannelle
+корица
+la citronnelle
+сорго лимонное
+le clou de girofle
+гвоздика
+l'anis étoilé
+звездчатый анис
+le gingembre
+имбирь
+le fenouil
+фенхель
+les graines de fenouil
+семена фенхеля
+la feuille de laurier
+лавровый лист
+le persil
+петрушка
+la ciboulette
+лук резанец
+la menthe
+мята
+le thym
+тимьян
+la sauge
+шалфей
+l'estragon
+эстрагон
+la marjolaine
+майоран
+le basilic
+базилик
+l'origan
+душица
+la coriandre
+кориандр
+l'aneth
+укроп
+le romarin
+розмарин
+les huiles
+масла
+l'huile d'amande
+миндальное масло
+l'huile de noix
+масло грецкого ореха
+l'huile de pépins de raisin
+масло из виноградных косточек
+le bouchon
+пробка
+l'huile de tournesol
+подсолнечное масло
+l'huile de sésame
+кунжутное масло
+l'huile de noisette
+масло фундука
+l'huile d'olive
+оливковое масло
+les herbes
+травы
+l'huile parfumée
+ароматизированное масло
+les produits à tartiner
+сладкие пасты
+la pâte à tartiner au citron
+лимонный крем
+la confiture de framboises
+малиновый джем
+le pot
+банка
+la confiture d'oranges
+апельсиновый конфитюр
+le miel liquide
+жидкий мёд
+le gâteau de miel
+медовые соты
+le miel solide
+твёрдый мёд
+le sirop d'érable
+кленовый сироп
+les condiments
+приправы и соусы
+le vinaigre
+уксус
+la mayonnaise
+майонез
+le chutney
+чатни
+le vinaigre de cidre
+яблочный уксус
+le vinaigre de malt
+солодовый уксус
+le vinaigre balsamique
+бальзамический уксус
+le vinaigre de vin
+винный уксус
+le ketchup
+кетчуп
+la bouteille
+бутылка
+la sauce
+соус
+la moutarde anglaise
+горчица английская
+la moutarde française
+горчица французская
+la moutarde en grains
+зернистая горчица
+le beurre de cacahouètes
+арахисовая паста
+la pâte à tartiner au chocolat
+шоколадная паста
+les fruits en bocaux
+консервированные фрукты
+le bocal scellé
+герметичная банка
+l'huile végétale
+растительное масло
+l'huile de maïs
+кукурузное масло
+l'huile de colza
+рапсовое масло
+l'huile d'arachide
+арахисовое масло
+l'huile pressée à froid
+масло холодного отжима
+le fromage
+сыры
+la croûte
+корка
+le bleu
+сыр блю
+le fromage à pâte molle
+мягкий сыр
+fromage à la crème
+полумягкий сыр
+le fromage frais
+невыдержанный сыр
+le fromage à pâte semi-molle
+сливочный сыр
+le cottage
+творог
+le fromage à pâte pressée cuite
+твёрдый сыр
+le fromage râpé
+тёртый сыр
+le fromage à pâte pressée non cuite
+полутвёрдый сыр
+le lait
+молоко
+le lait entier
+цельное молоко
+le lait de vache
+коровье молоко
+le lait demi-écrémé
+полужирное молоко
+le lait écrémé
+обезжиренное молоко
+le carton de lait
+пакет молока
+le lait de chèvre
+козье молоко
+le lait condensé
+сгущённое молоко
+le beurre
+сливочное масло
+la margarine
+маргарин
+la crème
+сливки
+la crème allégée
+нежирные сливки
+la crème épaisse
+жирные сливки
+la crème fouettée
+взбитые сливки
+la crème fraîche
+сметана
+le yaourt
+йогурт
+la glace
+мороженое
+les oeufs
+яйца
+l'oeuf á la coque
+вареное яйцо
+le coquetier
+подставка для яиц
+le jaune d'oeuf
+желток
+le blanc d'oeuf
+белок
+la coquille
+скорлупа
+l'oeuf d'oie
+гусиное яйцо
+l'oeuf de poule
+куриное яйцо
+l'oeuf de cane
+утиное яйцо
+l'oeuf de caille
+перепелиное яйцо
+pasteurisé
+пастеризованное
+sans matières grasses
+обезжиренное
+salé
+солёный
+le lait de brebis
+овечье молоко
+le lactose
+лактоза
+le milk-shake
+молочный коктейль
+non pasteurisé
+непастеризованное
+le lait en poudre
+сухое молоко
+non salé
+несолёный
+le babeurre
+пахта
+homogénéisé
+восстановленное
+le yaourt surgelé
+замороженный йогурт
+la boulangerie
+булочная
+le pain tranché
+нарезанный хлеб
+les graines de pavot
+мак
+le pain de seigle
+ржаной хлеб
+la baguette
+багет
+faire du pain
+выпекание хлеба
+la farine blanche
+белая мука
+la farine complète
+ржаная мука
+la farine brute
+мука грубого помола
+la levure
+дрожжи
+tamiser
+просеивать
+mélanger
+смешивать
+pétrir
+месить
+la pâte
+тесто
+faire cuire au four
+выпекать
+le pain blanc
+белый хлеб
+la croûte
+корка
+le pain bis
+чёрный хлеб
+le pain
+буханка
+le pain de son
+серый хлеб
+le pain complet
+зерновой хлеб
+le pain de maïs
+кукурузный хлеб
+le pain au bicarbonate de soude
+хлеб на соде
+le pain au levain
+хлеб на закваске
+le pain plat
+лепёшка
+le petit pain américain
+бублик
+le petit pain rond
+булочка
+le petit pain
+булочка плетёная
+le pain aux raisins secs
+хлеб с изюмом
+le pain aux graines
+хлеб с семенами
+le naan
+наан
+la pita
+пита
+la farine avec la levure
+мука с дрожжами
+se lever
+подниматься
+lever
+бродить
+la chapelure
+хлебные крошки
+la machine à couper
+хлеборезка
+la farine traitée
+обогащенная мука
+la farine sans levure
+мука без дрожжей
+glacer
+глазировать
+la flûte
+бороздка
+le boulanger
+пекарь
+l'éclair
+эклер
+la crème
+крем
+la garniture
+начинка
+la pâte à choux
+профитроль
+la pâte feuilletée
+песочное печенье
+la pâte phyllo
+слоёное пирожное
+le cake
+фруктовый кекс
+la tarte aux fruits
+фруктовая корзиночка
+la meringue
+безе
+enrobé de chocolat
+облитый шоколадом
+le muffin
+маффин
+la madeleine
+бисквит
+les gâteaux
+пирожные
+la crème pâtissière
+кондитерский крем
+le petit gâteau
+булочка с изюмом
+la pâte
+выпечка
+le riz au lait
+рисовый пудинг
+le gâteau au chocolat
+шоколадный торт
+la crème anglaise
+ванильный пудинг
+la tranche
+кусок
+la fête
+торжество
+les pépites de chocolat
+шоколадная крошка
+les biscuits
+печенье
+le florentine
+флорентийское печенье
+le diplomate
+бисквит с фруктовым желе и взбитыми сливками
+les boudoirs
+бисквитные палочки
+la mousse
+мусс
+le sorbet
+щербет
+la tarte à la crème
+пирожное с кремом
+la crème caramel
+крем-карамель
+les gâteaux de fête
+праздничные торты
+le gâteau de mariage
+свадебный торт
+la pâte d'amandes
+марципан
+l'étage inférieur
+нижний слой
+l'étage supérieur
+верхний слой
+le ruban
+лента
+le glaçage
+глазурь сахарная
+la décoration
+украшение
+souffler
+задуть
+à l'huile
+растительное масло
+le saucisson piquant
+колбаса пикантная
+le vinaigre
+уксус
+le salami
+салями
+le pepperoni
+пепперони
+le pâté
+паштет
+le comptoir
+прилавок
+la viande non cuite
+парное мясо
+la quiche
+киш
+les pâtés en croûte
+пирожки
+la viande cuite
+запечённое мясо
+le jambon
+ветчина
+le comptoir sandwichs
+прилавок сэндвичей
+l'olive verte
+зелёные оливки
+le petit pain
+булочка
+l'olive noire
+чёрные маслины
+la mozzarella
+моццарелла
+le brie
+бри
+le fromage de chèvre
+сыр козий
+le cheddar
+чеддер
+le parmesan
+пармезан
+le camembert
+камамбер
+l'édam
+эдам
+la croûte
+корка
+le manchego
+манчего
+le poisson fumé
+копчёная рыба
+les câpres
+каперсы
+le prosciutto
+сырокопчёная ветчина
+le chorizo
+чоризо
+l'olive fourrée
+фаршированные оливки
+l'eau minérale
+минеральная вода
+l'eau en bouteille
+бутилированная вода
+gazeux
+газированная
+non gazeux
+негазированная
+le soda
+содовая вода
+le tonic
+тоник
+l'eau du robinet
+водопроводная вода
+les boissons chaudes
+горячие напитки
+le sachet de thé
+пакетик чая
+les feuilles de thé
+листовой чай
+le thé
+чай
+le café
+кофе
+les grains
+зерна
+le café moulu
+молотый кофе
+le chocolat chaud
+горячий шоколад
+la boisson maltée
+солодовый напиток
+les boissons non alcoolisées
+безалкогольные напитки
+le jus de tomate
+томатный сок
+le jus de raisin
+виноградный сок
+la paille
+соломинка
+la limonade
+лимонад
+l'orangeade
+оранжад
+le coca
+къола
+les boissons alcoolisées
+алкогольные напитки
+le gin
+джин
+la bière
+пиво
+la boîte
+банка
+le cidre
+сидр
+la bière anglaise
+горькое пиво
+la bière brune
+тёмное пива
+la vodka
+водка
+le whisky
+виски
+le rhum
+ром
+le brandy
+бренди
+le porto
+портвейн
+le sherry
+херес
+sec
+сухой
+le Campari
+кампари
+le vin rosé
+розовое вино
+le vin blanc
+белое вино
+le vin rouge
+красное вино
+le vin
+вино
+la liqueur
+ликёр
+la téquila
+текила
+le champagne
+шампанское
+la terrasse de café (II)
+терраса кафе
+le menu
+меню
+l'auvent
+тент
+la terrasse de café (I)
+уличное кафе
+le parasol
+зонтик
+le snack
+закусочная
+le serveur
+официант
+le percolateur
+кофеварка
+le café
+кофе
+le café filtre
+фильтрованный кофе
+le crème
+кофе с молоком
+le noir
+чёрный кофе
+le cappuccino
+капучино
+le chocolat en poudre
+порошок какао
+la mousse
+пена
+le café glacé
+кофе гляссе
+le thé
+чай
+le thé au lait
+чай с молоком
+le thé nature
+чёрный чай
+la tisane
+травяной чай
+la camomille
+ромашковый чай
+le thé vert
+зелёный чай
+le thé au citron
+чай с лимоном
+l'infusion de menthe
+мятный чай
+le thé glacé
+чай со льдом
+le jus d'orange
+апельсиновый сок
+le jus de pomme
+яблочный сок
+le jus d'ananas
+ананасовый сок
+le jus de tomate
+томатный сок
+le milk-shake au chocolat
+шоколадный молочный коктейль
+le milk-shake à la fraise
+клубничный молочный коктейль
+le milk-shake au café
+кофейный молочный коктейль
+la nourriture
+еда
+le sandwich grillé
+горячий бутерброд
+le pain bis
+ржаной хлеб
+la salade
+салат
+la glace
+мороженое
+la boule
+шарик
+la pâtisserie
+выпечка
+les verres
+стаканы
+la mesure
+мерная посуда
+la caisse
+касса
+le barman
+бармен
+la pompe à bière
+пивной кран
+le percolateur
+кофеварка
+le seau à glace
+ведёрко для льда
+le tabouret de bar
+барный стул
+le cendrier
+пепельница
+le dessous de verre
+подставка
+le comptoir
+барная стойка
+le tire-bouchon
+штопор
+l'ouvre-bouteille
+открывалка для бутылок
+le levier
+рычаг
+le shaker à cocktails
+шейкер
+les pinces
+щипцы
+l'agitateur
+мешалка
+le verre gradué
+мерка
+le gin tonic
+джин с тоником
+le scotch à l'eau
+виски с содовой
+le pichet
+кувшин
+le rhum coca
+ром с колой
+le glaçon
+кубик льда
+la vodka à l'orange
+водка с апельсиновым соком
+le martini
+мартини
+le cocktail
+коктейль
+le vin
+вино
+la bière
+пиво
+un coup
+стопка
+simple
+одинарная
+double
+двойная
+sans glaçons
+без льда
+avec des glaçons
+со льдом
+citron et glaçons
+со льдом и лимоном
+les amuse-gueules
+лёгкая закуска
+les chips
+чипсы
+les noix
+орешки
+les amandes
+миндаль
+les noix de cajou
+кешью
+les cacahouètes
+арахис
+les olives
+оливки
+la cuisine
+кухня
+le chef de cuisine
+шеф-повар
+le commis
+младший повар
+la serviette
+салфетка
+la partie non-fumeurs
+секция для некурящих
+le couvert
+сервировка стола
+le garçon
+официант
+le plateau
+поднос
+le verre
+бокал
+le menu du déjeuner
+обеденное меню
+les spécialités
+фирменные блюда
+le prix
+цена
+le pourboire
+чаевые
+le buffet
+шведский стол
+le sel
+соль
+le menu du soir
+вечернее меню
+le reçu
+квитанция
+le bar
+бар
+le client
+клиент
+le poivre
+перец
+la carte des vins
+винная карта
+le plateau à desserts
+блюдо десертов
+l'addition
+счёт
+service compris
+обслуживание включено
+service non compris
+обслуживание не включено
+la partie fumeurs
+зоны для курящих
+la carte
+меню
+le menu d'enfant
+детское меню
+commander
+заказывать
+payer
+платить
+les plats
+блюда
+l'apéritif
+аперитив
+l'entrée
+закуска
+la soupe
+суп
+le plat principal
+основное блюдо
+l'accompagnement
+гарнир
+le dessert
+десерт
+la fourchette
+вилка
+le café
+кофе
+la cuiller à café
+кофейная ложка
+le hamburger avec des frites
+гамбургер с картофелем фри
+le plateau
+поднос
+la serviette en papier
+бумажная салфетка
+les frites
+картофель фри
+la boisson non-alcoolisée
+безалкогольный напиток
+la paille
+соломинка
+le hamburger (II)
+гамбургер (I)
+la livraison à domicile
+доставка на дом
+la pizza
+пицца
+le tarif
+прейскурант
+le marchand de hot-dogs
+уличный лоток
+la pizzeria
+пиццерия
+la restauration rapide
+закусочная
+la carte
+меню
+manger sur place
+есть на месте
+à emporter
+брать на вынос
+réchauffer
+подогревать
+le ketchup
+томатный кетчуп
+le hamburger (I)
+гамбургер (II)
+le hamburger au poulet
+куриный гамбургер
+le hamburger végétarien
+вегетарианский гамбургер
+le hot-dog
+хот-дог
+la moutarde
+горчица
+la saucisse
+сосиска
+le sandwich
+сэндвич
+le sandwich mixte
+клубный сэндвич
+le taco
+лепёшка с начинкой
+la sauce
+соус
+le kébab
+шашлык
+les crêpes
+блинчики
+salé
+пикантный
+sucré
+сладкий
+le poisson avec des frites
+рыба с жареным картофелем
+les côtes
+рёбра
+le poulet frit
+жареный цыплёнок
+le buffet du petit déjeuner
+завтрак - шведский стол
+le lait
+молоко
+les céréales
+сухой завтрак
+la confiture
+джем
+les fruits secs
+сухофрукты
+le jambon
+ветчина
+le fromage
+сыр
+le biscuit scandinave
+хрустящие хлебцы
+la table du petit déjeuner
+стол накрытый для завтрака
+le jus de fruit
+фруктовый сок
+le café
+кофе
+le croissant
+круассан
+les boissons
+напитки
+le chocolat chaud
+горячий шоколад
+le thé
+чай
+la brioche
+бриошь
+le pain
+хлеб
+le petit déjeuner anglais
+английский завтрак
+l'oeuf sur le plat
+яичница
+le toast
+тост
+la tomate
+помидор
+le boudin
+кровяная колбаса
+la saucisse
+сосиска
+le bacon
+бекон
+les kippers
+копчёная селёдка
+le pain perdu
+французские тосты
+l'oeuf à la coque
+вареное яйцо
+le jaune d'oeuf
+желток
+les oeufs brouillés
+омлет
+les crêpes
+блины
+les gaufres
+вафли
+le porridge
+каша
+les fruits
+свежие фрукты
+le potage
+суп
+le bouillon
+бульон
+le ragoût
+густой суп
+le curry
+карри
+le rôti
+жаркое
+la tourte
+пирог
+le soufflé
+суфле
+les boulettes de viande
+фрикадельки
+l'omelette
+омлет
+le sauté
+соте
+les nouilles
+лапша
+les pâtes
+макаронные изделия
+le riz
+рис
+la salade composée
+смешанный салат
+la salade verte
+зелёный салат
+la vinaigrette
+заправка для салата
+farci
+фаршированный
+en sauce
+под соусом
+grillé
+на гриле
+mariné
+в маринаде
+poché
+яичница-глазунья
+en purée
+пюре
+cuit
+запечённый
+sauté
+обжаренный
+frit (I)
+жареный
+macéré
+маринованный
+fumé
+копчёный
+frit (II)
+жареный во фритюре
+au sirop
+в сиропе
+assaisonné
+заправленный
+cuit à la vapeur
+сварённый на пару
+séché
+вяленый
+l'institutrice
+учитель
+le tableau
+классная доска
+la salle de classe
+классная комната
+l'écolier
+школьник
+l'élève
+ученик
+le pupitre
+парта
+la craie
+мел
+l'écolière
+школьница
+l'uniforme
+школьная форма
+le cartable
+портфель
+la géographie
+география
+l'art
+искусство
+la physique
+физика
+la littérature
+литература
+la musique
+музыка
+la chimie
+химия
+les langues
+языки
+les mathématiques
+математика
+la biologie
+биология
+les sciences
+наука
+l'éducation physique
+физкультура
+lire
+читать
+écrire
+писать
+épeler
+произносить по буквам
+dessiner
+рисовать
+le rétroprojecteur
+проекционный аппарат
+le stylo
+ручка
+la plume
+перо
+le crayon
+карандаш
+le crayon de couleur
+цветной карандаш
+le taille-crayon
+точилка для карандашей
+le cahier
+тетрадь
+le livre
+учебник
+la trousse
+пенал
+la règle
+линейка
+la gomme
+ластик
+questionner
+спрашивать
+répondre
+отвечать
+discuter
+обсуждать
+apprendre
+изучать
+le directeur
+директор школы
+la note
+оценка
+la leçon
+урок
+l'examen
+экзамен
+la classe
+учебный год
+la rédaction
+сочинение
+l'encyclopédie
+энциклопедия
+prendre des notes
+записывать
+les devoirs
+домашнее задание
+le dictionnaire
+словарь
+les formes
+фигуры
+l'arc
+дуга
+le centre
+центр
+la circonférence
+окружность
+le diamètre
+диаметр
+le cercle
+круг
+le rayon
+радиус
+l'ovale
+овал
+la diagonale
+диагональ
+le carré
+квадрат
+le rectangle
+прямоугольник
+le triangle
+треугольник
+l'angle
+угол
+l'hypoténuse
+гипотенуза
+le parallélogramme
+параллелограмм
+le rhombe
+ромб
+le trapèze
+трапеция
+le pentagone
+пятиугольник
+l'hexagone
+шестиугольник
+l'octogone
+восьмиугольник
+les solides
+тела
+le cône
+конус
+le cylindre
+цилиндр
+le cube
+куб
+le côté
+грань
+la pyramide
+пирамида
+le sommet
+вершина
+la sphère
+шар
+les lignes
+линии
+droit
+прямая
+parallèle
+параллельные
+perpendiculaire
+перпендикулярные
+courbe
+кривая
+les mesures
+измерения
+le volume
+объём
+la fraction
+дробь
+le numérateur
+числитель
+le dénominateur
+знаменатель
+les dimensions
+размеры
+la hauteur
+высота
+la profondeur
+глубина
+l'aire
+площадь
+la largeur
+ширина
+la longueur
+длина
+l'équerre
+угольник
+le rapporteur
+транспортир
+la règle
+линейка
+le compas
+циркуль
+la calculatrice
+калькулятор
+la géométrie
+геометрия
+plus
+плюс
+fois
+раз
+égale
+равный
+additionner
+складывать
+multiplier
+умножать
+l'équation
+уравнение
+l'arithmétique
+арифметика
+moins
+минус
+divisé par
+делённый на
+soustraire
+вычитать
+diviser
+делить
+le pourcentage
+процент
+le laboratoire
+лаборатория
+la balance
+весы
+la balance à ressort
+безмен
+le poids
+гирька
+le trépied
+треножник
+le creuset
+тигель
+le bec Bunsen
+спиртовая горелка
+la bouteille
+флакон
+l'entonnoir
+воронка
+la fiole
+колба
+l'expérience
+эксперимент
+le statif
+штатив
+le bouchon
+пробка
+la pince (II)
+зажим (I)
+le support
+подставка
+l'éprouvette
+пробирка
+le chronomètre
+хронометр
+la boîte de Pétri
+чашка Петри
+le thermomètre
+термометр
+la seringue
+шприц
+la pince fine
+пинцет
+la pipette
+пипетка
+la pince (I)
+щипцы
+la spatule
+шпатель
+le mortier
+ступа
+le pilon
+пестик
+le papier filtre
+фильтровальная бумага
+les lunettes de protection
+защитные очки
+le bécher
+лабораторная посуда
+la tige de verre
+стеклянная палочка
+l'aimant
+магнит
+la pince crocodile
+зажим "крокодильчик"
+la pile
+батарейка
+l'électrode négative
+отрицательный электрод
+l'électrode positive
+положительный электрод
+le microscope
+микроскоп
+le miroir
+зеркало
+le porte-objet
+предметное стекло
+la platine
+предметный столик
+la lentille de l'objectif
+линзы объектива
+le bouton de mise au point
+ручка фокусировки
+l'oculaire
+окуляр
+le secrétariat
+деканат
+le restaurant universitaire
+столовая
+le service de santé
+оздоровительный комплекс
+le terrain de sport
+стадион
+la résidence universitaire
+общежитие
+la bibliothèque
+библиотека
+la revue
+журнал
+le périodique
+периодика
+les rayons
+книжная полка
+le service de prêt
+стол библиотекаря
+la bibliothécaire
+библиотекарь
+la carte de lecteur
+читательский билет
+les renseignements
+требование
+renouveler
+обновлять
+la salle de lecture
+читальный зал
+emprunter
+брать (книгу)
+le livre
+книга
+les ouvrages recommandés
+список литературы
+réserver
+заказывать
+le titre
+заглавие
+date la date de retour
+дата возврата
+le prêt
+взять на время
+le couloir
+проход
+l'étudiant
+студент
+l'assistant
+лектор
+la salle de cours
+аудитория
+la cérémonie de la remise des diplômes
+церемония вручения дипломов
+la licenciée
+выпускник
+la robe
+мантия
+l'école des beaux arts
+художественная школа
+le modèle
+модель
+le Conservatoire
+музыкальная школа
+l'école de danse
+школа танца
+la bourse
+стипендия
+la recherche
+исследования
+la dissertation
+экзаменационная работа
+la médecine
+медицина
+l'histoire d'art
+искусствоведение
+le diplôme
+диплом
+la maîtrise
+магистр
+l'UFR
+факультет
+la zoologie
+зоология
+les sciences politiques
+политика
+de troisième cycle
+аспирант
+le doctorat
+докторская степень
+les études d'ingénieur
+инженерное дело
+la physique
+физика
+la littérature
+литература
+la licence
+степень
+la thèse
+дисертация
+le droit
+юриспруденция
+les sciences économiques
+экономика
+le bureau (I)
+офис
+le moniteur
+монитор
+le porte-crayon
+настольный органайзер
+le classeur
+скоросшиватель
+la corbeille arrivée
+лоток для входящих документов
+la corbeille départ
+лоток для исходящих документов
+le clavier
+клавиатура
+le téléphone
+телефон
+le bureau (II)
+письменный стол
+la corbeille à papier
+корзина для мусора
+l'ordinateur
+компьютер
+la chaise tournante
+вращающийся стул
+le tiroir
+ящик
+le meuble-classeur
+картотечный шкаф
+l'étiquette (I)
+бирка
+le carnet
+записная книжка
+l'équipement de bureau
+офисное оборудование
+l'imprimante
+принтер
+le magasin à papier
+лоток для бумаги
+le fax (I)
+факс (аппарат)
+le fax (II)
+факс (сообщение)
+le guide
+направляющие
+imprimer
+распечатывать
+photocopier
+копировать
+agrandir
+увеличивать
+réduire
+уменьшать
+les fournitures de bureau
+канцелярские принадлежность
+l'en-tête
+бланк письма
+la fiche compliments
+поздравительная открытка
+l'enveloppe
+конверт
+le dossier-classeur
+картотечный ящик
+le clipboard
+планшет с зажимом
+le bloc-notes
+блокнот
+le dossier suspendu
+подвесная папка
+l'étiquette (II)
+классификационная карточка
+le porte-dossiers
+файловая папка
+la fiche intercalaire
+разделитель
+le classeur à levier
+папка с рычажным зажимом
+l'agenda (II)
+ежедневник (I)
+l'agrafeuse
+степлер
+les agrafes
+скобки
+le dévidoir de scotch
+держатель для липкой ленты
+le perforateur
+дырокол
+le cachet
+печать
+le tampon encreur
+штемпельная подушка
+l'élastique
+резинка
+la pince à dessin
+зажим для бумаг
+le trombone
+скрепка
+le panneau d'affichage
+доска объявлений
+la punaise
+кнопка
+la réunion
+совещание
+le tableau à feuilles mobiles
+перекидной блокнот
+le compte rendu
+протокол
+le chevalet
+пюпитр
+le rapport
+доклад
+le directeur
+директор
+la proposition
+проект
+le cadre
+исполнитель
+la présentation
+презентация
+le projecteur
+проектор
+le conférencier
+докладчик
+la salle de conférence
+зал заседаний
+assister à
+присутствовать
+l'ordre du jour
+повестка дня
+présider
+председательствовать
+les affaires
+бизнес
+le déjeuner d'affaires
+деловой завтрак
+le portable
+ноутбук
+les notes
+заметки
+le voyage d'affaires
+командировка
+l'homme d'affaires
+бизнесмен
+la femme d'affaires
+бизнес-леди
+l'agenda (I)
+ежедневник (II)
+le rendez-vous
+деловая встреча
+l'ordinateur de poche
+электронная записная книжка
+le contrat
+сделка
+le client
+клиент
+le directeur général
+генеральный директор
+la société
+фирма
+le personnel
+персонал
+la comptabilité
+бухгалтерия
+le service du contentieux
+юридический отдел
+le service de ressources humaines
+отдел кадров
+le service marketing
+служба маркетинга
+le livre de paie
+платёжная ведомость
+le siège social
+центральный офис
+la succursale
+филиал
+le salaire
+зарплата
+le service des ventes
+отдел продаж
+le service après-vente
+отдел обслуживания клиентов
+l'imprimante
+принтер
+le moniteur
+монитор
+l'écran
+экран
+l'unité centrale
+системный блок
+le scanneur
+сканер
+le haut-parleur
+динамик
+la touche
+клавиша
+le clavier
+клавиатура
+la souris
+мышка
+le matériel
+устройства
+le disque
+дискета
+le portable
+ноутбук
+le disque dur
+жёсткий диск
+le modem
+модем
+le système
+система
+le logiciel
+программное обеспечение
+le serveur
+сервер
+les bytes
+байты
+l'application
+приложение (I)
+le port
+порт
+la mémoire
+память
+le programme
+программа
+le processeur
+процессор
+la RAM
+оперативная память
+le réseau
+сеть
+le câble électrique
+силовой кабель
+le bureau
+рабочий стол
+la barre de menus
+меню
+la police
+шрифт
+l'icône
+иконка
+la barre de défilement
+прокрутка
+la fenêtre
+окно
+le papier peint
+обои рабочего стола
+la barre d'outils
+панель инструментов
+le fichier
+файл
+le dossier
+папка
+la poubelle
+корзина
+l'internet
+интернет
+naviguer
+просматривать
+le navigateur
+браузер
+le site web
+веб-сайт
+l'adresse de courrier électronique
+электронный адрес
+la boîte de réception
+входящая почта
+connecter
+соединяться
+installer
+устанавливать
+le fournisseur d'accès
+интернет-провайдер
+le compte de courrier électronique
+счёт электронной почты
+entrer
+входить в систему
+en ligne
+находиться в системе
+télécharger
+загружать
+envoyer
+посылать
+sauvegarder
+сохранять
+le document attaché
+приложение (II)
+recevoir
+получать
+chercher
+искать
+le studio de télévision
+телестудия
+la caméra
+камера
+la grue de caméra
+операторский кран
+le cameraman
+оператор
+le plateau
+декорация (I)
+l'éclairage
+освещение
+le présentateur
+ведущий
+la chaîne
+канал
+les nouvelles
+новости
+la presse
+пресса
+le feuilleton
+мыльная опера
+émettre
+транслировать
+en direct
+прямая трансляция
+la programmation
+программная сетка
+le documentaire
+документальный фильм
+la série télévisée
+телесериал
+le jeu télévisé
+телеигра
+en différé
+в записи
+le dessin animé
+мультфильм
+l'interviewer
+интервьюер
+la reporter
+репортёр
+le télésouffleur
+телесуфлёр
+la présentatrice
+диктор
+les acteurs
+актёры
+la perche
+микрофонный журавль
+la claquette
+хлопушка
+le décor de cinéma
+декорация (II)
+la radio
+радио
+le pupitre de mixage
+микшер
+le microphone
+микрофон
+l'ingénieur du son
+звукооператор
+le studio d'enregistrement
+студия звукозаписи
+les grandes ondes
+длинные волны
+le D.J.
+ди-джей
+la longueur d'ondes
+длина волны
+la station de radio
+радиостанция
+les ondes courtes
+короткие волны
+les ondes moyennes
+средние волны
+la fréquence
+частота
+le volume
+громкость
+régler
+настраивать
+le juge
+судья
+le témoin
+свидетель
+l'huissier de tribunal
+охрана суда
+l'avocat
+адвокат
+le jury
+присяжные
+le banc des jurés
+скамья присяжных
+la salle de tribunal
+зал суда
+l'accusation (I)
+обвинение (I)
+le greffier
+секретарь суда
+la défense
+защита
+l'accuse (II)
+подсудимый
+le sténographe
+стенографистка
+le suspect
+подозреваемый
+le portrait-robot
+фоторобот
+le gardien de prison
+тюремные охранники
+la prison
+тюрьма
+la cellule
+камера
+le criminel
+преступник
+le casier judiciaire
+криминальное досье
+le cabinet
+адвокатская контора
+le conseil juridique
+юридическая консультация
+le client
+клиент
+l'assignation
+повестка
+la déposition
+заявление
+le mandat
+судебное предписание
+l'acte judiciaire
+ордер
+la date du procès
+дата судебного заседания
+le plaidoyer
+иск
+la cause
+дело
+l'accusation (II)
+обвинение (II)
+l'accusé (I)
+обвиняемый
+la preuve
+свидетельские показания
+le verdict
+вердикт
+innocent
+невиновен
+coupable
+виновен
+acquitté
+оправдан
+la condamnation
+приговор
+la caution
+залог
+l'appel
+апелляция
+la liberté conditionnelle
+условно-досрочное освобождение
+le fermier
+фермер
+les terres cultivées
+обрабатываемые земли
+la cour de ferme
+усадьба
+la dépendance
+надворная постройка
+la maison d'habitation
+жилой дом
+le champ
+поле
+la grange
+амбар
+les bestiaux
+скот
+le pré
+пастбище
+la clôture
+забор
+la barrière
+ворота
+la haie
+ограждение
+le potager
+огород
+le tracteur
+трактор
+le cultivateur
+культиватор
+la moissonneuse-batteuse
+уборочный комбайн
+la ferme de culture
+земледельческая ферма
+la ferme laitière
+молочная ферма
+la ferme d'élevage de moutons
+овцеферма
+le troupeau (II)
+отара
+la ferme d'aviculture
+птицеферма
+la ferme d'élevage porcin
+свиноферма
+le centre de pisciculture
+рыбное хозяйство
+l'exploitation fruitière
+фруктовый сад
+le vignoble
+виноградник
+labourer
+пахать
+le sillon
+борозда
+semer
+сеять
+traire
+доить
+donner à manger
+кормить
+arroser
+орошать
+récolter
+собирать урожай
+l'herbicide
+гербицид
+le pesticide
+пестицид
+le troupeau (I)
+стадо
+le silo
+силос
+l'auge
+кормушка
+planter
+сажать
+le blé
+пшеница
+le maïs
+кукуруза
+l'orge
+ячмень
+le colza
+рапс
+le tournesol
+подсолнечник
+le foin
+сено
+la balle
+тюк
+la luzerne
+люцерна
+le tabac
+табак
+le riz
+рис
+le thé
+чай
+le café
+кофе
+le lin
+лён
+la canne à sucre
+сахарный тростник
+le coton
+хлопок
+l'épouvantail
+пугало
+le cochon
+свинья
+le porcelet
+поросёнок
+la vache
+корова
+le veau
+телёнок
+le taureau
+бык
+le mouton
+овца
+l'agneau
+ягнёнок
+la chèvre
+коза
+le chevreau
+козлёнок
+le cheval
+лошадь
+le poulain
+жеребёнок
+l'âne
+осёл
+le poulet
+курица
+le poussin
+цыплёнок
+le coq
+петух
+le dindon
+индюк
+le canard
+утка
+le caneton
+утёнок
+l'écurie
+конюшня
+l'enclos
+загон
+le poulailler
+курятник
+la porcherie
+хлев
+le chantier
+стройка
+le chariot de levage
+грузоподъемник
+l'échafaudage
+леса
+la palette
+паллеты
+l'échelle
+лестница
+la fenêtre
+окно
+le chevron
+стропила
+le mur
+стена
+le linteau
+перемычка
+construire
+строить
+la poutre (II)
+балка
+le casque de sécurité
+каска
+la ceinture à outils
+пояс для инструментов
+le maçon
+строитель
+la poutre (I)
+брус
+le cément
+цемент
+la bétonnière
+бетономешалка
+les matériaux
+строительные материалы
+la brique
+кирпич
+le bois
+лесоматериалы
+la tuile
+черепица
+le bloc de béton
+бетонный блок
+les outils
+инструменты
+la truelle
+мастерок
+le mortier
+строительный раствор
+le niveau à bulle
+нивелир
+le marteau de forgeron
+кувалда
+la pioche
+кирка
+le manche
+рукоятка
+la pelle
+лопата
+le rouleau compresseur
+каток
+le tombereau
+самосвал
+la grue
+подъёмный кран
+le crocher
+крюк
+le support
+опора
+les travaux
+дорожные работы
+le macadam goudronné
+асфальт
+le cône
+конус
+le marteau-piqueur
+отбойный молоток
+le revêtement
+замена покрытия
+la pelle mécanique
+экскаватор
+le menuisier
+столяр
+l'électricien
+электрик
+le plombier
+слесарь
+le jardinier
+садовник
+le nettoyeur
+уборщик
+l'aspirateur
+пылесос
+le mécanicien
+механик
+le boucher
+мясник
+le coiffeur (I)
+парикмахер (женский)
+les ciseaux
+ножницы
+la marchande de poissons
+продавец рыбы
+le marchand de légumes
+зеленщик
+la fleuriste
+флорист
+le coiffeur (II)
+парикмахер (мужской)
+le bijoutier
+ювелир
+l'employée de magasin
+продавец
+l'agent immobilier
+риелтор
+l'opticien
+оптик
+la dentiste
+стоматолог
+le docteur
+врач
+la pharmacienne
+фармацевт
+l'infirmière
+медсестра
+la vétérinaire
+ветеринар
+le fermier
+фермер
+le pêcheur
+рыбак
+le marin
+моряк
+le soldat
+солдат
+la mitrailleuse
+автомат
+le policier
+полицейский
+l'uniforme
+униформа
+le garde
+охранник
+le badge
+значок
+le pompier
+пожарный
+l'avocat
+адвокат
+le comptable
+бухгалтер
+l'architecte
+архитектор
+la maquette
+макет
+le scientifique
+учёный
+l'institutrice
+учитель
+le bibliothécaire
+библиотекарь
+la réceptionniste
+секретарь
+le facteur
+почтальон
+le conducteur de bus
+водитель автобуса
+le camionneur
+водитель грузовика
+le chauffeur de taxi
+таксист
+le pilote
+пилот
+l'hôtesse de l'air
+стюардесса
+l'agent de voyages
+турагент
+le chef
+шеф-повар
+la toque
+поварский колпак
+le musicien
+музыкант
+la ballerine
+балерина
+le comédien
+актёр
+la chanteuse
+певица
+la serveuse
+официантка
+le barman
+бармен
+le sportif
+спортсмен
+le sculpteur
+скульптор
+la peintre
+художник
+le photographe
+фотограф
+le présentateur
+диктор
+le journaliste
+журналист
+la rédactrice
+редактор
+la dessinatrice
+дизайнер
+la couturière
+швея
+le couturier
+портной
+l'autoroute
+автострада
+le poste de péage
+контрольный пункт
+les signalisations
+дорожная разметка
+la bretelle d'accès
+въезд на автостраду
+à sens unique
+одностороннее движение
+l'îlot directionnel
+разделительная полоса
+le carrefour
+пересечение
+les feux
+светофор
+le camion
+грузовик
+le terre-plein
+разделительный барьер
+le passage inférieur
+туннель
+l'accotement stabilisé
+защитный бортик
+l'autopont
+эстакада
+la circulation
+дорожное движение
+la bretelle de sortie
+съезд с автострады
+la voie de dépassement
+левый ряд
+la voie centrale
+средний ряд
+la file de droite
+правый ряд
+le passage clouté
+пешеходный переход
+le téléphone de secours
+аварийный телефон
+le parking réservé aux personnes handicapées
+парковка для инвалидов
+l'embouteillage
+пробка
+la carte
+карта
+le parcmètre
+парковочный счётчик
+l'agent de la circulation
+дорожный полицейский
+le rond-point
+кольцевая транспортная развязка
+faire marche arrière
+сдавать назад
+les travaux
+дорожные работы
+la déviation
+объезд
+conduire
+водить
+la route á quatre voies
+четырёхполосная автострада
+garer
+парковать
+remorquer
+буксировать
+doubler
+обгон
+la glissière de sécurité
+предохранительный барьер
+les panneaux routiers
+дорожные знаки
+sens interdit
+проезд запрещён
+la limitation de vitesse
+ограничение скорости
+danger
+опасная дорога
+arrêt interdit
+остановка запрещена
+interdit de tourner à droite
+правый поворот запрещён
+la porte
+дверь
+la porte automatique
+автоматическая двери
+la roue avant
+переднее колесо
+le compartiment à bagages
+багажное отделение
+la roue arrière
+заднее колесо
+la fenêtre
+окно
+le car
+рейсовый автобус
+le bouton d'arrêt
+кнопка остановки
+la sonnette
+звонок
+le ticket
+автобусный билет
+la gare routière
+автовокзал
+l'arrêt de bus
+остановка автобуса
+le prix du ticket
+стоимость проезда
+le bus a deux étages
+двухэтажный автобус
+le conducteur
+водитель
+le numéro de bus
+номер маршрута
+le tramway
+трамвай
+le trolleybus
+троллейбус
+le minibus
+микроавтобус
+le bus scolaire
+школьный автобус
+le bus de touristes
+туристический автобус
+la navette
+маршрутный экспресс
+l'extérieur
+внешний вид
+le capot
+капот
+le rétroviseur extérieur
+боковое зеркало
+le pare-brise
+ветровое стекло
+le rétroviseur
+зеркало заднего вида
+l'essuie-glace
+стеклоочиститель (дворник)
+la porte
+дверь
+le coffre
+багажник
+le pneu
+шина
+la roue
+колесо
+le phare
+фара
+le pare-chocs
+бампер
+la plaque d'immatriculation
+номерной знак
+le clignotant
+указатель поворота
+la galerie
+верхний багажник
+les bagages
+багаж
+le hayon
+задняя дверь
+la ceinture de sécurité
+ремень безопасности
+le siège d'enfant
+детское сиденье
+la petite voiture
+малолитражка
+la berline à hayon
+хэтчбэк
+la berline
+седан
+le break
+универсал
+la décapotable
+кабриолет
+le cabriolet sport
+спортивный автомобиль
+la voiture à six places
+микроавтобус
+la quatre-quatre
+внедорожник
+la voiture d'époque
+антикварный автомобиль
+la limousine
+лимузин
+la station-service
+заправочная станция
+la pompe
+бензоколонка
+le tarif
+прейскурант
+l'aire de stationnement
+внешняя стоянка
+le compresseur
+компрессор
+l'huile
+масло
+sans plomb
+неэтилированный
+l'essence
+бензин
+avec plomb
+этилированный
+le lave-auto
+мойка
+le diesel
+дизтопливо
+l'antigel
+антифриз
+le garage
+гараж
+le lave-glace
+стеклоочиститель
+l'intérieur
+салон
+le siège arrière
+заднее сиденье
+l'accoudoir
+подлокотник
+le repose-tête
+подголовник
+le verrouillage
+дверной замок
+la poignée
+ручка
+á deux portes
+двухдверный
+à quatre portes
+четырёхдверный
+automatique
+автоматический
+le frein
+тормоза
+l'accélérateur
+педаль газа
+à trois portes
+трёхдверный
+manuel
+ручной
+l'allumage
+зажигание
+l'embrayage
+сцепление
+la climatisation
+кондиционер
+les commandes
+управление
+le volant
+руль
+le klaxon
+клаксон
+le tableau de bord
+приборная панель
+les feux de détresse
+аварийные индикаторы
+le navigateur par satellite
+спутниковая навигационая система
+la conduite à gauche
+левосторонний руль
+le thermomètre
+температурный индикатор
+le compte-tours
+индикатор оборотов двигателя
+le compteur
+спидометр
+la jauge d'essence
+топливный индикатор
+l'interrupteur des feux
+выключатель фар
+l'odomètre
+счётчик пробега (одометр)
+l'airbag
+подушка безопасности
+la conduite à droite
+правосторонний руль
+le levier de vitesses
+рычаг переключения передач
+la manette de chauffage
+регулятор обогрева
+la stéréo
+автомобильная стереосистема
+la mécanique
+механика
+le réservoir de lave-glace
+бачок омывателя
+la jauge d'huile
+измерители уровня масла
+le filtre à air
+воздушный фильтр
+le réservoir de liquide de frein
+бачок для тормозной жидкость
+la batterie
+аккумулятор
+le réservoir de liquide de refroidissement
+бачок для охлаждающей жидкости
+la culasse
+головка цилиндра
+le tuyau
+патрубок
+la carrosserie
+кузов
+le radiateur
+радиатор
+le ventilateur
+вентилятор
+le moteur
+двигатель
+le toit ouvrant
+люк
+le toit
+крыша
+la suspension
+подвеска
+le silencieux
+глушитель
+l'enjoliveur
+колпак
+la boîte de vitesses
+коробка передач
+la transmission
+трансмиссия
+l'arbre de transmission
+карданный вал
+le pot d'échappement
+выхлопная труба
+la crevaison
+прокол
+la roue de secours
+запасное колесо
+la manivelle
+гаечный ключ
+les écrous de roue
+болты-держатели колеса
+changer une roue
+менять колесо
+le cric
+домкрат
+l'accident de voiture
+авария
+la courroie de cames
+кулачковая передача
+la panne
+поломка
+l'assurance
+страховка
+la dépanneuse
+буксир-эвакуатор
+le mécanicien
+механик
+la pression des pneus
+давление в шинах
+le porte-fusibles
+блок предохранителей
+la bougie
+свеча зажигания
+la courroie de ventilateur
+ремень вентилятора
+le réservoir d'essence
+бензобак
+le turbocompresseur
+турбокомпрессор
+le distributeur
+распределитель
+le réglage de l'allumage
+регулирование зажигания
+le châssis
+шасси
+le frein à main
+ручной тормоз
+l'alternateur
+генератор
+les commandes
+механизм управления
+l'embrayage
+сцепление
+le clignotant
+указатель поворота
+le compteur
+спидометр
+le frein
+тормоз
+le klaxon
+сигнал
+l'accélérateur
+акселератор
+le porte-bagages
+багажник
+le casque
+шлем
+la visière
+щиток
+la bande fluorescente
+отражающая полоса
+la genouillère
+наколенник
+le vêtement en cuir
+кожаный костюм
+le réflecteur
+отражатель
+le siège arrière
+заднее сиденье
+la selle
+сиденье водителя
+le moteur
+двигатель
+le réservoir d'essence
+топливный бак
+le phare
+фара
+la suspension
+подвеска
+le garde-boue
+брызговик
+le pneu
+шина
+l'essieu
+ось
+la pédale de frein
+педаль тормоза
+la boîte de vitesses
+коробка передач
+le réservoir d'huile
+масляный бак
+le silencieux
+глушитель
+le pot d'échappement
+выхлопная труба
+le feu arrière
+задний фонарь
+la moto de course
+гоночный
+la moto routière
+дорожный
+le pare-brise
+ветровое стекло
+la moto tout-terrain
+кросс
+le scooter
+мотороллер
+la béquille
+стойка
+le tandem
+тандем
+le vélo de course
+гоночный велосипед
+le vélo tout-terrain
+горный велосипед
+le vélo de randonnée
+прогулочный велосипед
+le vélo de ville
+дорожный велосипед
+la selle
+седло
+le tube porte-selle
+держатель седла
+le cadre
+рама
+le frein
+тормоз
+le moyeu
+ступица
+les vitesses
+шестерни
+la jante
+обод
+le pneu
+шина
+la chaîne
+цепь
+la pédale
+педаль
+la roue dentée
+зубчатое колесо
+la valve
+ниппель
+la bande de roulement
+протектор
+la roue
+колесо
+le rayon
+спица
+la fourche
+вилка
+le levier de frein
+рычаг тормоза
+le levier de vitesse
+рычаг переключения передач
+le guidon
+руль
+la bouteille d'eau
+бутылка для воды
+la piste cyclable
+велосипедная дорожка
+la chambre á air
+камера
+le siège d'enfant
+детское сиденье
+l'antivol
+замок
+la pompe
+насос
+la boîte d'outils
+набор инструментов
+la rustine
+заплата
+le démon te-pneu
+рычаг для разбортовка шины
+le feu arrière
+задний фонарь
+le cataphote
+отражатель
+le phare
+фара
+les roues d'entraînement
+стабилизаторы
+la galerie à vélo
+стойка для стоянки
+la béquille
+откидная стойка
+le patin de frein
+тормозная колодка
+le câble
+трос
+le pignon
+цепное колесо
+le panier
+корзина
+la dynamo
+динамо-машина
+la crevaison
+прокол
+le cale-pied
+туклипс
+la lanière
+ремень для стопы
+faire du vélo
+ехать на велосипеде
+changer de vitesse
+переключать передачу
+la gare
+вокзал
+la voiture
+вагон
+le quai
+перрон
+le caddie
+тележка
+le numéro de vole
+номер платформы
+le voyageur
+пассажир
+le train à vapeur
+паровоз
+la locomotive
+локомотив
+le train diesel
+дизельный
+la cabine du conducteur
+кабина машиниста
+le train électrique
+электровоз
+le train à grande vitesse
+высокоскоростной
+le monorail
+монорельсовый
+le métro
+метро
+le tram
+трамвай
+le train de marchandises
+товарный
+le compartiment
+купе
+la porte
+дверь
+la Fenêtre
+окно
+le porte-bagages
+багажная полка
+le portillon
+турникет
+le siège
+место
+la voie ferrée
+путь
+le hall de gare
+вестибюль вокзала
+le haut-parleur
+система массового оповещения
+l'horaire
+расписание
+le billet
+билет
+la voiture-restaurant
+вагон-ресторан
+le compartiment-couchettes
+спальное купе
+le réseau ferroviaire
+железнодорожная сеть
+le plan de métro
+схема метро
+le guichet
+билетная касса
+la manette de secours
+стоп-кран
+le rapide
+экспресс
+le retard
+опоздание
+le contrôleur
+контролёр
+le signal
+семафор
+l'heure de pointe
+час пик
+le prix
+стоимость проезда
+changer
+делать пересадку
+le rail conducteur
+рельс под током
+l'avion de ligne
+авиалайнер
+le nez
+нос
+le cockpit
+кабина пилота
+le réacteur
+мотор
+le fuselage
+фюзеляж
+l'aile
+крыло
+la queue
+хвост
+la gouverne
+руль направления
+l'empennage
+хвостовой стабилизатор
+la dérive
+киль
+l'aileron
+элерон
+le train d'atterrissage
+шасси
+la sortie
+выход
+la roue de nez
+носовое колесо
+la cabine
+салон
+la sortie de secours
+аварийный выход
+l'hôtesse de l'air
+стюардесса
+le casier à bagages
+багажное отделение
+le ventilateur
+вентилятор
+la liseuse
+лампочка для чтения
+la rangée
+ряд
+le dossier
+спинка кресла
+la tablette
+откидной столик
+le couloir
+проход
+l'accoudoir
+подлокотник
+le siège
+сиденье
+le hublot
+иллюминатор
+l'U.L.M.
+сверхлёгкий самолёт
+le planeur
+планер
+le biplan
+биплан
+l'avion léger
+лёгкий самолёт
+l'hélice
+пропеллер
+la montgolfière
+аэростат
+l'hydravion
+гидросамолёт
+le jet privé
+частный реактивный самолёт
+l'avion supersonique
+сверхзвуковой реактивный самолёт
+l'hélicoptère
+вертолёт
+le bombardier
+бомбардировщик
+le chasseur
+истребитель
+le pilote
+первый пилот
+le copilote
+второй пилот
+décoller
+взлетать
+voler
+лететь
+atterrir
+садиться
+l'altitude
+высота
+la classe économique
+эконом-класс
+la classe affaires
+бизнес-класс
+les bagages à main
+ручная кладь
+la ceinture de sécurité
+ремень безопасности
+l'aire de stationnement
+площадка перед ангаром
+le porte-bagages
+багажный контейнер
+le terminal
+здание аэропорта
+le véhicule de service
+служебный автотранспорт
+la passerelle
+трап
+l'avion de ligne
+авиалайнер
+la piste
+взлётно-посадочная полоса
+le vol international
+международный рейс
+le vol domestique
+внутренний рейс
+la correspondance
+транзит
+le numéro de vol
+номер рейса
+l'immigration
+паспортный контроль (I)
+la douane
+таможня
+la sécurité
+служба безопасности
+l'excédent de bagages
+перевес багажа
+le tapis roulant
+транспортёр
+la machine de rayons x
+рентгеновская установка
+la brochure de vacances
+рекламный проспект
+les vacances
+отпуск
+faire une réservation de vol
+забронировать авиабилет
+enregistrer
+зарегистрироваться
+la tour de contrôle
+диспетчерская вышка
+le paquebot
+океанский лайнер
+le radar
+радар
+l'antenne radio
+радиоантенна
+le pont
+палуба
+la cheminée
+труба
+le pont arrière
+ют
+l'hélice
+винт
+la quille
+киль
+le canot de sauvetage
+спасательная шлюпка
+la coque
+корпус
+le hublot
+иллюминатор
+la marque de flottaison
+ватерлиния
+la proue
+нос
+la passerelle de commandement
+капитанский мостик
+la salle des moteurs
+машинное отделение
+la cabine
+каюта
+la cuisine
+камбуз
+le ferry
+паром
+le dinghy pneumatique
+надувная лодка
+l'hydroptère
+судно на подводных крыльях
+le yacht
+яхта
+le catamaran
+катамаран
+le remorqueur
+буксир
+l'aéroglisseur
+корабль на воздушной подушке
+le navire porte-conteneurs
+контейнеровоз
+le voilier
+парусник
+le cargo
+грузовое судно
+le gréement
+такелаж
+la cale
+трюм
+le pétrolier
+танкер
+le porte-avions
+авианосец
+le navire de guerre
+военный корабль
+le sous-marin
+подводная лодка
+l'entrepôt
+пакгауз
+la grue
+портальный кран
+le chariot élévateur
+автопогрузчик
+la route d'accès
+подъездные пути
+le bureau des douanes
+таможня
+le dock
+док
+le quai
+причал (I)
+la cargaison
+груз
+le port de conteneurs
+грузовой порт
+le conteneur
+контейнер
+le port de passagers
+пассажирский порт
+le terminal de ferrys
+паромный причал
+le guichet
+билетная касса
+le passager
+пассажир
+le filet
+сеть
+le port de pêche
+рыболовецкий порт
+le bateau de pêche
+рыболовецкое судно
+la marina
+пристань для яхт
+les amarres
+якорная стоянка (I)
+le port
+якорная стоянка (II)
+l'embarcadère
+причал (II)
+la jetée
+мол
+le chantier naval
+верфь
+le phare
+маяк
+le feu
+прожектор
+la bouée
+буй
+le garde-côte
+береговая охрана
+le capitaine de port
+начальник порта
+jeter l'ancre
+бросить якорь
+la cale sèche
+сухой док
+mouiller
+причаливать
+embarquer
+подняться на судно
+débarquer
+сходить на берег
+prendre la mer
+отчаливать
+le poteau
+стойка ворот
+la ligne de touche
+боковая линия
+le juge de ligne
+судья на линии
+la ligne de but
+голевая линия
+le terrain
+футбольное поле
+la zone de fond
+конечная зона
+le ballon
+футбольный мяч
+la botte
+бутса
+le joueur de football
+футболист
+tacler
+перехватить мяч
+les protections
+защитники
+faire une passe
+передавать мяч
+le casque
+шлем
+attraper
+поймать мяч
+le temps mort
+тайм-аут
+la prise de ballon maladroite
+утрата мяча
+l'équipe
+команда
+l'attaque
+атака
+la défense
+защита
+le score
+счёт
+la majorette
+группа поддержки
+le but
+тачдаун
+le terrain de rugby
+игровое поле
+le but
+ворота
+la surface de but
+зачётное поле
+la ligne de touche
+боковая линия
+le drapeau
+флажок
+la ligne de ballon mort
+линия мёртвого мяча
+le ballon
+мяч
+le maillot de rugby
+форма
+botter
+ударить ногой
+faire une passe
+передавать мяч
+tacler
+захватить
+lancer
+бросать
+l'essai
+попытка поймать мяч в падении
+la mêlée ouverte
+открытая схватка
+le joueur
+игрок
+la mêlée
+схватка
+le ballon
+футбольный мяч
+la tenue
+футбольная гетра
+le joueur de foot
+футболист
+le gardien de but
+вратарь
+l'avant
+нападающий
+l'arbitre
+судья
+le cercle central
+центральный круг
+la surface de réparation
+штрафная площадка
+la ligne de but
+линия ворот
+la surface de but
+вратарская площадка
+le but
+гол
+le défenseur
+защитник
+le drapeau de coin
+угловой флаг
+le juge de ligne
+судья на линии
+le poteau
+штанга
+le filet
+сетка
+la barre transversale
+перекладина
+dribbler
+вести мяч
+faire une tête
+играть головой
+le coup franc
+свободный удар
+le stade
+стадион
+le penalty
+пенальти
+marquer un but
+забить гол
+la faute
+фол
+le corner
+угловой удар
+le carton rouge
+красная карточка
+le carton jaune
+жёлтая карточка
+l'hors-jeu
+положение вне игры
+l'expulsion
+удаление с поля
+le championnat
+чемпионат
+la mi-temps
+тайм
+l'égalité
+ничья
+la prolongation
+дополнительное время
+le remplaçant
+запасной игрок
+le remplacement
+замена
+le hockey sur glace
+хоккей с шайбой
+la ligne de but
+линия ворот
+la zone d'attaque
+зона нападения
+la zone neutre
+средняя зона
+la zone de défense
+зоны защиты
+le gardien de but
+вратарь
+le but
+ворота
+le cercle de mise en jeu
+зона вбрасывания
+le cercle central
+центральный круг
+la patinoire
+хоккейная площадка
+le hockeyeur
+хоккеист
+le palet
+шайба
+la crosse
+клюшка (I)
+le gant
+крага
+la protection
+наплечник
+le patin à glace
+конёк
+patiner
+кататься на коньках
+frapper
+бить по шайбе
+le hockey
+хоккей на траве
+la crosse de hockey
+клюшка (II)
+la balle
+мяч
+le lanceur
+боулер
+la limite du terrain
+ограничительная линия
+la ligne d'envoi
+линия воротец
+le batteur
+бэтсмен
+le guichet
+воротца
+le terrain de cricket
+питч
+le masque protecteur
+маска
+le piquet
+стойка
+lancer
+подавать мяч
+frapper
+отбивать мяч
+le joueur de cricket
+игрок в крикет
+la jambière
+щиток
+attraper
+поймать мяч
+le gardien de but
+кипер
+hors-jeu
+выйти из игры
+le tableau de points
+табло
+l'arbitre
+судья
+le terrain
+баскетбольная площадка
+la ligne de touche
+боковая линия
+l'arbitre
+судья
+le cercle central
+центральный круг
+la ligne de lancer franc
+линии штрафного броска
+la ligne de bout
+лицевая линия
+la ligne de centre
+центральная линия
+la ligne de trois points
+трёхочковая линия
+le numéro
+номер
+le ballon
+мяч
+le joueur de basket
+баскетболист
+l'anneau
+кольцо
+le filet
+сетка
+le panier
+корзина
+le panneau
+щит
+la passe
+передавать мяч
+la faute
+фол
+le rebond
+подбор
+la rentrée
+вбрасывание
+hors-jeu
+вне игры
+l'entre-deux
+спорный мяч
+lancer
+бросать
+attraper
+ловить
+tirer
+бросать в корзину
+sauter
+прыгать
+marquer
+прикрывать
+bloquer
+блокировать
+faire un dunk
+забрасывать в прыжке
+le volley
+волейбол
+faire une manchette
+сделать замок
+la genouillère
+наколенник
+le terrain
+площадка
+le champ gauche
+левое поле
+le champ intérieur
+внутреннее поле
+le champ central
+центральное поле
+le champ extérieur
+внешнее поле
+le champ droit
+правое поле
+la ligne de pénalité
+штрафная линия
+l'équipe
+команда
+le banc de touche
+скамейка команды
+la base du batteur
+домашняя база
+le mont du lanceur
+питчерская горка
+l'homme de base
+бейсмен
+le casque
+шлем
+la batte
+бита
+le gant
+перчатка
+la balle
+мяч
+le masque
+маска
+le tour de batte
+иннинг
+le point
+пробежка
+sauf
+сейф
+hors-jeu
+аут
+le coup manqué
+плохой удар
+la fausse bane
+фолбол
+le receveur
+кетчер
+le lanceur
+питчер
+lancer (I)
+бросать
+attraper
+ловить
+courser
+осалить
+glisser
+совершить подкат
+jouer
+играть
+lancer (II)
+подавать
+l'arbitre
+судья
+le manche
+ручка
+la tête
+головка
+la corde
+струна
+l'arbitre
+судья
+la ligne de fond
+задняя линия
+le filet
+сетка
+le smash
+смэш
+le ramasseur de balles
+мальчик, подающий мяч
+servir
+подавать
+les tennis
+теннисные туфли
+le joueur
+теннисист
+le court de tennis
+теннисный корт
+le poignet
+напульсник
+la balle
+мяч
+ligne de côté
+боковая линия
+la raquette (I)
+ракетка (I)
+le simple
+одиночные игры
+le set
+сет
+l'égalité
+равный счёт
+la faute
+ошибка
+le slice
+слайс
+l'effet
+вращение
+le double
+парные игры
+le match
+партия
+l'avantage
+преимущество
+l'as
+ас
+l'échange
+обмен ударами
+le juge de ligne
+судья на линии
+le jeu
+гейм
+le tiebreak
+тай-брейк
+zéro
+нулевой счёт
+l'amorti
+дропшот
+le championnat
+чемпионат
+les coups
+удары
+la voilée
+удар с лета
+le retour
+приём подачи
+le lob
+свеча
+le coup droit
+удар справа
+le revers
+удар слева
+les jeux de raquette
+игры с ракеткой
+le badminton
+бадминтон
+le tennis de table
+настольный теннис
+le volant
+волан
+la raquette (II)
+ракетка (II)
+le squash
+сквош
+le racquetball
+ракетбол
+le joueur de golf
+игрок в гольф
+exécuter un swing
+выполнить свинг
+le trou
+лунка
+le départ
+тин граунд
+le green
+грин
+le bunker
+бункер
+le drapeau
+флажок
+le rough
+бурьян
+l'obstacle d'eau
+водная преграда
+le parcours de golf
+поле для гольфа
+le pavillon
+гольф-клуб
+la position
+позиция
+le buggy
+багги
+l'équipement
+снаряжение
+la balle de golf
+мяч для игры гольфа
+le tee
+прицельный колышек
+le gant
+перчатка
+le caddie (II)
+тележка
+le parapluie
+зонтик
+le sac de golf
+сумка для клюшек
+les pointes
+шипы
+la chaussure de golf
+обуви для гольфа
+les clubs de golf
+клюшки для гольфа
+le bois
+деревянная
+le putter
+паттер
+le fer
+стальная
+la cale
+клиновидная
+partir du tee
+делать первый удар
+driver
+выполнить драйв
+putter
+сделать патт
+cocher
+выполнить чип
+le par
+пар
+le over par
+овер-пар
+le tournoi
+турнир
+le caddie (I)
+кадди
+le coup
+удар
+la ligne de jeu
+линия игры
+le under par
+андер-пар
+le trou en un
+хоул-ин-уан
+les spectateurs
+зрители
+le swing d'essai
+пробный удар
+le swing en arrière
+замах
+le terrain
+стадион
+le couloir
+дорожка
+la piste
+трек
+la ligne d'arrivée
+линия финиша
+la ligne de départ
+стартовая линия
+le bloc de départ
+стартовые колодки
+le sprinter
+спринтер
+le disque
+метание диска
+le lancement du poids
+толкание ядра
+l'athlète
+атлет
+le javelot
+метание копья
+la course
+бег
+le temps
+время
+le record
+рекорд
+la photo-finish
+фотофиниш
+le marathon
+марафон
+le saut à la perche
+прыжок с шестом
+le record personnel
+личный рекорд
+le bâton
+эстафетная палочка
+le relais
+эстафета
+le saut en hauteur
+прыжок в высоту
+la barre
+планка
+le saut en longueur
+прыжок в длину
+les haies
+бег с препятствиями
+la gymnastique
+гимнастика
+le saut
+опорный прыжок
+le cheval
+гимнастический конь
+le salto
+сальто
+le tremplin
+мостик
+la poutre
+бревно
+la gymnaste
+гимнастка
+les exercices au sol
+вольные упражнения
+le tapis
+мат
+la cabriole
+колесо
+la gymnastique rythmique
+художественная гимнастика
+la barre fixe
+перекладина
+les barres parallèles
+параллельные брусья
+les barres asymétriques
+разновысокие брусья
+le cheval d'arçons
+козёл
+les anneaux
+кольца
+le podium
+пьедестал почёта
+les médailles
+медали
+l'or
+золото
+l'argent
+серебро
+le bronze
+бронза
+le taekwondo
+тхэквондо
+l'adversaire
+противник
+le gant
+перчатка
+le protège-tête
+шлем
+la ceinture
+пояс
+le karaté
+карате
+le judo
+дзюдо
+l'aïkido
+айкидо
+le kendo
+кендо
+le sabre
+синаи
+le masque
+мэн
+le kung-fu
+кун-фу
+la boxe thaïlandaise
+кикбоксинг
+la lutte
+греко-римская борьба
+la boxe
+бокс
+la chute
+падение
+la prise
+захват
+la projection
+бросок
+l'immobilisation
+противник на лопатках
+le coup de pied
+удар ногой
+le coup de poing
+удар кулаком
+le coup (I)
+удар ребром ладони
+le saut
+прыжок
+le blocage
+блок
+le coup (II)
+тычковый удар
+le ring
+ринг
+les gants de boxe
+боксёрские перчатки
+le protège-dents
+капа
+le round
+раунд
+le combat
+бой
+l'entraînement
+спарринг
+le poing
+кулак
+le knock-out
+нокаут
+le punching-bag
+боксёрская груша
+la ceinture noire
+чёрный пояс
+l'autodéfense
+самооборона
+les arts martiaux
+боевые искусства
+la capoeira
+капоэйра
+le taï chi
+тайцзы
+el sumo
+борьба сумо
+la brassière
+нарукавник
+les lunettes protectrices
+очки
+la pince pour le nez
+носовая прищепка
+la planche
+плавательная доска
+le maillot de bain
+плавательный костюм
+le bonnet de natation
+шапочка
+le slip de bain
+плавки
+la piscine
+бассейн
+le plot de départ
+стартовая тумба
+l'eau
+вода
+plonger
+нырять
+le tremplin
+трамплин
+le plongeur
+ныряльщик
+nager
+плавать
+le tour
+закрытый поворот
+le crawl
+кроль
+la brasse
+брасс
+la nage sur le dos
+плавание на спине
+la nage
+взмах
+le papillon
+баттерфляй
+le coup de pied
+толчок
+la plongée
+подводное плавание с аквалангом
+la ceinture de plomb
+свинцовый пояс
+la palme
+ласт
+la combinaison de plongée
+гидрокостюм
+la bouteille d'air
+пневмоцилиндр
+le tuba
+трубка
+le masque
+маска
+le régulateur
+регулятор
+nager sur place
+плыть на месте
+les casiers
+шкафчик в раздевалке
+le water-polo
+водное поло
+le petit bassin
+мелкая часть
+la crampe
+судорога
+le plongeon de haut vol
+прыжок с трамплина
+le départ plongé
+прыжки в воду
+le maître nageur
+спасатель
+le grand bassin
+глубокая часть
+la nage synchronisée
+синхронное плавание
+se noyer
+тонуть
+le compas
+компас
+l'ancre
+якорь
+naviguer
+вести судно
+le taquet
+крепительная планка
+le pont de côté
+боковая палуба
+la barre
+румпель
+le yacht
+яхта
+l'avant
+нос
+la voile d'avant
+фок
+le mât
+мачта
+le gréement
+бегучий такелаж
+la grand-voile
+грот
+la bôme
+гик
+l'arrière
+корма
+la fusée éclairante
+сигнальная ракета
+la bouée de sauvetage
+спасательный круг
+le gilet de sauvetage
+спасательный жилет
+le radeau de sauvetage
+спасательный плот
+les sports aquatiques
+водные виды спорта
+ramer
+грести
+le rameur
+гребец
+la rame
+весло
+le canoë
+гребля на байдарках и каноэ
+le kayak
+байдарка
+la pagaie
+двухлопастное весло
+le surf
+сёрфинг
+la planche (I)
+доска (I)
+le ski nautique
+водные лыжи
+le ski
+лыжа
+le motonautisme
+водно-моторный спорт
+le rafting
+рафтинг
+le jet-ski
+аквабайк
+la planche à voile
+виндсёрфинг
+la planche (II)
+доска (II)
+le planchiste
+виндсёрфингист
+la voile (II)
+парус
+le surfeur
+сёрфингист
+l'équipage
+экипаж
+le vent
+ветер
+l'écume
+прибой
+l'écoute
+шкот
+la dérive
+шверт
+le skieur nautique
+воднолыжник
+louvoyer
+менять курс
+la vague
+волна
+les rapides
+стремнина
+le gouvernail
+руль
+chavirer
+опрокидываться
+le cavalier
+всадник
+la bombe
+фуражка
+la crinière
+грива
+les rênes
+поводья
+le jodhpur
+рейтузы
+la sangle
+подпруга
+le sabot
+копыто
+l'étrier
+стремя
+la botte
+сапог
+la queue
+хвост
+le cheval
+лошадь
+la selle
+седло
+le fer à cheval
+подкова
+la selle de femme
+дамское седло
+le pommeau
+лука
+la bride
+уздечка
+le frontail
+налобный ремень
+le mors
+удила
+la muserolle
+нахрапник
+la cravache
+хлыст
+la course de chevaux
+скачки
+le cheval de course
+скаковая лошадь
+le steeple
+стипль-чез
+la course de trot
+бега в упряжке
+le rodéo
+родео
+le jumping
+конкур
+la course attelée
+гонки в экипажах
+la randonnée
+конный туризм
+le dressage
+выездка
+le polo
+поло
+le pas
+шаг
+le petit galop
+лёгкий галоп
+le saut
+прыжок
+le licou
+недоуздок
+l'enclos
+паддок
+la course de plat
+гладкие скачки
+le trot
+рысь
+le galop
+галоп
+le valet d'écurie
+конюх
+l'écurie
+конюшня
+l'arène
+арена
+les champs de courses
+ипподром
+le plomb
+грузило
+le barbillon
+жало
+l'oeillet
+ушко
+l'hameçon
+рыболовный крючок
+l'amorce
+наживка
+l'épuisette
+подсачек
+le flotteur
+поплавок
+l'appât
+блесна
+la mouche
+мушка
+la bourriche
+садок
+la boîte d'équipement
+ящик для снастей
+le pêcheur
+рыболов
+la ligne
+леска
+la canne à pêche
+удилище
+le moulinet
+катушка (I)
+les bottes de pêche
+болотные сапоги
+la pêche en eau douce
+пресноводная рыбалка
+la pêche à la mouche
+ужение на муху
+la pêche sportive
+спортивная рыбалка
+la pêche hauturière
+глубоководная рыбалка
+la pêche au lancer en mer
+ловля в прибое
+lancer
+закидывать
+attraper
+ловить
+ramener
+сматывать
+prendre au filet
+ловить сетью
+lâcher
+выпускать
+le matériel de pêche
+снасти
+l'imperméable
+непромокаемый плащ
+le permis de pêche
+разрешение на вылов
+le panier de pêche
+корзина для рыбы
+mordre
+клевать
+le tambour
+катушка (II)
+la perche
+шест
+la pêche maritime
+морская рыбалка
+la pêche sous-marine
+ловля с острогой
+la pente de ski
+горнолыжный склон
+la télécabine
+канатная дорога
+le télésiège
+кресельный подъёмник
+la combinaison de ski
+лыжный костюм
+le bâton de ski
+лыжная палка
+la piste de ski
+лыжня
+le gant
+перчатка
+la skieuse
+лыжник
+la chaussure de ski
+лыжный ботинок
+le ski
+лыжа
+la carre
+боковая стенка
+la pointe
+носок
+la barrière de sécurité
+барьер безопасности
+la descente
+скоростной спуск
+le slalom
+слалом
+la porte
+ворота
+le saut
+фристайл
+le ski de randonnée
+лыжный кросс
+les sports d'hiver
+зимние виды
+l'escalade en glace
+ледовый альпинизм
+le patinage
+катание на коньках
+le patinage artistique
+фигурное катание
+le patin à glace
+конёк
+le surf des neiges
+сноубординг
+les lunettes de ski
+очки
+le bobsleigh
+бобслей
+la luge (I)
+тобоган
+l'autoneige
+аэросани
+la luge (II)
+катание на санях
+le ski alpin
+горные лыжи
+le traîneau à chiens
+гонки на собачьих упряжках
+le slalom géant
+гигантский слалом
+le patinage de vitesse
+конькобежный спорт
+hors piste
+сойти с трассы
+le biathlon
+биатлон
+le curling
+керлинг
+l'avalanche
+лавина
+le vol plané
+планеризм
+le planeur
+планер
+le deltaplane (II)
+дельтапланеризм
+le deltaplane (I)
+дельтаплан
+l'escalade
+скалолазание
+la corde
+трос
+le parachutisme
+парашютный спорт
+le parachute
+парашют
+le parapente
+парапланеризм
+le saut en chute libre
+затяжные прыжки с парашютом
+le rappel
+спусковой альпинизм
+le saut à l'élastique
+прыжок на эластичном тросе
+le rallye
+авторалли
+la course automobile
+автогонки
+le pilote de course
+гонщик
+le motocross
+мотокросс
+la course de moto
+мотогонки
+la planche à roulettes (II)
+скейтбординг
+la planche à roulettes (I)
+скейтборд
+le patinage á roulettes
+катание на роликовых коньках
+le patin á roulettes
+роликовый конёк
+le lacrosse
+лякросс
+la crosse
+кросс (клюшка)
+l'escrime
+фехтование
+le fleuret
+рапира
+le masque
+маска
+le bowling
+боулинг
+la quille
+кегля
+la boule de bowling
+шар для игры в боулинг
+le tir à l'arc
+стрельба из лука
+l'arc
+лук
+le tir à cible
+пулевая стрельба
+la cible
+мишень
+le billard américain
+бильярд
+le billard
+снукер
+le gymnase
+спортивный зал
+la barre
+штанга (I)
+les poids
+гантельный ряд
+le vélo d'entraînement
+велотренажёр
+l'appareil de gym
+жимовая скамья
+le banc
+атлетическая скамья
+la machine à ramer
+гребной тренажёр
+le tapis roulant
+беговая дорожка
+la machine de randonnée
+кроссовый тренажёр
+l'entraîneuse individuelle
+персональный тренер
+l'escalier d'entrainement
+шаговый тренажёр
+la piscine
+плавленый бассейн
+le sauna
+сауна
+les exercices
+упражнения
+la fente en avant
+выпад (I)
+l'étirement
+растяжка
+la traction
+выпад (II)
+le collant
+трико
+la flexion de jambes
+приседание
+le redressement assis
+качание корпуса
+l'exercice pour les biceps
+упражнение для бицепсов
+l'haltère
+гантель
+la traction pour les jambes
+ножной пресс
+l'entraînement poids et haltères
+тяжёлая атлетика
+la barre à poids
+штанга (II)
+les baskets
+спортивная обувь
+le jogging
+бег трусцой
+le maillot
+майка
+l'aérobic
+аэробика
+s'entraîner
+тренироваться
+jogger sur place
+бегать на месте
+étendre
+растягиваться
+les exercices Pilates
+упражнения пилатес
+l'entraînement en circuit
+комплекс упражнений
+s'échauffer
+разминаться
+fléchir
+прогибаться
+tirer
+подтягиваться
+l'aéroboxe
+боксёрские упражнения
+le saut à la corde
+прыжки через скакалку
+la scène
+сцена
+le rideau
+занавес
+les coulisses
+кулисы
+le décor
+декорация
+le public
+зрители
+l'orchestre (I)
+оркестр
+les places
+зрительный зал
+l'allée
+проход
+la corbeille
+первый ярус
+la rangée
+ряд
+le fauteuil
+кресло
+la deuxième galerie
+второй ярус
+la loge
+ложа
+le balcon
+балкон
+l'orchestre (II)
+партер
+la pièce de théâtre
+пьеса
+la distribution
+состав
+l'acteur
+актёр
+l'actrice
+актриса
+le metteur en scène (I)
+режиссёр
+la première
+премьера
+le metteur en scène (II)
+постановщик
+l'entracte
+антракт
+le texte
+инсценировка
+le programme
+программа
+la fosse d'orchestre
+оркестровая яма
+le concert
+концерт
+la comédie musicale
+мюзикл
+le ballet
+балет
+le costume
+костюм
+le placeur
+билетер
+la musique classique
+классическая музыка
+la partition
+партитура
+la bande sonore
+звуковая дорожка
+applaudir
+аплодировать
+le bis
+бис
+l'opéra
+опера
+le cinéma
+кино
+le pop-corn
+воздушная кукуруза
+la salle de cinéma
+кинотеатр
+l'écran
+экран
+l'affiche
+афиша
+la caisse
+касса
+le foyer
+фойе
+la comédie
+комедия
+le thriller
+триллер
+le film d'horreur
+фильм ужасов
+le western
+вестерн
+la comédie romantique
+лирическая комедия
+le filin de science-fiction
+научно-фантастический фильм
+le film d'aventures
+приключенческий фильм
+le film d'animation
+мультфильм
+les cordes
+струнные
+la harpe
+арфа
+le chef d'orchestre
+дирижёр
+le contrebasse
+контрабас
+le violon
+скрипка
+le podium
+подиум
+l'alto
+альт
+le violoncelle
+виолончель
+le piano
+фортепьяно
+la partition
+ноты
+la notation
+нотная запись
+la note
+нота
+la clé de sol
+скрипичный ключ
+la portée
+нотный стан
+l'ouverture
+увертюра
+la sonate
+соната
+le ton
+тональность
+le dièse
+диез
+la barre de mesure
+такт
+la gamme
+гамма
+la symphonie
+симфония
+les instruments
+музыкальные инструменты
+le silence
+пауза
+le bécarre
+бекар
+la baguette
+дирижёрская палочка
+les bois
+деревянные духовые
+le piccolo
+пикколо
+la flûte traversière
+флейта
+le hautbois
+гобой
+la clarinette
+кларнет
+la clarinette basse
+басовый кларнет
+le basson
+фагот
+le saxophone
+саксофон
+la percussion
+ударные
+la timbale
+литавра
+le gong
+гонг
+les bongos
+бонго
+la caisse claire
+малый барабан
+les cymbales
+тарелки
+le tambour
+бубен
+le vibraphone
+виброфон
+le triangle
+треугольник
+les maracas
+маракасы
+les cuivres
+медные духовые
+la trompette
+труба
+le trombone
+тромбон
+le cor
+валторна
+le tuba
+туба
+le concert de rock
+рок-концерт
+le chanteur
+вокалист
+le microphone
+микрофон
+le batteur
+ударник
+le guitariste
+гитарист
+les fans
+поклонники
+le haut-parleur
+усилитель
+le bassiste
+бас-гитарист
+la basse
+бас-гитара
+le pick-up
+адаптер
+le manche
+гриф
+le piano électronique
+синтезатор
+la guitare électrique
+электрогитара
+le chevaler
+кобылка
+le sillet
+лад
+le batterie
+ударная установка
+la cheville
+колок
+la corde
+струна
+le tambour
+барабан
+le jazz
+джаз
+le blues
+блюз
+la musique punk
+панк
+la musique folk
+фолк
+la pop
+поп
+la dance
+танцевальная музыка
+le rap
+рэп
+la heavy métal
+хэви-метал
+la musique classique
+классическая музыка
+la chanson
+песня
+les paroles
+текст
+la mélodie
+мелодия
+le beat
+ритм
+le reggae
+регги
+la country
+кантри
+le projecteur
+прожектор
+le touriste
+турист
+l'attraction touristique
+достопримечательность
+le bus touristique
+туристический автобус
+l'itinéraire
+маршрут
+à impériale
+открытый верх
+la tour guidé
+экскурсия
+les souvenirs
+сувениры
+la statuette
+статуэтка
+ouvert
+открыто
+la guide (II)
+путеводитель
+le caméscope
+видеокамера
+à gauche
+налево
+fermé
+закрыто
+la pellicule
+фотоплёнка
+l'appareil photo
+фотоаппарат
+à droite
+направо
+le prix d'entrée
+входная плата
+les piles
+батарейки
+les directions
+направления
+tout droit
+прямо
+les attractions
+достопримечательности
+le tableau
+живопись
+le musée d'art
+галерея
+l'objet exposé
+экспонат
+le monument
+монумент
+le musée
+музей
+l'exposition
+экспозиция
+le monument historique
+памятник архитектуры
+la ruine célèbre
+исторические руины
+le casino
+казино
+le parc
+парк
+le parc national
+национальный парк
+le plan d'étage
+план
+le plan
+карта
+l'horaire
+график движения
+les heures
+расписание
+l'information touristique
+туристическое справочное бюро
+le parc
+парк
+le sentier
+пешеходная тропа
+le cadran solaire
+солнечные часы
+le café
+кафе
+la pelouse
+трава
+le banc
+скамья
+les jardins à la française
+регулярный парк
+la foire
+луна-парк
+le parc d'attractions
+тематический парк
+la réserve
+сафари-парк
+le zoo
+зоопарк
+le vélo
+катание на велосипеде
+le jogging
+бег трусцой
+la planche à roulette
+катание на скейте
+le roller
+катание на роликовых коньках
+l'observation des oiseaux
+наблюдение за птицами
+l'équitation
+верховая езда
+la randonnée
+пешая прогулка
+le pique-nique
+пикник
+le panier à pique-nique
+корзина для пикника
+le terrain de jeux
+детская площадка
+le bac à sable
+песочница
+la pataugeoire
+лягушатник
+la balançoire
+качель
+la bascule
+доска-качалка
+le toboggan
+горка
+la cage à poules
+лесенка
+l'hôtel
+отель
+le parasol
+пляжный зонтик
+la cabine de plage
+пляжная кабинка
+le sable
+песок
+la vague
+волна
+la mer
+море
+le sac de plage
+пляжная сумка
+le bikini
+бикини
+prendre un bain de soleil
+загорать
+la tour de surveillance
+вышка спасателя
+le pare-vent
+экран от ветра
+la promenade
+променад
+le transat
+шезлонг
+les lunettes de soleil
+солнцезащитные очки
+le chapeau de plage
+панама
+la lotion solaire
+лосьон для загара
+l'écran total
+солнцезащитный крем
+le ballon de plage
+пляжный мяч
+la bouée
+надувной круг
+la serviette de plage
+пляжное полотенце
+le coquillage
+ракушка
+le château de sable
+замок из песка
+la pelle
+совок
+le maillot de bain
+купальник
+le seau
+ведёрко
+les toilettes
+туалеты
+les poubelles
+мусорные контейнеры
+les douches
+душевые кабины
+le branchement électrique
+подключение к электропитанию
+le double toit
+откидное полотнище палатки
+le piquet
+колышек
+le terrain de camping
+территория кемпинга
+la corde
+растяжка
+la caravane
+автофургон
+camper
+располагаться лагерем
+l'emplacement
+площадка для палатки
+le banc à pique-nique
+столик для пикника
+le charbon de bois
+древесный уголь
+le bureau du chef
+офис коменданта кемпинга
+monter une tente
+ставить палатку
+le hamac
+гамак
+l'allume-feu
+горючая жидкость
+les emplacements de libre
+есть свободные места для палаток
+le mât
+шест палатки
+l'autocaravane
+трейлер
+allumer un feu
+развести огонь
+complet
+свободных мест нет
+le lit de camp
+походная кровать
+la remorque
+автоприцеп
+le feu de camp
+костёр
+la tente
+палатка
+la bouteille d'eau
+фляжка
+le sac à dos
+рюкзак
+le cadre
+каркас
+le tapis de sol (I)
+пол
+le thermos
+термос
+le spray contre les insectes
+аэрозоль от насекомых
+la lampe torche
+фонари
+les sous-vêtements thermiques
+термобельё
+la moustiquaire
+противомоскитная сетка
+le sac de couchage
+спальный мешок
+l'imperméable
+непромокаемая одежда
+les chaussures de marche
+туристические ботинки
+le réchaud barbecue
+походная плитка
+le barbecue
+гриль
+le matelas pneumatique
+надувной матрас
+le baladeur CD
+CD-плеер
+l'enregistreur minidisc
+минидисковый плеер
+le baladeur MP3
+МРЗ-плеер
+le lecteur DVD
+DVD-плеер
+le DVD
+ДиВиДи-диск
+la chaîne hi-fi
+акустическая стереосистема
+le lecteur CD
+CD-проигрыватель
+la radio
+радиоприёмник
+l'amplificateur
+усилитель
+les écouteurs
+наушники
+le tourne-disque
+проигрыватель-вертушка
+le support
+стойки колонки
+le baffle
+колонка
+la vidéocassette
+видеокассета
+le magnétoscope
+видеомагнитофон
+le caméscope
+видеокамера
+l'écran
+экран
+l'oeilleton
+окуляр
+l'antenne parabolique
+спутниковая антенна
+la télévision grand écran
+широкоэкранный телевизор
+le jeu vidéo
+видео игра
+la commande
+джойстик
+la console
+консоль
+la télécommande
+пульт дистанционного управления
+la lecture
+пуск
+le retour rapide
+перемотка назад
+le volume
+громкость
+l'avance rapide
+перемотка вперёт
+la pause
+пауза
+l'enregistrement
+запись
+l'arrêt
+остановка
+le CD
+компакт-диск
+le film
+художественный фильм
+la télévision par câble
+кабельное телевидение
+stéréo
+стерео
+regarder la télévision
+смотреть телевизор
+la cassette
+кассета
+la publicité
+реклама
+le programme
+программа
+changer de chaîne
+переключить канал
+régler la radio
+настроить радиоприёмник
+le lecteur cassettes
+кассетный плеер
+allumer la télévision
+включить телевизор
+la chaîne à péage
+платный канал
+éteindre la télévision
+выключить телевизор
+l'appareil réflex mono-objectif
+аналоговая фотокамера
+le réglage du temps de pose
+регулировка экспозиции
+le déclencheur
+затвор
+le compteur de vues
+счётчик кадров
+le flash
+вспышка
+le réglage de l'ouverture
+регулировка диафрагмы
+l'objectif
+объектив
+le filtre
+фильтр
+le bouchon l'objectif
+колпачок объектива
+le flash compact
+выносная вспышка
+le posemètre
+экспонометр
+le zoom
+выдвижной объектив ''зум''
+le trépied
+штатив
+l'appareil numérique
+цифровой фотоаппарат
+l'appareil photo APS
+APS-фотоаппарат
+l'appareil instantané
+полароид
+l'appareil jetable
+одноразовый фотоаппарат
+photographier
+фотографировать
+la pellicule
+фотоплёнка
+le rouleau de pellicule
+кассета с фотоплёнкой
+mettre au point
+наводить 	резкость
+développer
+проявлять
+le négatif
+негатив
+paysage
+пейзаж
+l'album de photos
+фотоальбом
+le cadre de photo
+фотография в рамке
+les problèmes
+проблемы
+sous-exposé
+недодержка
+surexpose
+передержка
+flou
+не в фокусе
+la tâche rouge
+красные глаза
+le viseur
+видоискатель
+l'épreuve
+печать
+le sac d'appareil photo
+футляр для фотоаппарата
+mat
+матовая
+la pose
+экспозиция
+brillant
+глянцевая
+la chambre noire
+фотолаборатория
+l'agrandissement
+увеличение
+les échecs
+шахматы
+le cavalier
+конь
+le pion (I)
+пешка
+l'échiquier
+шахматная доска
+noir
+чёрное поле
+blanc
+белое поле
+la dame
+ферзь
+le roi
+король
+le fou
+слон
+la tour
+ладья
+les dames
+шашки
+la case
+квадрат
+le pion (II)
+шашка
+le scrabble
+скрэббл
+la pièce
+костяшка
+le trictrac
+нарды
+le dé
+кость
+les jeux de société
+настольные игры
+le jeton
+фишка
+le Monopoly
+монополия
+la philatélie
+филателия
+le puzzle
+пазл
+les dominos
+домино
+les cartes
+карты
+l'as
+туз
+le valet
+валет
+le joker
+джокер
+le carreau
+бубны
+le pique
+пики
+le coeur
+червы
+le trèfle
+трефы
+donner
+сдавать
+battre
+тасовать
+le coup
+ход
+gagner
+выигрывать
+le perdant
+проигравший
+le point
+очко
+le bridge
+бридж
+jouer
+играть
+le gagnant
+выигравший
+le jeu
+игра
+la marque
+счёт
+le joueur
+игрок
+perdre
+проигрывать
+le pari
+ставка
+le poker
+покер
+la couleur
+масть
+la peinture
+живопись
+l'artiste peintre
+художник
+le chevalet
+мольберт
+la toile
+холст
+le pinceau
+кисть
+la palette
+палитра
+les couleurs (I)
+цвета
+rouge
+красный
+bleu
+синий
+jaune
+жёлтый
+vert
+зелёный
+orange
+оранжевый
+violet
+фиолетовый
+blanc
+белый
+noir
+чёрный
+gris
+серый
+rose
+розовый
+marron
+коричневый
+indigo
+индиго
+les couleurs (II)
+краски
+les couleurs à l'huile
+масляные краски
+la couleur a l'eau
+акварельные краски
+les pastels
+пастели
+l'acrylique
+акриловые краски
+la gouache
+гуашь
+le dessin
+рисунок
+le fusain
+уголь
+l'encre
+тушь
+le croquis
+эскиз
+le carnet à croquis
+альбом для рисования
+le crayon
+карандаш
+l'imprimerie
+эстамп
+la gravure
+гравюра
+la sculpture
+скульптура
+la pierre
+камень
+le maillet
+деревянный молоток
+la sculpture sur bois
+резьба по дереву
+le burin
+резец
+le bois
+дерево
+le collage
+коллаж
+la colle
+клей
+le carton
+картон
+la poterie
+керамика
+l'argile
+глина
+le tour de potier
+гончарный круг
+la spatule
+формовочный инструмент
+la joaillerie
+ювелирное дело
+le papier mâché
+папье-маше
+l'origami
+оригами
+le modélisme
+моделирование
+la machine à coudre
+швейная машина
+la platine
+игольная пластина
+l'aiguille
+игла
+le guide de fil
+нитенаправитель
+la bobine de fil
+катушка ниток
+le balancier
+маховик
+le sélecteur de point
+выбор шва
+les ciseaux
+ножницы
+le patron
+выкройка
+le centimètre
+сантиметр
+le tissu (I)
+материал
+la corbeille à couture
+портняжная корзинка
+la pelote à épingles
+подушечка для булавок
+la bobine
+шпулька
+le fil
+нить
+l'agrafe
+крючок
+l'oeillet
+петелька
+de á coudre
+напёрсток
+la craie de tailleur
+портновский мелок
+le mannequin
+портновский манекен
+coudre
+шить
+le point
+шов
+repriser
+штопать
+bâtir
+намётывать
+couper
+кроить
+la tapisserie
+вышивка крестиком
+la broderie
+вышивка гладью
+le crochet
+вязание крючком
+l'ouvrage au crochet
+вязальный крючок
+le macramé
+макраме
+le patchwork
+лоскутное шитье
+l'ouatage
+стёжка
+la dentelle
+плетение кружев
+le fuseau
+коклюшка
+le tissage
+ткачество
+le métier à tisser
+ткацкий станок
+le tricote
+вязание
+l'aiguille à tricoter
+вязальная спица
+l'écheveau
+моток пряжи
+défaire
+распарывать
+le nylon
+нейлон
+le tissu (II)
+ткань
+la soie
+шёлк
+le coton
+хлопок
+le styliste
+модельер
+le polyester
+полиэстер
+la fermeture éclair
+застёжка-молния
+le système solaire
+Солнечная система
+le soleil
+Солнце
+la Vénus
+Венера
+la Mercure
+Меркурий
+la Terre
+земля
+la Mars
+Марс
+la Jupiter
+Юпитер
+la Saturne
+Сатурн
+l'Uranus
+Уран
+la Neptune
+Нептун
+la Pluton
+Плутон
+la galaxie
+галактика
+la nébuleuse
+туманность
+l'astéroïde
+астероид
+la comète
+комета
+l'univers
+Вселенная
+la planète
+планета
+la pleine lune
+полнолуние
+l'orbite
+орбита
+le météore
+метеор
+la nouvelle lune
+новолуние
+la pesanteur
+гравитация
+le trou noir
+чёрная дыра
+le croissant de lune
+полумесяц
+l'exploration spatiale
+освоение космоса
+l'astronaute
+астронавт
+le module lunaire
+лунный модуль
+le lancement
+запуск
+la rampe de lancement
+стартовая площадка
+la fusée d'orientation
+двигатель малой тяги
+le sas d'équipage
+люк кабины экипажа
+le radar
+радар
+le scaphandre spatial
+космический скафандр
+l'accélérateur
+ускоритель
+la navette spatiale
+космический шаттл
+le satellite
+спутник
+la station spatiale
+космическая станция
+l'astronomie
+астрономия
+la constellation
+созвездие
+les jumelles
+бинокль
+le trépied
+штатив
+le télescope
+телескоп
+le pôle
+полюс
+l'océan
+океан
+la mer
+море
+le continent
+континент
+l'île
+остров
+la péninsule
+полуостров
+la chaîne de montagnes
+горный хребет
+la terre
+суша
+la planète
+планета
+le noyau intérieur
+внутреннее ядро
+le manteau
+мантия
+l'atmosphère
+атмосфера
+l'écorce
+земная кора
+le noyau extérieur
+внешнее ядро
+le cercle polaire arctique
+Северный полярный круг
+le tropique du cancer
+Северный тропик
+les tropiques
+тропики
+le tropique du capricorne
+Южный тропик
+les zones
+климатические пояса
+l'équateur
+экватор
+l'hémisphère sud
+Южное полушарие
+la latitude
+широта
+la longitude
+долгота
+l'hémisphère nord
+Северное Полушарие
+le pôle nord
+Северный полюс
+le volcan
+вулкан
+la chambre
+камера
+le magma
+магма
+la cheminée
+жерло
+la lave
+лава
+la cendre
+пепел
+le cratère
+кратер
+le tremblement de terre
+землетрясение
+la plaque
+плита
+entrer en éruption
+извергаться
+le tremblement
+толчок
+la montagne
+гора
+la pente
+склон
+la rive
+берег
+la rivière
+река
+les rapides
+пороги
+les rochers
+утёсы
+le glacier
+ледник
+la colline
+холм
+le plateau
+плоскогорье
+la gorge
+ущелье
+la caverne
+пещера
+la vallée
+долина
+la plaine
+равнина
+le désert
+пустыня
+le forêt
+лес
+le bois
+бор
+le forêt tropicale
+тропический лес
+le marais
+болото
+le pré
+луг
+la prairie
+степь
+la cascade
+водопад
+le ruisseau
+ручей
+le lac
+озеро
+le geyser
+гейзер
+la côte
+побережье
+la falaise
+скала
+le récif de corail
+коралловый риф
+l'estuaire
+эстуарий
+l'atmosphère
+атмосфера
+la couche d'ozone
+озоновый слой
+les rayons ultraviolets
+ультрафиолетовые лучи
+l'ionosphère
+ионосфера
+l'aurore
+полярное сияние
+l'exosphère
+экзосфера
+la thermosphere
+термосфера
+la mésosphère
+мезосфера
+la stratosphère
+стратосфера
+la troposphère
+тропосфера
+le soleil
+хорошая погода
+le vent
+ветер
+la neige fondue
+дождь со снегом
+l'averse
+ливень
+très chaud
+жарко
+sec
+сухо
+venteux
+ветрено
+la grêle
+град
+ensoleillé
+солнечно
+froid
+холодно
+humide (II)
+сыро
+la tempête
+буря
+le tonnerre
+гром
+nuageux
+пасмурно
+chaud
+тепло
+humide (I)
+влажно
+la température
+температура
+le nuage
+облако
+la pluie
+дождь
+l'orage
+гроза
+la brume
+дымка
+le brouillard
+туман
+l'arc-en-ciel
+радуга
+la neige
+снег
+le givre
+иней
+la glace
+лёд
+le gel
+мороз
+l'hurricane
+ураган
+la tornade
+торнадо
+la mousson
+муссон
+l'inondation
+наводнение
+igné
+вулканические
+le granit
+гранит
+l'obsidienne
+обсидиан
+le basalte
+базальт
+la pierre ponce
+пемза
+sédimentaire
+осадочные
+le grès
+песчаник
+le calcaire
+известняк
+la craie
+мел
+le silex
+кремень
+le conglomérat
+конгломерат
+le charbon
+каменный уголь
+métamorphique
+метаморфические
+l'ardoise
+шиферный сланец
+le schiste
+аспидный сланец
+le gneiss
+гнейс
+le marbre
+мрамор
+les gemmes
+драгоценные камни
+l'améthyste
+аметист
+le rubis
+рубин
+le jais
+гагат
+l'opale
+опал
+la pierre de lune
+лунный камень
+le grenat
+гранат
+la topaze
+топаз
+la tourmaline
+турмалин
+le saphir
+сапфир
+l'émeraude
+изумруд
+le jade
+нефрит
+l'algue-marine
+аквамарин
+le quartz
+кварц
+la mica
+слюда
+le soufre
+сера
+l'hématite
+красный железняк
+la calcite
+известковый шпат
+la malachite
+малахит
+la turquoise
+бирюза
+l'onyx
+оникс
+l'agate
+агат
+le graphite
+графит
+les métaux
+металлы
+l'or
+золото
+le platine
+платина
+le nickel
+никель
+le fer
+железо
+le cuivre
+медь
+l'étain
+олово
+l'aluminium
+алюминий
+le mercure
+ртуть
+le zinc
+цинк
+les mammifères
+млекопитающие
+le lapin
+кролик
+le hamster
+хомяк
+la souris
+мышь
+les poils
+усы
+le rat
+крыса
+la queue
+хвост
+l'écureuil
+белка
+la chauve-souris
+летучая мышь
+le raton laveur
+енот
+le renard
+лисица
+le loup
+волк
+le chien
+собака
+le chiot
+щенок
+le chat
+кошка
+le chaton
+котёнок
+la loutre
+выдра
+le phoque
+тюлень
+le bébé-phoque
+детёныш тюленя
+l'otarie
+морской лев
+le morse
+морж
+la nageoire
+ласт
+la baleine
+кит
+l'évent
+дыхало
+le dauphin
+дельфин
+le cerf
+олень
+la ramure
+рог (I)
+le zèbre
+зебра
+le sabot
+копыто
+la crinière
+грива
+la girafe
+жираф
+l'hippopotame
+гиппопотам
+l'éléphant
+слон
+la défense
+бивень
+la trompe
+хобот
+le rhinocéros
+носорог
+le tigre
+тигр
+le lion
+лев
+le singe
+обезьяна
+le gorille
+горилла
+le koala
+коала
+le kangourou
+кенгуру
+la poche
+сумка
+l'ours
+медведь
+la griffe
+коготь
+l'ours blanc
+белый медведь
+le panda
+панда
+les amphibiens
+земноводные
+les oiseaux
+птицы
+le canari
+канарейка
+le moineau
+воробей
+le colibri
+колибри
+l'hirondelle
+ласточка
+le corbeau
+ворона
+le pigeon
+голубь
+le pic
+дятел
+le faucon
+сокол
+chouette
+сова
+la mouette
+чайка
+l'aigle
+орёл
+le pélican
+пеликан
+le flamant
+фламинго
+la cigogne
+аист
+la grue
+журавль
+le pingouin
+пингвин
+l'autruche
+страус
+l'oie
+гусь
+le cygne
+лебедь
+le faisan
+фазан
+le paon
+павлин
+le dindon
+индюк
+le cacatoès
+какаду
+le perroquet
+попугай
+le bec
+клюв
+la plume
+перо
+l'aile
+крыло
+les reptiles
+пресмыкающиеся
+l'alligator
+аллигатор
+les écailles
+костная чешуи
+le lézard
+ящерица
+l'iguane
+игуана
+la tortue marine
+морская черепаха
+la carapace
+панцирь
+la tortue
+черепаха
+le serpent
+змея
+le crocodile
+крокодил
+les animaux
+животные
+la grenouille
+лягушка
+le crapaud
+жаба
+le têtard
+головастик
+la salamandre
+саламандра
+les poissons
+рыбы
+l'anguille
+угорь
+le requin
+акула
+l'hippocampe
+морской конёк
+la raie
+гладкий скат
+le poisson rouge
+золотая рыбка
+l'espadon
+рыба-меч
+l'ouïe
+жабры
+la nageoire dorsale
+спинной плавник
+la carpe koï‎
+карп кои
+la nageoire pectorale
+грудной плавник
+l'écaille
+чешуя
+les invertébrés
+беспозвоночные
+la fourmi
+муравей
+la termite
+термит
+l'abeille
+пчела
+la guêpe
+оса
+le scarabée
+жук
+le cafard
+таракан
+le papillon de nuit
+моль
+le papillon
+бабочка
+le cocon
+кокон
+la chenille
+гусеница
+le grillon
+сверчок
+la sauterelle
+кузнечик
+la mante religieuse
+богомол
+le scorpion
+скорпион
+le mille-pattes
+сороконожка
+la libellule
+стрекоза
+la mouche
+муха
+le moustique
+комар
+la coccinelle
+божья коровка
+l'araignée
+паук
+la limace
+слизняк
+l'escargot
+улитка
+le ver
+червь
+l'étoile de mer
+морская звезда
+la moule
+мидия
+le crabe
+краб
+le homard
+омар
+la pieuvre
+осьминог
+le calmar
+кальмар
+la méduse
+медуза
+l'arbre
+дерево
+le chêne
+дуб
+la racine
+корень
+la branche
+ветвь
+l'écorce
+кора
+le tronc
+ствол
+la feuille
+лист
+la brindille
+веточка
+le saule
+ива
+le peuplier
+тополь
+l'eucalyptus
+эвкалипт
+le mélèze
+лиственница
+le hêtre
+бук
+le bouleau
+берёза
+le pin
+сосна
+le cèdre
+кедр
+l'érable
+клён
+l'orme
+вяз
+le tilleul
+липа
+le houx
+падуб
+la baie
+ягода
+le palmier
+пальма
+la plante à fleurs
+цветущее растение
+la fleur
+цветок
+l'étamine
+тычинка
+le pétale
+лепесток
+la tige (II)
+черешок
+la tige (I)
+стебель
+le bouton
+бутон
+le calice
+чашечка
+la renoncule
+лютик
+la pâquerette
+ромашка
+le chardon
+чертополох
+le pissenlit
+одуванчик
+la bruyère
+вереск
+le coquelicot
+мак
+la digitale
+наперстянка
+le chèvrefeuille
+жимолость
+le tournesol
+подсолнечник
+le trèfle
+клевер
+les jacinthes des bois
+колокольчик
+la primevère
+примула
+les lupins
+люпин
+l'ortie
+крапива
+la rue
+улица
+le bord du trottoir
+бордюр
+le coin de la rue
+угол улицы
+le magasin
+магазин
+le carrefour
+перекрёсток
+la voie à sens unique
+одностороннее движение
+le trottoir
+тротуар
+l'immeuble de bureaux
+офисное здание
+l'immeuble
+жилой дом
+le lampadaire
+уличное освещение
+la borne
+тумба
+le panneau de signalisation
+указатель
+le parking
+автостоянка
+la ruelle
+переулок
+les bâtiments
+здания
+la mairie
+ратуша
+la bibliothèque
+библиотека
+le cinéma
+кинотеатр
+le théâtre
+театр
+l'université
+университет
+l'école
+школа
+le gratte-ciel
+небоскрёб
+les environs
+районы
+la zone industrielle
+промышленная зона
+la ville
+центр
+la banlieue
+предместье
+le village
+деревня
+la zone piétonnière
+пешеходная зона
+la rue transversale
+боковая улица
+le caniveau
+водосток
+l'église
+церковь
+l'avenue
+проспект
+la place
+площадь
+l'arrêt de bus
+автобусная остановка
+l'usine
+фабрика
+l'égout
+канализация
+le gratte-ciel
+небоскрёб
+le château
+замок
+la tourelle
+башенка
+la douve
+ров
+l'église
+церковь
+la mosquée
+мечеть
+le temple
+храм
+la synagogue
+синагога
+le barrage
+плотина
+le pont
+мост
+la cathédrale
+собор
+la colonne
+колонна
+la corniche
+карниз
+la tour
+башня
+le pignon
+фронтон (I)
+le fleuron
+флерон
+la flèche
+шпиль
+gothique
+готика
+l'arc
+арка
+la frise
+фриз
+Renaissance
+Ренессанс
+l'architrave
+архитрав
+baroque
+барокко
+rococo
+рококо
+le choeur
+хоры
+le contrefort
+контрфорс
+néoclassique
+неоклассицизм
+le fronton
+фронтон (II)
+art nouveau
+арт нуво
+art déco
+арт-деко
+l'horloge
+часы
+la grande aiguille
+минутная стрелка
+la petite aiguille
+часовая стрелка
+une heure cinq
+пять минут второго
+une heure dix
+десять минут второго
+une heure et quart
+четверть второго
+une heure vingt
+двадцать минут второго
+une heure vingt-cinq
+двадцать пять минут второго
+une heure trente
+половина второго
+deux heures moins vingt-cinq
+без двадцати два
+deux heures moins le quart
+без четверти два
+deux heure moins dix
+без десяти два
+deux heures moins cinq
+без пяти два
+deux heures
+два часа
+l'heure
+час
+maintenant
+сейчас
+quarante minutes
+сорок минут
+la minute
+минута
+plus tard
+потом
+vingt minutes
+двадцать минут
+la seconde
+секунда
+une demi-heure
+полчаса
+le minuit
+полночь
+le lever du soleil
+восход солнца
+l'aube
+рассвет
+le matin
+утро
+le coucher du soleil
+закат солнца
+le midi
+полдень
+le crépuscule
+сумерки
+le soir
+вечер
+l'après-midi
+после полудня
+tôn
+рано
+à l'heure
+вовремя
+tard
+поздно
+l'an
+год
+le mois
+месяц
+le jour
+день
+le jour ouvrable
+рабочий день
+la semaine
+неделя
+la date
+число
+hier
+вчера
+aujourd'hui
+сегодня
+demain
+завтра
+le week-end
+выходные дни
+lundi
+понедельник
+mardi
+вторник
+mercredi
+среда
+jeudi
+четверг
+vendredi
+пятница
+samedi
+суббота
+dimanche
+воскресенье
+janvier
+январь
+février
+февраль
+mars
+март
+avril
+апрель
+mai
+май
+juin
+июнь
+juillet
+июль
+août
+август
+septembre
+сентябрь
+octobre
+октябрь
+novembre
+ноябрь
+décembre
+декабрь
+les saisons
+времена года
+le printemps
+весна
+l'été
+лето
+l'automne
+осень
+l'hiver
+зима
+le siècle
+век
+la décennie
+десятилетие
+le millénaire
+тысячелетие
+quinze jours
+две недели
+cette semaine
+эта неделя
+la semaine dernière
+прошлая неделя
+la semaine prochaine
+следующая неделя
+avant-hier
+позавчера
+après-demain
+послезавтра
+hebdomadaire
+еженедельно
+mensuel
+ежемесячно
+annuel
+ежегодный
+la superficie
+площадь
+le pied carré
+квадратный фут
+le mètre carré
+квадратный метр
+la distance
+расстояние
+le kilomètre
+километр
+le mile
+миля
+la balance
+весы
+l'once
+унция
+le kilogramme
+килограмм
+le gramme
+грамм
+le yard
+ярд
+le mètre
+метр
+la tonne
+тонна
+le milligramme
+миллиграмм
+mesurer
+измерять
+peser
+взвешивать
+la longueur
+длина
+le millimètre
+миллиметр
+le centimètre
+сантиметр
+le pied
+фут
+le pouce
+дюйм
+la capacité
+ёмкость (I)
+le demi-litre
+пол-литра
+la pinte
+пинта
+le millilitre
+миллилитр
+le pot gradué
+мерная кружка
+le volume
+ёмкость (II)
+le récipient
+тара
+le carton
+картонный пакет
+le paquet (I)
+бумажный пакет
+la bouteille
+бутылка
+le sac
+мешок
+le pot (II)
+пластиковая коробка
+le pot (I)
+стеклянная банка
+la boîte
+жестяная банка
+le pulvérisateur
+пульверизатор
+le tube
+тюбик
+le rouleau
+рулон
+la bombe
+аэрозольный баллон
+la mer du Nord
+Северное море
+l'océan Arctique
+Северный Ледовитый океан
+les Rocheuses
+Скалистые Горы
+la mer des Antilles
+Карибское море
+l'Amazonie
+Амазония
+l'océan Pacifique
+Тихий океан
+les Andes
+Анды
+l'océan Atlantique
+Атлантический океан
+l'océan Austral
+Южный океан
+le Sahara
+Пустыня Сахара
+la mer Rouge
+Красное море
+l'océan Indien
+Индийский океан
+la mer d'Arabie
+Аравийское море
+l'Himalaya
+Гималаи
+la mer Caspienne
+Каспийское море
+la mer Noire
+Чёрное море
+la Sibérie
+Сибирь
+la Méditerranée
+Средиземное море
+la mer Baltique
+Балтийское море
+le nord
+север
+le sud
+юг
+l'ouest
+запад
+l'est
+восток
+la boussole
+компас
+zéro
+ноль
+un
+один
+deux
+два
+trois
+три
+quatre
+четыре
+cinq
+пять
+six
+шесть
+sept
+семь
+huit
+восемь
+neuf
+девять
+dix
+десять
+onze
+одиннадцать
+douze
+двенадцать
+treize
+тринадцать
+quatorze
+четырнадцать
+quinze
+пятнадцать
+seize
+шестнадцать
+dix-sept
+семнадцать
+dix-huit
+восемнадцати
+dix-neuf
+девятнадцать
+vingt
+двадцать
+vingt et un
+двадцать один
+vingt-deux
+двадцать два
+trente
+тридцать
+quarante
+сорок
+cinquante
+пятьдесят
+soixante
+шестьдесят
+soixante-dix
+семьдесят
+quatre-vingt
+восемьдесят
+quatre-vingt-dix
+девяносто
+cent
+сто
+cent dix
+сто десять
+deux cents
+двести
+trois cents
+триста
+quatre cents
+четыреста
+cinq cents
+пятьсот
+six cents
+шестьсот
+sept cents
+семьсот
+huit cents
+восемьсот
+neuf cents
+девятьсот
+mille
+одна тысяча
+dix mille
+десять тысяч
+vingt mille
+двадцать тысяч
+cinquante mille
+пятьдесят тысяч
+cinquante-cinq mille cinq cents
+пятьдесят пять тысяч пятьсот
+cent mille
+сто тысяч
+un million
+один миллион
+un milliard
+один миллиард
+primer
+первый
+deuxième
+второй
+troisième
+третий
+quatrième
+четвёртый
+cinquième
+пятый
+sixième
+шестой
+septième
+седьмой
+huitième
+восьмой
+neuvième
+девятый
+dixième
+десятый
+onzième
+одиннадцатый
+douzième
+двенадцатый
+treizième
+тринадцатый
+quatorzième
+четырнадцатый
+quinzième
+пятнадцатый
+seizième
+шестнадцатый
+dix-septième
+семнадцатый
+dix-huitième
+восемнадцатый
+dix-neuvième
+девятнадцатый
+vingtième
+двадцатый
+vingt et unième
+двадцать первый
+vingt- deuxième
+двадцать второй
+vingt-troisième
+двадцать третий
+trentième
+тридцатый
+quarantième
+сороковой
+cinquantième
+пятидесятый
+soixantième
+шестидесятый
+soixante-dixième
+семидесятый
+quatre-vingtième
+восьмидесятый
+quatre-vingt- dixième
+девяностый
+centième
+сотый
+l'Amérique du Nord et centrale
+Северная и Центральная Америка
+l'Alaska
+Аляска
+le Canada
+Канада
+le Groenland
+Гренландия
+les États-Unis d'Amérique
+Соединенные Штаты Америки
+le Mexique
+Мексика
+le Guatemala
+Гватемала
+le Bélize
+Белиз
+le Salvador
+Сальвадор
+le Honduras
+Гондурас
+le Nicaragua
+Никарагуа
+le Costa Rica
+Коста-Рика
+le Panama
+Панама
+Cuba
+Куба
+les Bahamas
+Багамские Острова
+la Jamaïque
+Ямайка
+Haïti
+Гаити
+la République dominicaine
+Доминиканская Республика
+la Porto Rico
+Пуэрто-Рико
+la Barbade
+Барбадос
+la Trinité-et-Tobago
+Тринидад и Тобаго
+Saint-Kitts-et-Nevis
+Сент-Китс и Невис
+Antigua-et-Barbuda
+Антигуа и Барбуда
+la Dominique
+Доминика
+Sainte-Lucie
+Сент-Люсия
+Saint-Vincent-et-les-Grenadines
+Сент-Винсент и Гренадины
+l'Amérique du Sud
+Южная Америка
+le Venezuela
+Венесуэла
+la Colombie
+Колумбия
+l'Équateur
+Эквадор
+le Pérou
+Перу
+les îles Galápagos
+Галапагосские Острова
+la Guyane
+Гайана
+le Surinam
+Суринам
+la Guyane française
+Французская Гвиана
+le Brésil
+Бразилия
+la Bolivie
+Боливия
+le Chili
+Чили
+l'Argentina
+Аргентина
+le Paraguay
+Парагвай
+l'Uruguay
+Уругвай
+les îles Malouines
+Фолклендские Острова
+l'Europe
+Европа
+l'Irlande
+Ирландия
+le Royaume-Uni
+Великобритания
+le Portugal
+Португалия
+l'Espagne
+Испания
+les Baléares
+Балеарские Острова
+l'Andorre
+андорра
+la France
+Франция
+la Belgique
+Бельгия
+les Pays-Bas
+Нидерланды
+le Luxembourg
+Люксембург
+l'Allemagne
+Германия
+le Danemark
+Дания
+la Norvège
+Норвегия
+la Suède
+Швеция
+la Finlande
+Финляндия
+l'Estonie
+Эстония
+la Lettonie
+Латвия
+la Lituanie
+Литва
+Kaliningrad
+Калининград
+la Pologne
+Польша
+la République tchèque
+Чешская Республика
+l'Autriche
+Австрия
+le Liechtenstein
+Лихтенштейн
+la Suisse
+Швейцария
+l'Italie
+Италия
+Monaco
+Монако
+la Corse
+Корсика
+la Sardaigne
+Сардиния
+le Saint-Marin
+Сан - Марино
+la Cité du Vatican
+Ватикан
+la Sicile
+Сицилия
+Malte
+Мальта
+la Slovénie
+Словения
+la Croatie
+Хорватия
+la Hongrie
+Венгрия
+la Slovaquie
+Словакия
+l'Ukraine
+Украина
+la Bélarus
+Беларусь
+la Moldavie
+Молдова
+la Roumanie
+Румыния
+la Serbie
+Сербия
+la Bosnie-Herzégovine
+Босния и Герцеговина
+l'Albanie
+Албания
+la Macédoine
+Македония
+la Bulgarie
+Болгария
+la Grèce
+Греция
+la Turquie
+Турция
+Chypre
+Кипр
+l'Afrique
+Африка
+le Maroc
+Марокко
+le Sahara occidental
+Западная Сахара
+la Mauritanie
+Мавритания
+le Sénégal
+Сенегал
+la Gambie
+Гамбия
+la Guinée-Bissau
+Гвинея-Бисау
+la Guinée
+Гвинея
+la Sierra Leone
+Сьерра-Леоне
+le Libéria
+Либерия
+la Côte d'Ivoire
+берег Слоновой Кости
+le Burkina
+Буркина-Фасо
+le Mali
+Мали
+l'Algérie
+Алжир
+la Tunisie
+Тунис
+la Libye
+Ливия
+le Niger
+Нигер
+le Ghana
+Гана
+le Togo
+Того
+le Bénin
+Бенин
+le Nigéria
+Нигерия
+Sao Tomé-et-Principe
+Сан-Томе и Принсипи
+la Guinée équatoriale
+Экваториальная Гвинея
+le Cameroun
+Камерун
+le Tchad
+Чад
+l'Égypte
+Египет
+le Soudan
+Судан
+l'Érythrée
+Эритрее
+Djibouti
+Джибути
+l'Éthiopie
+Эфиопия
+la Somalie
+Сомали
+le Kenya
+Кения
+l'Ouganda
+Уганда
+la République centrafricaine
+Центрально-Африканская Республика
+le Gabon
+Габон
+le Congo
+Конго
+Cabinda
+Кабинда
+la République démocratique du Congo
+Демократическая Республика Конго
+le Rwanda
+Руанда
+le Burundi
+Бурунди
+la Tanzanie
+Танзания
+le Mozambique
+Мозамбик
+le Malawi
+Малави
+la Zambie
+Замбия
+l'Angola
+Ангола
+la Namibie
+Намибия
+le Botswana
+Ботсвана
+le Zimbabwe
+Зимбабве
+l'Afrique du Sud
+Южно-Африканская Республика
+le Lesotho
+Лесото
+le Swaziland
+Свазиленд
+les Comores
+Коморские Острова
+Madagascar
+Мадагаскар
+l'île Maurice
+Маврикий
+Asie et Océanie
+Азия и Океания
+la Fédération de Russie
+Российская Федерация
+la Géorgie
+Грузия
+l'Arménie
+Армения
+l'Azerbaïdjan
+Азербайджан
+l'Iran
+Иран
+l'Irak
+Ирак
+la Syrie
+Сирия
+le Liban
+Ливан
+Israël
+Израиль
+la Jordanie
+Иордания
+l'Arabie Saoudite
+Саудовская Аравия
+le Koweït
+Кувейт
+le Qatar
+Катар
+les Émirats arabes unis
+ОАЭ
+l'Oman
+Оман
+le Yémen
+Йемен
+le Kazakhstan
+Казахстан
+l'Ouzbékistan
+Узбекистан
+le Turkménistan
+Туркменистан
+l'Afghanistan
+Афганистан
+le Tadjikistan
+Таджикистан
+le Kirghizistan
+Киргизия
+le Pakistan
+Пакистан
+l'Inde
+Индия
+les Maldives
+Мальдивы
+Sri Lanka
+Шри Ланка
+la Chine
+Китай
+la Mongolie
+Монголия
+la Corée du Nord
+Северная Корея
+la Corée du Sud
+Южная Корея
+le Japon
+Япония
+le Népal
+Непал
+le Bhoutan
+Бутан
+le Bangladesh
+Бангладеш
+le Myanmar
+Бирма (Мьянма)
+la Thaïlande
+Таиланд
+le Laos
+Лаос
+le Vietnam
+Вьетнам
+le Cambodge
+Камбоджа
+la Malaisie
+Малайзия
+Singapour
+Сингапур
+l'Indonésie
+Индонезия
+le Brunei
+Бруней
+les Philippines
+Филиппины
+Taiwan
+Тайвань
+le Timor oriental
+Восточный Тимор
+la Papouasie-Nouvelle-Guinée
+Папуа-Новая Гвинея
+les îles Salomon
+Соломоновы острова
+Vanuatu
+Вануату
+Fidji
+Фиджи
+l'Australasie
+Австралазия
+l'Australie
+Австралия
+la Tasmanie
+Тасмания
+la Nouvelle-Zélande
+Новая Зеландия
+le continent
+континент
+la province
+провинция
+la zone
+зона
+le pays
+страна
+le territoire
+территория
+le district
+район
+la nation
+нация
+la principauté
+княжество
+l'État
+государство
+la colonie
+колония
+la capitale
+столица
+l'oesophage
+пищевод
+habillé
+элегантная одежда
+le fard à joues
+румяна
+la clef
+ключ
+la mèche
+сверло
+le vernis
+лак
+le terreau
+компост
+la fourche
+вилы
+le gravier
+гравий
+les graines
+семена
+le pistolet
+пистолет
+le texto
+текстовое сообщение
+le panier
+корзина
+les céréales
+сухие завтраки
+le compte-gouttes
+пипетка
+l'aiguille
+игла
+le rognon
+почка
+les agrumes
+цитрусовые
+la fraise
+клубника
+les fèves
+бобы
+le biscuit scandinave
+хрустящие хлебцы
+la tranche
+ломоть
+le gâteau d'anniversaire
+именинный торт
+les bougies d'anniversaire
+именинные свечи
+le piment
+чили
+séché
+вяленый
+en saumure
+в рассоле
+mariné
+маринованный
+salé
+солёный
+la sauce
+соус
+fumé
+копчёный
+l'expresso
+эспрессо
+la table
+столик
+la boisson en boîte
+баночный напиток
+le petit pan
+булочка
+les beignets de poulet
+кусочки куриного филе
+la garniture (II)
+начинка
+le canapé
+бутерброд
+la garniture (I)
+начинка пиццы
+le beurre
+сливочное масло
+la confiture d'oranges
+конфитюр
+le pâté
+паштет
+la crème
+сливки
+le yaourt aux fruits
+фруктовый йогурт
+l'histoire
+история
+compter
+считать
+le compte-gouttes
+капельница
+le forceps
+зажим (II)
+le scalpel
+скальпель
+le campus
+студенческий городок
+le catalogue
+каталог
+la philosophie
+философия
+le scotch
+липкая лента
+le courrier électronique
+электронная почта
+les professions
+профессий
+le masque
+маска
+le sac postal
+почтовая сумка
+la vigne
+виноград
+le siège du conducteur
+место водителя
+la poignée
+поручень
+l'abribus
+автобусное депо
+l'horaire
+расписание
+l'accès aux handicapés
+вход для инвалидных колясок
+les vêtements
+одежда
+la barre
+поперечина
+la clef
+ключ
+le rail
+рельс
+le missile
+снаряд
+la pale de rotor
+лопасть винта
+les arrivées
+прибытие
+le retrait des bagages
+выдача багажа
+la carte d'embarquement
+посадочный талон
+la location de voitures
+аренда автомобилей
+l'enregistrement des bagages
+стойка регистрации
+la salle de départ
+зал вылета
+les départs
+отправление
+la destination
+пункт назначения
+la boutique hors taxes
+магазин беспошлинной торговли
+le numéro de la porte d'embarquement
+номер выхода на посадку
+les bagages à main
+ручная кладь
+l'écran d'information
+информационное табло
+les bagages
+багаж
+le passeport
+паспорт
+le contrôle de passeports
+паспортный контроль (II)
+la station de taxis
+стоянка такси
+le billet
+билет
+le chariot
+тележка
+le visa
+виза
+l'ancre
+якорь
+le bollard
+швартовая тумба
+le canoë
+каноэ
+le capitaine
+капитан
+le dock
+док
+la passerelle
+сходня
+la barque
+шлюпка
+le guindeau
+брашпиль
+le kiosque
+рубка
+le hors-bord
+подвесной мотор
+le mur
+стенка
+la botte
+бутса
+botter
+бить по мячу
+faire une passe
+пасовать
+sauver
+брать мяч
+shooter
+бить по воротам
+tacler
+делать подкат
+faire rebondir
+вести мяч
+le batteur
+отбивать (I)
+la ligne de service
+линия подачи
+le fairway
+фарватер
+battre un record
+побить рекорд
+le chronomètre
+секундомер
+le couloir
+дорожка
+le nageur
+пловец
+la coque
+корпус
+le siège
+головка седла
+l'obstacle
+препятствие
+la flèche
+стрелка
+le carquois
+колчан
+l'exercice pour la poitrine
+грудной пресс
+la toile de fond
+задник
+le cor anglais
+английский рожок
+la guide (I)
+гид
+les montagnes russes
+американские горки
+la piste cavalière
+дорожка для верховой езды
+le maître nageur
+спасатель
+le tapis de sol (II)
+подстилка
+numérique
+цифровой
+portrait
+портрет
+le mille
+яблочко
+la cible
+мишень
+les fléchettes
+дартс
+l'épingle
+булавка
+le pied-de-biche
+лапка
+la mode
+мода
+le lin
+лён
+la laine
+пряжа
+l'éclipse
+затмение
+la lune
+Луна
+l'étoile
+звезда
+la queue
+хвост
+l'éclair
+молния
+le diamant
+диамант
+le hérisson
+ёж
+le chameau
+верблюд
+la bosse
+горб
+la corne
+рог (II)
+l'antenne
+усик
+le dard
+жало
+la bouche d'égout
+люк
+le dôme
+купол
+la voûte
+свод
+un quart d'heure
+четверти часа
+la trotteuse
+секундная стрелка
+mille neuf cents
+тысяча девятисотый
+mille neuf cent un
+тысяча девятьсот первый
+mille neuf cent dix
+тысяча девятьсот десятый
+deux mille
+двухтысячный
+deux mille un
+две тысячи первый
+le plateau
+чаша весов
+la livre
+фунт
+le litre
+литр
+le gallon
+галлон
+la mesure pour les liquides
+мера объёма жидкости
+le paquet (II)
+пачка
+deux pintes
+кварта
+Hawaii
+Гавайи
+la région
+регион
+le froncement de sourcils
+сдвинутые брови
+l'inhalateur
+ингалятор
+le coup du lapin
+травма шеи
+l'escalier
+лестница
+le pilon
+пестик
+le couvercle
+крышка
+en verre
+стекло
+le linge propre
+чистое бельё
+repasser
+гладить
+le produit assouplissant
+кондиционер для белья
+cirer
+натирать пол
+mettre un tuteur
+подвязывать
+les services
+обслуживание
+les jouets
+игрушки
+le vase
+ваза
+les cultures
+культуры
+le maçon
+строитель
+le tutu
+пачка
+le filtre d'air
+воздушный фильтр
+la balle de criquet
+мяч для крикета
+courir
+бежать
+être en défense
+завладеть мечом
+batter
+отбивать (II)
+le service
+подача
+la voile (I)
+парусный спорт
+l'étagère
+стойка
+la photo
+фотография
+le tableau
+картина
+enfiler
+вдевать нитку
+le glaçon
+сосулька
+l'argent
+серебро
+le museau
+рыло

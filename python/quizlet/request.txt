@@ -1,0 +1,1 @@
+select * from Words, Languages where Languages.LanguageID = Words.LanguageID and Languages.LanguageID in (21,49) order by MediaID

@@ -1,0 +1,27 @@
+
+GET :
+
+import requests
+
+url = "http://challenge01.root-me.org/web-serveur/ch2/"
+headers={'User-Agent':'admin'}
+r = requests.get(url,headers=headers)
+print(r.text)
+
+POST:
+
+import requests
+
+url = "http://challenge01.root-me.org/web-serveur/ch2/"
+headers={'Cookie':'PHPSESSID=asdfasdasdadasd'}
+values = {'machin':'truc'}
+r = requests.get(url,headers=headers, data=values)
+print(r.text)
+
+Empêcher une redirection :
+
+import requests
+
+url = "http://challenge01.root-me.org/web-serveur/ch2/"
+r = requests.get(url,allow_redirects=False)
+print(r.text) 

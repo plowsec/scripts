@@ -1,0 +1,12250 @@
+Les Gens|21
+Люди|49
+le corps|21
+Тело|49
+Le Visage|21
+Лицо|49
+La main|21
+Рука|49
+le pied|21
+Стопа|49
+Les Muscles|21
+Мускулы|49
+Le Squelette|21
+Скелет|49
+Les Organes Internes|21
+Внутренние Органы|49
+La Famille|21
+Семья|49
+Les Relations|21
+Отношения|49
+Les èmotions|21
+Эмоции|49
+Les événements de la vie|21
+События Жизни|49
+L'Apparence|21
+Внешность|49
+Les Vêtements D'Enfants|21
+Детская Одежда|49
+Les Vêtements pour Hommes|21
+Мужская Одежда|49
+Les Vêtements pour Femmes|21
+Женская Одежда|49
+Les Accessoires|21
+Аксессуары|49
+Les Cheveux|21
+Волосы|49
+La Beauté|21
+Красота|49
+La Santé|21
+Здоровье|49
+La Maladie|21
+Болезнь|49
+Le Médecin|21
+Доктор|49
+La Blessure|21
+Травма|49
+Les Premiers Secours|21
+Первая Помощь|49
+L'Hôpital|21
+Больница|49
+Le Dentiste|21
+Стамотолог|49
+L'Opticien|21
+Оптик|49
+Les Thérapies Alternatives|21
+Альтернативная Терапия|49
+La Maison|21
+Дом|49
+La Maison|21
+Дом|49
+Les Systèmes Domestiques|21
+Внутренние Системы|49
+Le Salon|21
+Гостиная|49
+La Salle à Manger|21
+Столовая|49
+La Cuisine|21
+Кухня|49
+Les Ustensiles de Cuisine|21
+Кухонные Принадлежности|49
+La Chambre|21
+Спальня|49
+La Salle de Bain|21
+Ванная|49
+La Chambre D'enfants|21
+Детская Комната|49
+La Buanderie|21
+Бытовка|49
+L'Atelier|21
+Мастерская|49
+La Boîte à Outils|21
+Инструменты|49
+La Décoration|21
+Украшение|49
+Le Jardin|21
+Сад|49
+Les Plantes de Jardin|21
+Садовые Растения|49
+Les Outils de Jardin|21
+Садовые Инструменты|49
+Le Jardinage|21
+Садоводство|49
+Les Services|21
+Услуги|49
+Les Services d'urgence|21
+Аварийные Службы|49
+La Banque|21
+Банк|49
+Les Communications|21
+Коммуникации|49
+L'Hôtel|21
+Отель|49
+Les Courses|21
+Покупки|49
+Le Centre Commercial|21
+Торговый Центр|49
+Le Supermarché|21
+Супермаркет|49
+La Pharmacie|21
+Химик|49
+Le Fleuriste|21
+Флорист|49
+Le Marchand de Journaux|21
+Продавец Газет|49
+Le Confiseur|21
+Кондитер|49
+Les Autres Magasins|21
+Другие Магазины|49
+La Nourriture|21
+Еда|49
+La Viande|21
+Мясо|49
+Le Poisson|21
+Рыба|49
+Les Légumes|21
+Овощи|49
+Le Fruit|21
+Фрукты|49
+Les Céréales el les Légumes Secs|21
+Зерновые и Бобовые Культуры|49
+Les Herbes et les Epices|21
+Травы и Специи|49
+Les Aliments en Bouteilles|21
+Продукты в Бутылках|49
+Les Produits Laitiers|21
+Молочные Продукты|49
+Les Pains et la Farine|21
+Хлеб и Мука|49
+Les Gâteaux et les Desserts|21
+Торты и Десерты|49
+La Charcuterie|21
+Деликатесы|49
+Les Boissons|21
+Напитки|49
+Sortir Manger|21
+Питание вне Дома|49
+Le Café|21
+Кафе|49
+Le Bar|21
+Клуб|49
+Le Restaurant|21
+Ресторан|49
+La Restauration Rapide|21
+Фастфуд|49
+Le Petit Déjeuner|21
+Завтрак|49
+Le Repas|21
+Ужин|49
+L'Etude|21
+Учиться|49
+L'Ecole|21
+Школа|49
+Les Mathématiques|21
+Математика|49
+La Science|21
+Наука|49
+L'Enseignement Supérieur|21
+Колледж|49
+Le Travail|21
+Работать|49
+Le Bureau|21
+Оффис|49
+L'Ordinateur|21
+Компьютер|49
+Les Médias|21
+Масс-Медиа|49
+Le Droit|21
+Закон|49
+La Ferme|21
+Ферма|49
+La Construction|21
+Строительство|49
+Les Professions|21
+Профессии|49
+Le Transport|21
+Транспорт|49
+Les Routes|21
+Дорога|49
+Le Bus|21
+Автобус|49
+La Voiture|21
+Машина|49
+La Moto|21
+Мотоцикл|49
+La Bicyclette|21
+Велосипед|49
+Le Train|21
+Поезд|49
+L'Avion|21
+Самолет|49
+L'Aéroport|21
+Аэропорт|49
+La Navire|21
+Судно|49
+Le Port|21
+Порт|49
+Les Sports|21
+Спорт|49
+Le Football Américain|21
+Американский Футбол|49
+Le Rugby|21
+Регби|49
+Le Football|21
+Футбол|49
+Le Hockey|21
+Хоккей|49
+Le Cricket|21
+Крикет|49
+Le Basket|21
+Баскетбол|49
+Le Baseball|21
+Бейсбол|49
+Le Tennis|21
+Теннис|49
+Le Golf|21
+Гольф|49
+L'Athlétisme|21
+Атлетика|49
+Les Sports de Combat|21
+Спортивные Единоборства|49
+La Natation|21
+Плавание|49
+La Voile|21
+Парусный Спорт|49
+L'Equitation|21
+Конный Спорт|49
+La Pêche|21
+Рыбалка|49
+Le Ski|21
+Лыжный Спорт|49
+Les Autres Sports|21
+Другие Спорты|49
+Le Conditionnement Physique|21
+Фитнес|49
+Le Temps Libre|21
+Свободное Время|49
+Le Théâtre|21
+Театр|49
+L'Orchestre|21
+Оркестр|49
+Le Concert|21
+Концерт|49
+Le Tourisme|21
+Туризм|49
+Les Activités de Plein Air|21
+Отдых на Свежем Воздухе|49
+La Plage|21
+Пляж|49
+Le Camping|21
+Кемпинг|49
+Les Distractions à la Maison|21
+Домашняя Электроника|49
+La Photographie|21
+Фотография|49
+Les Jeux|21
+Игры|49
+Les Arts et Métiers|21
+Декоративно-Прикладное Искусство|49
+L'Environnement|21
+Среда|49
+L'Espace|21
+Космос|49
+La Terre|21
+Земля|49
+Le Paysage|21
+Ландшафт|49
+Les Temps|21
+Погода|49
+Les Roches|21
+Камни|49
+Les Minéraux|21
+Минералы|49
+Les Animaux|21
+Животные|49
+Les Plantes|21
+Растения|49
+La Ville|21
+Город|49
+L'Architecture|21
+Архитектура|49
+L'Information|21
+Ссылка|49
+L'Heure|21
+Время|49
+Le Calendrier|21
+Календарь|49
+Les Nombres|21
+Числа|49
+Les Poids et Mesures|21
+Веса и Меры|49
+La Carte du Monde|21
+Карта Мира|49
+le cou|21
+шея|49
+la poitrine|21
+грудь|49
+le ventre|21
+живот|49
+la hanche|21
+бок|49
+le tibia|21
+голень|49
+l'homme|21
+мужчина|49
+la jambe|21
+нога|49
+la tête|21
+голова|49
+le sein|21
+молочная железа|49
+la taille|21
+талия|49
+le nombril|21
+пупок|49
+l'avant-bras|21
+предплечье|49
+la cuisse|21
+бедро|49
+le genou|21
+колено|49
+le pied|21
+ступня|49
+la femme|21
+женщина|49
+l'épaule|21
+плечо|49
+le bras|21
+рука|49
+le coude|21
+локоть|49
+le poignet|21
+запястье|49
+la main|21
+кисть|49
+la cheville|21
+лодыжка|49
+la nuque|21
+затылок|49
+le dos|21
+спина|49
+l'aisselle|21
+подмышка|49
+le creux des reins|21
+поясница|49
+la fesse|21
+ягодица|49
+le mollet|21
+икра|49
+le talon|21
+пятка|49
+les cheveux|21
+волосы|49
+la peau|21
+кожа|49
+le sourcil|21
+бровь|49
+le cil|21
+ресница|49
+l'oreille|21
+ухо|49
+le nez|21
+нос|49
+le grain de beauté|21
+родинка|49
+la lèvre|21
+губа|49
+le menton|21
+подбородок|49
+le front|21
+лоб|49
+la tempe|21
+висок|49
+l'oeil|21
+глаз|49
+la joue|21
+щека|49
+la narine|21
+ноздря|49
+la bouche|21
+рот|49
+la mâchoire|21
+нижняя челюсть|49
+la ride|21
+морщина|49
+la tache de rousseur|21
+веснушки|49
+le pore|21
+пора|49
+la fossette|21
+ямочка|49
+l'annulaire|21
+безымянный палец|49
+l'auriculaire|21
+мизинец|49
+le poignet|21
+запястье|49
+le majeur|21
+средний палец|49
+l'index|21
+указательный палец|49
+le pouce|21
+большой палец|49
+la paume|21
+ладонь|49
+l'ongle|21
+ноготь|49
+la cuticule|21
+кутикула|49
+le noeud de l'articulation|21
+сустав пальца|49
+le poing|21
+кулак|49
+l'avant-pied|21
+подушечка пальца|49
+l'orteil|21
+палец ноги|49
+la plante du pied|21
+подошва|49
+le cou-de-pied|21
+подъём|49
+la cambrure|21
+свод стопы|49
+le talon|21
+пятка|49
+le dos du pied|21
+перемычка стопы|49
+l'ongle du pied|21
+ноготь на пальце ноги|49
+le gros orteil|21
+большой палец|49
+le petit orteil|21
+мизинец|49
+la cheville|21
+лодыжка|49
+le frontal|21
+лобная|49
+l'intercostal|21
+межрёберные мышцы|49
+le biceps|21
+бицепс|49
+les abdominaux|21
+брюшные|49
+les quadriceps|21
+четырёхглавая|49
+le pectoral|21
+грудная|49
+le tendon du jarret|21
+подколенное сухожилие|49
+le tendon d'Achille|21
+ахиллово сухожилие|49
+le deltoïde|21
+дельтовидная|49
+le trapèze|21
+трапециевидная|49
+le dorsal|21
+спинная|49
+le triceps|21
+трицепс|49
+le fessier|21
+ягодичная|49
+les muscles jumeaux|21
+икроножная|49
+la clavicule|21
+ключица|49
+l'omoplate|21
+лопатка|49
+le sternum|21
+грудина|49
+la côte|21
+ребро|49
+le cubitus|21
+локтевая кость|49
+le radius|21
+лучевая кость|49
+le bassin|21
+таз|49
+la rotule|21
+коленная чашечка|49
+le péroné|21
+малоберцовая кость|49
+le métatarsien|21
+плюсна|49
+le crâne|21
+череп|49
+le maxillaire|21
+нижняя челюсть|49
+l'humérus|21
+плечевая кость|49
+la cage thoracique|21
+грудная клетка|49
+le métacarpien|21
+пясть|49
+le fémur|21
+бедренная кость|49
+le tibia|21
+большеберцовая кость|49
+les vertèbres cervicales|21
+шейные позвонки|49
+les vertèbres thoraciques|21
+грудные позвонки|49
+les lombaires|21
+поясничные позвонки|49
+le coccyx|21
+копчик|49
+la colonne vertébrale|21
+позвоночник|49
+l'articulation|21
+сустав|49
+le cartilage|21
+хрящ|49
+le ligament|21
+связка|49
+l'os|21
+кость|49
+le tendon|21
+сухожилие|49
+le foie|21
+печень|49
+le duodénum|21
+двенадцатиперстная кишка|49
+le rein|21
+почка|49
+le pancréas|21
+поджелудочная железа|49
+l'intestin grêle|21
+тонкии кишечник|49
+le gros intestin|21
+толстый кишечник|49
+l'appendice|21
+слепая кишка|49
+la thyroïde|21
+щитовидная железа|49
+la trachée|21
+трахея|49
+le poumon|21
+лёгкие|49
+le coeur|21
+сердце|49
+l'estomac|21
+желудок|49
+la rate|21
+селезёнка|49
+la tête|21
+голова|49
+le sinus|21
+лобная пазуха|49
+le palais|21
+нёбо|49
+la langue|21
+язык|49
+le larynx|21
+гортань|49
+la pomme d'Adam|21
+адамова яблоко|49
+les cordes vocales|21
+голосовые связки|49
+le cerveau|21
+мозг|49
+le pharynx|21
+глотка|49
+l'épiglotte|21
+надгортанник|49
+la gorge|21
+горло|49
+les systèmes du corps|21
+физиологические системы|49
+le diaphragme|21
+диафрагма|49
+le système respiratoire|21
+дыхательная|49
+le système digestif|21
+пищеварительная|49
+la veine|21
+вена|49
+l'artère|21
+артерия|49
+le système cardio-vasculaire|21
+сердечно-сосудистая|49
+le système lymphatique|21
+лимфатическая|49
+la glande|21
+железа|49
+le nerf|21
+нерв|49
+le système urinaire|21
+мочевыделительная|49
+le système endocrine|21
+эндокринная|49
+le système nerveux|21
+нервная|49
+le système reproducteur|21
+репродуктивная|49
+la grand-mère|21
+бабушка|49
+le grand-père|21
+дедушка|49
+l'oncle|21
+дядя|49
+la tante|21
+тётя|49
+le père|21
+отец|49
+la mère|21
+мать|49
+le cousin|21
+двоюродный брат|49
+le frère|21
+брат|49
+la soeur|21
+сестра|49
+la femme (II)|21
+жена|49
+la belle-fille (II)|21
+невестка|49
+le fils|21
+сын|49
+la fille (II)|21
+дочь|49
+le gendre|21
+зять|49
+le petit-fils|21
+внук|49
+la petite-fille|21
+внучка|49
+le mari|21
+муж|49
+les parents (II)|21
+родственники|49
+les parents (I)|21
+родители|49
+les petits-enfants|21
+внуки|49
+la belle-mère (I)|21
+мачеха|49
+le beau-fils|21
+пасынок|49
+la génération|21
+поколение|49
+les grands-parents|21
+дедушка и бабушка|49
+les enfants|21
+дети|49
+le beau-père (I)|21
+отчим|49
+la belle-fille (I)|21
+падчерица|49
+les jumeaux|21
+близнецы|49
+la belle-mère (II)|21
+свекровь|49
+le beau-père (II)|21
+свёкор|49
+le beau-frère|21
+шурин|49
+la belle-soeur|21
+золовка|49
+la nièce|21
+племянница|49
+le neveu|21
+племянник|49
+Mademoiselle|21
+госпожа|49
+Monsieur|21
+господин|49
+Madame|21
+барышня|49
+les stades|21
+возраст|49
+le bébé|21
+младенец|49
+l'enfant|21
+ребёнок|49
+le garçon|21
+мальчик|49
+la fille (I)|21
+девочка|49
+l'adolescente|21
+подросток|49
+l'adulte|21
+взрослый|49
+l'homme|21
+мужчина|49
+la femme (I)|21
+женщина|49
+le chef|21
+руководитель|49
+l'assistante|21
+помощник|49
+l'associée|21
+деловой партнёр|49
+l'employeuse|21
+работодатель|49
+l'employé|21
+наёмный работник|49
+le collègue|21
+коллега|49
+le bureau|21
+офис|49
+le voisin|21
+сосед|49
+l'ami|21
+друг (I)|49
+la connaissance|21
+знакомый|49
+le correspondant|21
+друг по переписке|49
+le petit ami|21
+друг (II)|49
+la petite amie|21
+подруга|49
+le couple|21
+пара|49
+le fiancé|21
+жених|49
+la fiancée|21
+невеста|49
+les fiancés|21
+помолвленные|49
+le sourire|21
+улыбка|49
+heureux|21
+счастливая|49
+triste|21
+грустный|49
+excité|21
+возбуждённый|49
+ennuyé|21
+скучающий|49
+surpris|21
+удивлённая|49
+effrayé|21
+испуганный|49
+fâché|21
+рассерженна|49
+confus|21
+растерянный|49
+inquiet|21
+обеспокоенный|49
+nerveux|21
+взволнованный|49
+fier|21
+гордые|49
+confiant|21
+уверенный|49
+gêné|21
+смущённая|49
+timide|21
+застенчивая|49
+consterné|21
+расстроенный|49
+rire|21
+смеяться|49
+soupirer|21
+вздыхать|49
+crier|21
+кричать|49
+choqué|21
+потрясённый|49
+pleurer|21
+плакать|49
+bâiller|21
+зевать|49
+s'évanouir|21
+падать в обморок|49
+naître|21
+родиться|49
+commencer à l'école|21
+пойти в школу|49
+faire des amis|21
+подружиться|49
+obtenir sa licence|21
+получить диплом|49
+trouver un emploi|21
+устроиться на работу|49
+tomber amoureux|21
+влюбляться|49
+se marier|21
+пожениться|49
+avoir un bébé|21
+родить ребёнка|49
+le baptême|21
+крещение|49
+la bar-mitsvah|21
+бар мицва|49
+l'anniversaire de mariage|21
+годовщина|49
+émigrer|21
+эмигрировать|49
+prendre sa retraite|21
+выйти на пенсию|49
+le mariage|21
+свадьба|49
+le divorce|21
+развод|49
+l'enterrement|21
+похороны|49
+mourir|21
+умереть|49
+faire son testament|21
+составлять завещание|49
+l'acte de naissance|21
+свидетельство о рождении|49
+le repas de noces|21
+свадебный обед|49
+le voyage de noces|21
+медовый месяц|49
+les fêtes|21
+торжества|49
+la fête|21
+празднование дня рождения|49
+la carte|21
+поздравительная открытка|49
+l'anniversaire|21
+день рождения|49
+le cadeau|21
+подарок|49
+le Noël|21
+Рождество|49
+la Pâque|21
+Пасха (I)|49
+le Nouvel An|21
+Новый Год|49
+le carnaval|21
+карнавал|49
+le défilé|21
+процессия|49
+le Ramadan|21
+Рамадан|49
+la fête de Thanksgiving|21
+День Благодарение|49
+Pâques|21
+Пасха (II)|49
+la veille de la Toussaint|21
+Хэллоуин|49
+Diwali|21
+Дивали|49
+le tricot de corps|21
+распашонка|49
+le bouton-pression|21
+кнопка|49
+la grenouillère|21
+ползунки|49
+le pyjama|21
+пижама|49
+la combinaison-short|21
+короткий комбинезон|49
+la combinaison de neige|21
+комбинезон|49
+le bavoir|21
+слюнявчик|49
+les moufles|21
+варежки|49
+les chaussons|21
+пинетки|49
+la couche éponge|21
+махровый подгузник|49
+la couche jetable|21
+одноразовый подгузник|49
+la culotte en plastique|21
+непромокаемый подгузник|49
+le petit enfant|21
+маленький ребёнок|49
+le chapeau de soleil|21
+панамка|49
+la salopette|21
+брюки-комбинезон|49
+le t-shirt|21
+футболка|49
+le tablier|21
+передник|49
+le bermuda|21
+шорты|49
+la jupe|21
+юбка|49
+l'enfant|21
+ребёнок|49
+la robe|21
+платье|49
+la capuche|21
+капюшон|49
+les sandales|21
+сандалии|49
+le jean|21
+джинсы|49
+le sac à dos|21
+рюкзак|49
+le bouton|21
+пуговица|49
+l'écharpe|21
+шарф|49
+l'anorak|21
+куртка|49
+les bottes de caoutchouc|21
+резиновые сапоги|49
+l'imperméable|21
+дождевик|49
+le duffle-coat|21
+пальто|49
+la robe de chambre|21
+халат|49
+le logo|21
+логотип|49
+les baskets|21
+кроссовки|49
+la chemise de nuit|21
+ночная рубашка|49
+la tenue de foot|21
+футбольная форма|49
+le survêtement|21
+спортивный костюм|49
+les leggings|21
+леггинсы|49
+les pantoufles|21
+тапочки|49
+les vêtements de nuit|21
+ночная одежда|49
+la fibre naturelle|21
+натуральное волокно|49
+synthétique|21
+синтетика|49
+le col|21
+воротничок|49
+la cravate|21
+галстук|49
+la veste|21
+пиджак|49
+la manchette|21
+манжета|49
+le pantalon|21
+брюки|49
+le bouton|21
+пуговица|49
+le costume|21
+деловой костюм|49
+les chaussures en cuir|21
+кожаные туфли|49
+la ceinture|21
+пояс|49
+le revers|21
+лацкан|49
+la boutonnière|21
+петлица|49
+la poche|21
+карман|49
+le manteau|21
+пальто|49
+la doublure|21
+подкладка|49
+la chemise|21
+сорочка|49
+le peignoir|21
+халат|49
+l'imperméable|21
+плащ|49
+long|21
+длинный|49
+le cardigan|21
+кардиган|49
+les sous-vêtements|21
+нижнее бельё|49
+le survêtement|21
+спортивный костюм|49
+court|21
+короткий|49
+le blazer|21
+блейзер|49
+la veste de sport|21
+спортивный пиджак|49
+le gilet|21
+жилет|49
+le col rond|21
+образный вырез|49
+le t-shirt|21
+футболка|49
+l'anorak|21
+куртка|49
+le sweat-shirt|21
+свитер|49
+le coupe-vent|21
+ветровка|49
+le pullover|21
+пуловер|49
+le pyjama|21
+пижама|49
+le tricot de corps|21
+майка|49
+les vêtements sport|21
+домашняя одежда|49
+le short|21
+шорты|49
+le slip|21
+плавки|49
+le caleçon|21
+трусы|49
+les chaussettes|21
+носки|49
+la veste|21
+жакет|49
+l'encolure|21
+ворот|49
+la couture|21
+шов|49
+la manche|21
+рукав|49
+la jupe|21
+юбка|49
+l'ourlet|21
+подол|49
+à genou|21
+до колена|49
+les chaussures|21
+туфли|49
+les collants|21
+колготки|49
+sans bretelles|21
+без бретелек|49
+sans manches|21
+без рукавов|49
+la robe du soir|21
+вечернее платье|49
+long|21
+макси|49
+la robe|21
+платье|49
+le chemisier|21
+блузка|49
+le pantalon|21
+брюки|49
+décontracté|21
+домашняя одежда|49
+la lingerie|21
+бельё|49
+la bretelle|21
+бретелька|49
+le négligé|21
+пеньюар|49
+le caraco|21
+комбинация|49
+la camisole|21
+грация|49
+la guêpière|21
+бюстье|49
+la jarretelle|21
+подвязки|49
+les bas|21
+чулки|49
+le soutien-gorge|21
+бюстгальтер|49
+le slip|21
+трусы|49
+le débardeur|21
+майка|49
+la chemise de nuit|21
+ночная рубашка|49
+le mariage|21
+свадьба|49
+le voile|21
+фата|49
+la dentelle|21
+кружева|49
+le bouquet|21
+букет|49
+la traîne|21
+шлейф|49
+la robe de mariée|21
+свадебное платье|49
+le corset|21
+корсет|49
+ajusté|21
+кроить|49
+la jarretière|21
+подвязка|49
+dos-nu|21
+лиф завязывается на шее|49
+la ceinture|21
+пояс|49
+le soutien-gorge sport|21
+спортивный лиф|49
+l'épaulette|21
+подплечник|49
+à armature|21
+на косточках|49
+la casquette|21
+бейсболка|49
+le chapeau|21
+шляпа|49
+le foulard|21
+косынка|49
+la ceinture|21
+ремень|49
+la boucle|21
+пряжка|49
+la manche|21
+рукоятка|49
+la pointe|21
+наконечник|49
+le mouchoir|21
+носовой платок|49
+le noeud papillon|21
+галстук-бабочка|49
+l'épingle de cravate|21
+булавка для галстука|49
+les gants|21
+перчатки|49
+le parapluie|21
+зонтик|49
+les bijoux|21
+украшения|49
+le pendentif|21
+кулон|49
+la broche|21
+брошь|49
+le bouton de manchette|21
+запонки|49
+le rang de perles|21
+нитка жемчуга|49
+le maillon|21
+звено|49
+le fermoir (I)|21
+застёжка (I)|49
+la boucle d'oreille|21
+серьги|49
+la bague|21
+кольцо|49
+la pierre|21
+камень|49
+le bracelet|21
+браслет|49
+la chaîne|21
+цепочка|49
+le collier|21
+ожерелье|49
+la montre|21
+часы|49
+la boîte à bijoux|21
+футляр для украшений|49
+les sacs|21
+сумки|49
+le portefeuille|21
+портмоне|49
+le porte-monnaie|21
+кошелёк|49
+le sac a bandoulière|21
+сумка на ремне|49
+le fermoir (II)|21
+застёжка (II)|49
+la bretelle|21
+лямка|49
+le fourre-tout|21
+дорожная сумка|49
+la serviette|21
+портфель|49
+le sac à main|21
+женская сумка|49
+le sac à dos|21
+рюкзак|49
+les chaussures|21
+обувь|49
+le lacet|21
+шнурок|49
+la languette|21
+язычок|49
+le talon|21
+каблук|49
+l'oeillet|21
+глазок|49
+la semelle|21
+подошва|49
+la chaussure lacée|21
+туфли на шнуровке|49
+le pataugas|21
+ботинки для прогулок|49
+la basket|21
+кроссовки|49
+la chaussure de cuir|21
+кожаные туфли|49
+la tong|21
+вьетнамки|49
+la chaussure à talon|21
+туфли на каблуке|49
+la chaussure à semelle compensée|21
+босоножки на платформе|49
+la sandale|21
+босоножки|49
+le mocassin|21
+мокасины|49
+le richelieu|21
+мужские полуботинки|49
+le peigne|21
+расчёска|49
+la brosse|21
+щётка|49
+laver|21
+мыть|49
+la coiffeuse|21
+парикмахер (I)|49
+le lavabo|21
+раковина|49
+la cliente|21
+клиентка|49
+le peignoir|21
+пеньюар|49
+couper|21
+стричь|49
+rincer|21
+смывать|49
+sécher|21
+высушить феном|49
+faire une mise en plis|21
+укладывать|49
+les accessoires|21
+аксессуары|49
+le sèche-cheveux|21
+фен|49
+le shampoing|21
+шампунь|49
+le conditionneur|21
+кондиционер для волос|49
+le gel pour les cheveux|21
+гель|49
+la laque|21
+лак для волос|49
+le fer à friser|21
+щипцы для завивки|49
+les ciseaux|21
+ножницы|49
+le serre-tête|21
+обруч|49
+le bigoudi|21
+бигуди|49
+la pince à cheveux|21
+шпильки|49
+les coiffures|21
+причёски|49
+le ruban|21
+лента|49
+la queue de cheval|21
+хвост|49
+la natte|21
+коса|49
+le rouleau|21
+французская коса|49
+le chignon|21
+пучок|49
+les couettes|21
+хвостики|49
+au carré|21
+каре|49
+la coupe courte|21
+короткая стрижка|49
+frisé|21
+кудрявые|49
+la permanente|21
+химическая завивка|49
+raide|21
+прямые волосы|49
+les racines|21
+корни|49
+les reflets|21
+крашеные волосы|49
+chauve|21
+лысый|49
+la perruque|21
+парик|49
+blond|21
+белокурый|49
+châtain|21
+русый|49
+auburn|21
+каштановый|49
+roux|21
+рыжий|49
+noir|21
+чёрный|49
+gris|21
+седой|49
+blanc|21
+обесцвеченные|49
+teint|21
+крашенные|49
+la bande de cheveux|21
+лента для волос|49
+gras|21
+жирные|49
+rafraîchir|21
+делать прическу|49
+sec|21
+сухие|49
+le coiffeur|21
+парикмахер (II)|49
+normal|21
+нормальные|49
+les pellicules|21
+перхоть|49
+le cuir chevelu|21
+кожа головы|49
+les fourches|21
+сечёные концы|49
+décrêper|21
+выпрямлять|49
+la teinture de cheveux|21
+краска для волос|49
+le fard á paupières|21
+тени для век|49
+le mascara|21
+тушь для ресниц|49
+l'eye-liner|21
+подводка для глаз|49
+le fond de teint|21
+крем-основа|49
+le rouge à lèvres|21
+губная помада|49
+le maquillage|21
+косметика|49
+le crayon á sourcils|21
+карандаш для бровей|49
+la brosse à sourcils|21
+щёточка для бровей|49
+la pince à épiler|21
+пинцет|49
+le brillant à lèvres|21
+блеск для губ|49
+le pinceau à lèvres|21
+кисточка для губ|49
+le crayon à lèvres|21
+карандаш для губ|49
+le pinceau|21
+кисточка для лица|49
+le correcteur|21
+корректирующая помада|49
+le miroir|21
+зеркало|49
+la poudre|21
+пудра|49
+la houppette|21
+пуховка|49
+le poudrier|21
+пудреница|49
+les soins de beauté|21
+косметические процедуры|49
+le masque de beauté|21
+маска для лица|49
+le lit U.V.|21
+солярий|49
+le soin du visage|21
+уход за лицом|49
+exfolier|21
+делать эксфолиацию|49
+l'épilation|21
+эпиляция парафином|49
+la pédicurie|21
+педикюр|49
+les accessoires de toilette|21
+косметические средства|49
+le démaquillant|21
+очищающий лосьон|49
+le tonique|21
+тоник|49
+la crème hydratante|21
+увлажняющий крем|49
+l'autobronzant|21
+крем для искусственного загара|49
+le parfum|21
+духи|49
+l'eau de toilette|21
+туалетная вода|49
+la manicure|21
+маникюр|49
+le dissolvant|21
+средства для снятия лака|49
+la lime à ongles|21
+пилка|49
+le vernis à ongles|21
+лак для ногтей|49
+les ciseaux à ongles|21
+маникюрные ножницы|49
+le coupe-ongles|21
+кусачки для ногтей|49
+clair|21
+светлый|49
+le teint|21
+цвет лица|49
+le bronzage|21
+загар|49
+foncé|21
+смуглый|49
+sensible|21
+чувствительная|49
+le tatouage|21
+татуировка|49
+sec|21
+сухая|49
+antirides|21
+против морщин|49
+les boules de coton|21
+ватные тампоны|49
+gras|21
+жирная|49
+le ton|21
+тон|49
+hypoallergénique|21
+гипоаллергенный|49
+le mal de tête|21
+головная боль|49
+le saignement de nez|21
+носовое кровотечение|49
+la toux|21
+кашель|49
+la fièvre|21
+жар|49
+l'éternuement|21
+чихание|49
+le rhume|21
+простуда|49
+la grippe|21
+грипп|49
+l'asthme|21
+астма|49
+les crampes|21
+спазмы|49
+la nausée|21
+тошнота|49
+la varicelle|21
+ветряная оспа|49
+l'éruption|21
+сыпь|49
+la crise cardiaque|21
+сердечный приступ|49
+l'allergie|21
+аллергия|49
+l'eczéma|21
+экзема|49
+vomir|21
+страдать рвотой|49
+la diarrhée|21
+диарея|49
+l'attaque|21
+инсульт|49
+la migraine|21
+мигрень|49
+le virus|21
+вирус|49
+s'évanouir|21
+потерять сознание|49
+l'épilepsie|21
+эпилепсия|49
+la rougeole|21
+корь|49
+la tension|21
+кровяное давление|49
+le diabète|21
+диабет|49
+l'infection|21
+инфекция|49
+le mal d'estomac|21
+боли в животе|49
+le rhume des foins|21
+сенная лихорадка|49
+les oreillons|21
+свинка|49
+la consultation|21
+консультация|49
+le médecin|21
+врач|49
+la lampe de radio|21
+экран для просмотра рентгеновского снимка|49
+l'ordonnance|21
+рецепт|49
+la patiente|21
+пациент|49
+le tonomètre|21
+тонометр|49
+le stéthoscope|21
+стетоскоп|49
+le manchon|21
+манжет|49
+la toise|21
+ростомер|49
+l'infirmière|21
+медсестра|49
+la balance|21
+весы|49
+le rendez-vous|21
+запись к врачу|49
+l'inoculation|21
+прививка|49
+la salle d'attente|21
+приёмная|49
+le thermomètre|21
+термометр|49
+le cabinet|21
+кабинет|49
+l'examen médical|21
+медицинский осмотр|49
+l'entorse|21
+растяжение|49
+l'écharpe|21
+перевязка|49
+la minerve|21
+шейная шина|49
+la coupure|21
+порез|49
+l'écorchure|21
+ссадина|49
+la contusion|21
+ушиб|49
+l'écharde|21
+заноза|49
+le coup de soleil|21
+солнечный ожог|49
+la brûlure|21
+ожог|49
+la morsure|21
+укус|49
+la piqûre|21
+укус насекомого|49
+l'accident|21
+несчастный случай|49
+l'urgence|21
+чрезвычайная ситуация|49
+la blessure|21
+рана|49
+l'hémorragie|21
+кровотечение|49
+l'ampoule|21
+волдырь|49
+l'empoisonnement|21
+отравление|49
+le traumatisme crânien|21
+травма головы|49
+le choc électrique|21
+поражение электротоком|49
+la commotion cérébrale|21
+сотрясение мозга|49
+la pommade|21
+мазь|49
+le pansement (II)|21
+пластырь|49
+l'épingle de sûreté|21
+английская булавка|49
+le bandage|21
+бинт|49
+les analgésiques|21
+обезболивающее средство|49
+la trousse de premiers secours|21
+аптечка первой помощи|49
+la serviette antiseptique|21
+антисептическая салфетка|49
+la pince fine|21
+пинцет|49
+les ciseaux|21
+ножницы|49
+l'antiseptique|21
+антисептик|49
+la gaze|21
+марля|49
+le pansement (I)|21
+повязка|49
+l'attelle|21
+шина|49
+le sparadrap|21
+лейкопластырь|49
+la réanimation|21
+реанимация|49
+le choc|21
+шок|49
+le pouls|21
+пульс|49
+étouffer|21
+задыхаться|49
+sans connaissance|21
+без сознания|49
+la respiration|21
+дыхание|49
+stérile|21
+стерильный|49
+l'infirmière|21
+медсестра|49
+le chirurgien|21
+хирург|49
+la courbe|21
+карта пациента|49
+l'anesthésiste|21
+анестезиолог|49
+la salle d'opération|21
+операционная|49
+le chariot|21
+каталка|49
+le bouton d'appel|21
+кнопка вызова|49
+la salle des urgences|21
+отделение первой помощи|49
+la salle|21
+палата|49
+la chaise roulante|21
+кресло-коляска|49
+l'analyse de sang|21
+анализ крови|49
+l'injection|21
+инъекция|49
+la radio|21
+рентгеноскопия|49
+la scanographie|21
+компьютерная томография|49
+l'opération|21
+операция|49
+admis|21
+поступивший|49
+renvoyé|21
+выписанный|49
+la clinique|21
+клиника|49
+les heures de visite|21
+часы посещения|49
+la salle de pédiatrie|21
+детское отделение|49
+la maternité (I)|21
+родильное отделение (I)|49
+la chambre privée|21
+отдельная палата|49
+le service de soins intensifs|21
+отделение интенсивной терапии|49
+le malade en consultation externe|21
+амбулаторный пациент|49
+les services|21
+отделения|49
+l'O.R.L.|21
+отоларингология|49
+la cardiologie|21
+кардиология|49
+l'orthopédie|21
+ортопедия|49
+la gynécologie|21
+гинекология|49
+la kinésithérapie|21
+физиотерапия|49
+la dermatologie|21
+дерматология|49
+la pédiatrie|21
+педиатрия|49
+la radiologie|21
+радиология|49
+la chirurgie|21
+хирургия|49
+la maternité (II)|21
+родильное отделение (II)|49
+la psychiatrie|21
+психиатрия|49
+l'ophtalmologie|21
+офтальмология|49
+la neurologie|21
+неврология|49
+l'urologie|21
+урология|49
+la chirurgie esthétique|21
+пластическая хирургия|49
+la pathologie|21
+патология|49
+le résultat|21
+результат|49
+l'oncologie|21
+онкология|49
+l'endocrinologie|21
+эндокринология|49
+l'orientation d'un patient|21
+направление|49
+l'analyse|21
+анализ|49
+le spécialiste|21
+врач-специалист|49
+la dent|21
+зуб|49
+l'émail|21
+эмаль|49
+la gencive|21
+дёсна|49
+le nerf|21
+нерв|49
+la racine|21
+корень|49
+la prémolaire|21
+малый коренной зуб|49
+l'incisive|21
+резец|49
+la molaire|21
+коренной зуб|49
+la canine|21
+клык|49
+la rage de dents|21
+зубная боль|49
+la fraise|21
+бор|49
+la plaque|21
+зубной налёт|49
+le fil dentaire|21
+зубная нить|49
+la carie|21
+кариес|49
+l'extraction|21
+удаление|49
+le plombage|21
+пломба|49
+la couronne|21
+коронка|49
+la visite de contrôle|21
+профилактический осмотр|49
+la lampe|21
+лампа-рефлектор|49
+la sonde|21
+зонд|49
+le bavoir|21
+фартук|49
+le crachoir|21
+лоток|49
+le fauteuil de dentiste|21
+зубоврачебное кресло|49
+utiliser le fil dentaire|21
+чистить зубы нитью|49
+brosser|21
+чистить зубы щёткой|49
+l'appareil dentaire|21
+зубная пластина|49
+la radio dentaire|21
+рентген зубов|49
+la radio|21
+рентгеновский снимок|49
+le dentier|21
+зубной протез|49
+l'examen de la vue|21
+проверка зрения|49
+l'étui|21
+футляр|49
+le verre|21
+линза|49
+les lunettes|21
+очки|49
+les lunettes de soleil|21
+солнцезащитные очки|49
+la monture|21
+оправа|49
+la solution nettoyante|21
+чистящая жидкость|49
+la solution désinfectante|21
+дезинфицирующая жидкость|49
+l'étui à lentilles|21
+контейнер для контактных линз|49
+les lentilles de contact|21
+контактные линзы|49
+l'oeil|21
+глаз|49
+le sourcil|21
+бровь|49
+la pupille|21
+зрачок|49
+l'iris|21
+радужная оболочка|49
+la paupière|21
+веко|49
+le cil|21
+ресница|49
+la cornée|21
+роговица|49
+la rétine|21
+сетчатка|49
+le nerf optique|21
+зрительный нерв|49
+la vue|21
+зрение|49
+la dioptrie|21
+диоптрия|49
+la larme|21
+слеза|49
+la cataracte|21
+катаракта|49
+l'astigmatisme|21
+астигматизм|49
+la presbytie|21
+дальнозоркость|49
+la myopie|21
+близорукость|49
+bifocal|21
+бифокальные|49
+le maître|21
+тренер|49
+le massage|21
+массаж|49
+le shiatsu|21
+шиацу|49
+le yoga|21
+йога|49
+le tapis|21
+мат|49
+la chiropractie|21
+хиропрактика|49
+l'ostéopathie|21
+остеопатия|49
+la réflexologie|21
+рефлексология|49
+la méditation|21
+медитация|49
+le conseiller|21
+социопсихолог|49
+la thérapie de groupe|21
+групповая психотерапия|49
+le reiki|21
+рейки|49
+l'acuponcture|21
+иглоукалывание|49
+la médecine ayurvédique|21
+аюрведа|49
+l'hypnothérapie|21
+лечение гипнозом|49
+l'herboristerie|21
+фитотерапия|49
+les huiles essentielles|21
+эфирные масла|49
+l'aromathérapie|21
+ароматерапия|49
+l'homéopathie|21
+гомеопатия|49
+l'acupression|21
+точечный массаж|49
+la thérapeute|21
+врач|49
+la psychothérapie|21
+психотерапия|49
+la guérison par cristaux|21
+кристаллотерапия|49
+le feng shui|21
+фэн-шуй|49
+le stress|21
+стресс|49
+le supplément|21
+пищевая добавка|49
+l'hydrothérapie|21
+водолечение|49
+la naturopathie|21
+натуротерапия|49
+la relaxation|21
+релаксация|49
+l'herbe|21
+лекарственное растение|49
+le mur|21
+стена|49
+la gouttière|21
+водосток|49
+l'avant-toit|21
+карниз|49
+le toit|21
+крыша|49
+la cheminée|21
+труба|49
+le chien assis|21
+мансардное окно|49
+la tuile|21
+черепица|49
+le volet|21
+ставня|49
+le porche|21
+крыльцо|49
+la fenêtre|21
+окно|49
+l'agrandissement|21
+пристройка|49
+l'allée|21
+дорожка|49
+la porte d'entrée|21
+парадная дверь|49
+individuelle|21
+особняк|49
+la pavillon|21
+бунгало|49
+le garage|21
+гараж|49
+l'étage|21
+этаж|49
+l'alarme|21
+сигнализация|49
+louer|21
+снять дом|49
+mitoyenne|21
+смежный дом|49
+le sous-sol|21
+подвал|49
+le grenier|21
+мансарда|49
+la cour|21
+внутренний двор|49
+la boite aux lettres|21
+почтовый ящик|49
+attenante|21
+террасный дом|49
+la maison de deux étages|21
+городской дом|49
+la chambre|21
+комната|49
+la lampe d'entrée|21
+фонарь на крыльце|49
+le propriétaire|21
+владелец дома|49
+le locataire|21
+квартиросъёмщик|49
+l'entrée|21
+вход|49
+le vestibule|21
+прихожая|49
+la main courante|21
+парила|49
+le palier|21
+лестничная площадка|49
+la rampe|21
+балясина|49
+la sonnette|21
+дверной звонок|49
+le paillasson|21
+коврик|49
+le marteau de porte|21
+дверное кольцо|49
+la chaîne de sûreté|21
+цепочка|49
+la serrure|21
+замок|49
+le verrou|21
+засов|49
+l'appartement|21
+квартира|49
+le balcon|21
+балкон|49
+l'immeuble|21
+многоквартирный дом|49
+l'interphone|21
+домофон|49
+l'ascenseur|21
+лифт|49
+le radiateur|21
+батарея|49
+l'appareil de chauffage|21
+электрокамин|49
+l'aile|21
+лопасть|49
+le ventilateur|21
+вентилятор|49
+le convecteur|21
+конвектор|49
+l'électricité|21
+электричество|49
+le filament|21
+вольфрамовая нить|49
+l'ampoule|21
+электрическая лампа|49
+le culot à baïonnette|21
+цоколь|49
+la prise|21
+штепсельная вилка|49
+la mise à la terre|21
+заземление|49
+la broche|21
+штекер|49
+neutre|21
+не под напряжением|49
+sous tension|21
+под напряжением|49
+les fils|21
+электрокабель|49
+la tension|21
+напряжение|49
+le fusible|21
+плавкий предохранитель|49
+la prise de courant|21
+розетка|49
+le courant continu|21
+постоянный ток|49
+le transformateur|21
+трансформатор|49
+l'ampère|21
+ампер|49
+la boîte à fusibles|21
+электрический щиток|49
+l'interrupteur|21
+прерыватель|49
+le compteur d'électricité|21
+электросчётчик|49
+le réseau d'électricité|21
+питающая сеть|49
+le courant|21
+мощность|49
+la génératrice|21
+генератор|49
+le courant alternatif|21
+переменный ток|49
+la coupure de courant|21
+отключение электроэнергии|49
+la plomberie|21
+сантехника|49
+la chaudière|21
+бойлер|49
+l'arrivée|21
+вход|49
+la sortie|21
+выход|49
+l'isolation|21
+термоизоляция|49
+la soupape de sûreté|21
+предохранительный клапан|49
+le trop-plein|21
+водосливная трубка|49
+la chambre d'eau|21
+ёмкость для воды|49
+le thermostat|21
+термостат|49
+le brûleur à gaz|21
+газовая горелка|49
+le réservoir|21
+резервуар|49
+le robinet de purge|21
+спускной кран|49
+la résistance|21
+нагревательный элемент|49
+l'évier|21
+раковина|49
+le robinet|21
+смеситель|49
+la conduite d'amenée|21
+водопроводная труба|49
+le broyeur d'ordures|21
+грязесборник|49
+le tuyau d'écoulement (I)|21
+отводная трубка|49
+la manette|21
+ручка переключения|49
+le joint|21
+раструб|49
+le robinet de sectionnement|21
+перекрывающий вентиль|49
+la toilette|21
+туалет|49
+le flotteur|21
+поплавок|49
+le siège|21
+сиденье|49
+la cuvette|21
+унитаз|49
+la chasse d'eau|21
+сливной бачок|49
+le tuyau d'écoulement (II)|21
+сливная труба|49
+l'enlèvement de déchets|21
+уборка мусора|49
+la boîte à déchets recyclables|21
+мусорный контейнер|49
+la bouteille|21
+бутылка|49
+la poubelle|21
+мусорное 	ведро|49
+la pédale|21
+педаль|49
+le couvercle|21
+крышка|49
+la boîte de tri|21
+сортировочный контейнер|49
+les déchets bios|21
+органические отходы|49
+le tableau|21
+картина|49
+le cadre|21
+рама|49
+la lampe|21
+настольная лампа|49
+la pendule|21
+часы|49
+l'applique|21
+светильник|49
+le miroir|21
+зеркало|49
+le vase|21
+ваза|49
+la tablette de cheminée|21
+каминная полка|49
+la cheminée|21
+камин|49
+le garde-feu|21
+экран|49
+la bougie|21
+свеча|49
+le sol|21
+пол|49
+la table basse|21
+журнальный столик|49
+le coussin|21
+диванная подушка|49
+le canapé|21
+диван|49
+la vitrine|21
+сервант|49
+le plafond|21
+потолок|49
+le bureau|21
+кабинет|49
+le tapis|21
+ковёр|49
+le canapé-lit|21
+диван-кровать|49
+la bibliothèque|21
+книжная полка|49
+la moulure|21
+лепнина|49
+le fauteuil|21
+кресло|49
+le rideau|21
+портьера|49
+le brise-bise|21
+тюлевая занавеска|49
+le store vénitien|21
+жалюзи|49
+le store|21
+штора|49
+la table|21
+стол|49
+le poivre|21
+перец|49
+le sel|21
+соль|49
+la chaise|21
+стул|49
+le dossier|21
+спинка стула|49
+le siège|21
+сиденье|49
+le pied|21
+ножка стула|49
+les couverts|21
+столовый прибор|49
+la vaisselle|21
+посуда|49
+servir|21
+подавать|49
+le napperon|21
+салфетка (I)|49
+le repas|21
+обед (I)|49
+rassasié|21
+сытый|49
+l'invité|21
+гость|49
+manger|21
+есть|49
+le petit déjeuner|21
+завтрак|49
+avoir faim|21
+голодный|49
+la portion|21
+порция|49
+l'hôtesse|21
+хозяйка|49
+mettre la table|21
+накрывать на стол|49
+la nappe|21
+скатерть|49
+le dîner|21
+ужин|49
+le déjeuner|21
+обед (II)|49
+l'hôte|21
+хозяин|49
+la grande tasse|21
+кружка|49
+la tasse à café|21
+кофейная чашка|49
+la tasse à thé|21
+чайная чашка|49
+la cuiller à café|21
+чайная ложка|49
+l'assiette|21
+мелкая тарелка|49
+le bol|21
+глубокая тарелка|49
+la cafetière|21
+кофейник|49
+la théière|21
+заварочный чайник|49
+le pot|21
+кувшин|49
+le coquetier|21
+подставка для яйца|49
+le verre|21
+стакан|49
+le verre à vin|21
+бокал|49
+la verrerie|21
+стеклянная посуда|49
+le couvert|21
+столовые приборы|49
+le rond de serviette|21
+кольцо для салфетки|49
+la serviette|21
+салфетка (II)|49
+l'assiette à dessert|21
+пирожковая тарелка|49
+la fourchette|21
+вилка|49
+l'assiette plate|21
+порционная тарелка|49
+l'assiette à soupe|21
+суповая тарелка|49
+la cuiller à soupe|21
+столовая ложка|49
+la cuiller|21
+десертная ложка|49
+le couteau|21
+нож|49
+l'étagère|21
+полки|49
+le revêtement|21
+защитная панель|49
+le robinet|21
+кран|49
+l'évier|21
+раковина|49
+le tiroir|21
+ящик|49
+la hotte|21
+вытяжка|49
+la table de cuisson céramique|21
+керамическая конфорка|49
+le plan de travail|21
+рабочая поверхность|49
+le four|21
+духовка|49
+le placard|21
+шкаф для посуды|49
+les appareils ménagers|21
+кухонная техника|49
+le micro-ondes|21
+микроволновая печь|49
+la bouilloire électrique|21
+электрический чайник|49
+le grille-pain|21
+тостер|49
+le robot ménager|21
+кухонный комбайн|49
+le bol du mixeur|21
+чаша|49
+la lame|21
+нож|49
+le mixeur|21
+блендер|49
+le couvercle|21
+крышка|49
+le lave-vaisselle|21
+посудомоечная машина|49
+le freezer|21
+отделение для льда|49
+le congélateur|21
+морозильная камера|49
+le réfrigérateur-congélateur|21
+холодильник с морозильной камерой|49
+le bac à légumes|21
+отделение для овощей|49
+la clayette|21
+полка|49
+le frigidaire|21
+холодильник|49
+la table de cuisson|21
+конфорка|49
+l'égouttoir|21
+сушилка|49
+le brûleur|21
+горелка|49
+la poubelle|21
+мусорное ведро|49
+décongeler|21
+размораживать|49
+cuire à la vapeur|21
+готовить на пару|49
+sauter|21
+тушить|49
+la cuisine|21
+приготовление пищи|49
+éplucher|21
+очистить|49
+couper|21
+нарезать|49
+râper|21
+натереть|49
+verser|21
+влить|49
+mélanger|21
+смешать|49
+battre|21
+взбить венчиком|49
+bouillir|21
+варить|49
+frire|21
+жарить|49
+abaisser à rouleau|21
+раскатать|49
+remuer|21
+помешивать|49
+mijoter|21
+томить|49
+pocher|21
+бланшировать|49
+cuire au four|21
+выпекать|49
+rôtir|21
+запекать|49
+griller|21
+готовить на гриле|49
+la planche à hacher|21
+разделочная доска|49
+le couteau de cuisine|21
+кухонный нож|49
+le couteau à pain|21
+нож для хлеба|49
+le fendoir|21
+секач|49
+l'aiguisoir|21
+ножеточка|49
+l'écrase-viande|21
+молоток для мяса|49
+la broche|21
+шампур|49
+l'épluche-légumes|21
+картофелечистка|49
+le vide-pomme|21
+приспособление для удаления сердцевины яблок|49
+la râpe|21
+тёрка|49
+le mortier|21
+ступка|49
+le presse-purée|21
+толкушка|49
+l'ouvre-boîte|21
+консервный нож|49
+l'ouvre-bouteille|21
+открывалка|49
+le presse-ail|21
+чесночница|49
+la cuiller à servir|21
+сервировочная ложка|49
+la truelle|21
+лопатка для рыбы|49
+la passoire (I)|21
+дуршлаг|49
+la spatule|21
+лопатка|49
+la cuiller en bois|21
+деревянная ложка|49
+l'écumoire|21
+шумовка|49
+la louche|21
+половник|49
+la fourchette à découper|21
+разделочная вилка|49
+la cuiller à glace|21
+порционный совочек|49
+le fouet|21
+венчик|49
+la passoire (II)|21
+сито|49
+la poêle|21
+сковорода|49
+la casserole|21
+кастрюля|49
+le gril|21
+сковорода для гриля|49
+anti-adhérent|21
+антипригарное покрытие|49
+le wok|21
+вок|49
+le fait-tout|21
+керамический горшочек|49
+le grand bol|21
+миска|49
+le moule à soufflé|21
+форма для суфле|49
+le plat à gratin|21
+форма для запеканки|49
+le ramequin|21
+порционная формочка|49
+la cocotte|21
+жаропрочная кастрюля|49
+la pâtisserie|21
+выпечка|49
+la balance|21
+весы|49
+le pot gradué|21
+мерная кружка|49
+le moule à gâteaux|21
+форма для торта|49
+la tourtière|21
+форма для пирога|49
+le moule à tarte|21
+форма для сладкого пирога|49
+le pinceau à pâtisserie|21
+кондитерская щёточка|49
+le rouleau pâtissier|21
+скалка|49
+la poche à douille|21
+кондитерский мешочек|49
+le moule à muffins|21
+противень для булочек|49
+la plaque à gâteaux|21
+противень|49
+la grille de refroidissement|21
+подставка для охлаждения|49
+le gant isolant|21
+прихватка|49
+le tablier|21
+фартук|49
+l'armoire|21
+гардероб|49
+la lampe de chevet|21
+лампа|49
+la tête de lit|21
+спинка кровати|49
+la table de nuit|21
+прикроватная тумбочка|49
+la commode|21
+комод|49
+le tiroir|21
+ящик|49
+le lit|21
+кровать|49
+le matelas|21
+матрас|49
+le couvre-lit|21
+покрывало|49
+l'oreiller|21
+подушка|49
+le sol|21
+пол|49
+la coiffeuse|21
+туалетный столик|49
+le miroir|21
+зеркало|49
+la bouillotte|21
+грелка|49
+le radio-réveil|21
+часы-радио|49
+le réveil|21
+будильник|49
+la boîte de kleenex|21
+коробка с бумажными салфетками|49
+le cintre|21
+вешалка для одежды|49
+le linge de lit|21
+постельное бельё|49
+la taie d'oreiller|21
+наволочка|49
+le drap|21
+простыня|49
+la frange de lit|21
+подзор|49
+la couette|21
+пуховое одеяло|49
+l'édredon|21
+стеганое одеяло|49
+la couverture|21
+шерстяное одеяло|49
+le lit simple|21
+односпальная кровать|49
+le grand lit|21
+двуспальная кровать|49
+la couverture chauffante|21
+электрическое одеяло|49
+le pied de lit|21
+изножье|49
+le ressort|21
+пружина|49
+le tapis|21
+ковёр|49
+l'insomnie|21
+бессонница|49
+se coucher|21
+ложиться спать|49
+s'endormir|21
+заснуть|49
+se réveiller|21
+просыпаться|49
+se lever|21
+вставать|49
+faire le lit|21
+застилать кровать|49
+ronfler|21
+храпеть|49
+l'armoire encastrée|21
+встроенный гардероб|49
+mettre le réveil|21
+завести будильник|49
+la baignoire|21
+ванна|49
+le bidet|21
+биде|49
+la bonde|21
+пробка|49
+le lavabo|21
+раковина|49
+le porte-serviettes|21
+вешалка для полотенец|49
+la porte de douche|21
+створка душевой кабины|49
+le robinet d'eau froide|21
+кран холодной воды|49
+le robinet d'eau chaude|21
+кран горячей воды|49
+le pommeau de douche|21
+насадка душа|49
+la douche|21
+душевая кабина|49
+le tuyau d'écoulement|21
+водосток|49
+le siège des toilettes|21
+сиденье унитаза|49
+les toilettes|21
+унитаз|49
+la brosse|21
+туалетный ёршик|49
+la pharmacie de ménage|21
+аптечка|49
+le tapis de bain|21
+коврик для ванной|49
+le rouleau de papier hygiénique|21
+туалетная бумага|49
+le rideau de douche|21
+занавеска для душа|49
+prendre une douche|21
+принять душ|49
+prendre une bain|21
+принимать ванну|49
+l'hygiène dentaire|21
+гигиена полости рта|49
+la brosse á dents|21
+зубная щётка|49
+le fil dentaire|21
+зубная нить|49
+le dentifrice|21
+зубная паста|49
+l'eau dentifrice|21
+полоскание для рта|49
+le luffa|21
+губка (I)|49
+l'éponge|21
+губка (II)|49
+la pierre ponce|21
+пемза|49
+la brosse pour le dos|21
+щётка для спины|49
+le déodorant|21
+дезодорант|49
+le porte-savon|21
+мыльница|49
+le gel douche|21
+гель для душа|49
+le savon|21
+мыло|49
+la crème pour le visage|21
+крем для лица|49
+le bain moussant|21
+пена для ванны|49
+la serviette|21
+полотенце для рук|49
+la serviette de bain|21
+банное полотенце|49
+les serviettes|21
+полотенца|49
+la lotion pour le corps|21
+лосьон для тела|49
+le talc|21
+тальк|49
+le peignoir|21
+банный халат|49
+le rasage|21
+бритьё|49
+le rasoir électrique|21
+электробритва|49
+la mousse raser|21
+пена для бритья|49
+le rasoir jetable|21
+одноразовая бритва|49
+la lame de rasoir|21
+бритвенное лезвие|49
+l'after-shave|21
+лосьон после бритья|49
+les soins de bébé|21
+уход за ребёнком|49
+la crème pour l'érythème|21
+крем против сыпи|49
+la serviette humide|21
+гигиенические салфетки|49
+l'éponge|21
+губка|49
+la baignoire en plastique|21
+детская ванночка|49
+le pot|21
+горшок|49
+le matelas à langer|21
+пеленальный матрац|49
+le matelas|21
+матрас|49
+le lit d'enfant|21
+кроватка|49
+le mobile|21
+подвесные погремушки|49
+les barreaux|21
+прутья кроватки|49
+le protège-barreaux|21
+защитный буфер|49
+le drap|21
+простыня|49
+la couverture|21
+одеяло|49
+la literie|21
+постель|49
+le hochet|21
+погремушка|49
+le moïse|21
+переносная колыбель|49
+la poupée|21
+кукла|49
+le jouet en peluche|21
+мягкая игрушка|49
+la maison de poupée|21
+кукольный домик|49
+la maison pliante|21
+игровой домик|49
+l'ours en peluche|21
+медвежонок|49
+le jouet|21
+игрушка|49
+le panier à jouets|21
+корзина для игрушек|49
+la balle|21
+мяч|49
+le parc|21
+манеж|49
+la serrure de sécurité|21
+детский замок|49
+la moniteur|21
+переговорное устройство|49
+la barrière d'escalier|21
+ограждение лестницы|49
+la chaise haute|21
+высокий стул|49
+la tétine|21
+соска|49
+la tasse|21
+поильник|49
+le biberon|21
+бутылочка|49
+la capote|21
+откидной верх коляски|49
+la poussette|21
+прогулочная коляска|49
+le landau|21
+коляска|49
+la couche|21
+подгузник|49
+le couffin|21
+переносная кроватка|49
+le sac|21
+переносная сумка|49
+le porte-bébé|21
+кенгуру|49
+le linge|21
+стирка|49
+le linge sale|21
+грязное бельё|49
+le panier à linge (I)|21
+корзина для грязного белья|49
+le lave-linge|21
+стиральная машина|49
+le lave-linge séchant|21
+стиральная машина с сушкой|49
+le sèche-linge|21
+сушильная машина|49
+le panier à linge (II)|21
+бельевая корзина|49
+la pince à linge|21
+прищепка|49
+sécher|21
+сушить|49
+la corde à linge|21
+бельевая верёвка|49
+la planche à repasser|21
+гладильная доска|49
+le fer à repasser|21
+утюг|49
+charger|21
+загружать|49
+essorer|21
+отжимать|49
+rincer|21
+полоскать|49
+l'essoreuse|21
+центрифуга|49
+l'équipement d'entretien|21
+принадлежности для уборки|49
+le tuyau flexible|21
+всасывающий шланг|49
+l'aspirateur|21
+пылесос|49
+le seau|21
+ведро|49
+le balai laveur|21
+швабра|49
+la poudre|21
+порошок|49
+la pelle|21
+совок|49
+la balayette|21
+щётка|49
+l'eau de Javel|21
+отбеливатель|49
+le détergent|21
+моющие средства|49
+le liquide|21
+жидкость|49
+le chiffon|21
+тряпка для пыли|49
+la cire|21
+полироль|49
+nettoyer|21
+чистить|49
+laver|21
+мыть|49
+essuyer|21
+вытирать|49
+laver à la brosse|21
+чистить щёткой|49
+racler|21
+скрести|49
+balayer|21
+подметать|49
+épousseter|21
+вытирать пыль|49
+la scie sauteuse|21
+электропила|49
+la perceuse rechargeable|21
+аккумуляторная дрель|49
+la pile|21
+отделение для батареек|49
+la perceuse électrique|21
+электродрели|49
+le mandrin|21
+держатель|49
+le pistolet à colle|21
+клеевой пистолет|49
+la ponceuse|21
+шлифовальный станок|49
+l'étau|21
+тиски|49
+le serre-joint|21
+струбцина|49
+la scie circulaire|21
+циркулярная пила|49
+la lame|21
+диск|49
+l'établi|21
+верстак|49
+la colle à bois|21
+столярный клей|49
+la guimbarde|21
+грунтгебель (шпунтгебель)|49
+les copeaux|21
+стружка|49
+le porte-outils|21
+стеллажи для инструментов|49
+le vilebrequin|21
+коловорот|49
+le prolongateur|21
+удлинитель|49
+découper|21
+резать|49
+scier|21
+пилить|49
+percer|21
+сверлить|49
+marteler|21
+забивать|49
+la soudure|21
+припой|49
+sculpter|21
+вырезать|49
+tourner|21
+точить|49
+raboter|21
+строгать|49
+les matériaux|21
+материалы|49
+le médium|21
+мдф плита|49
+le contreplaqué|21
+фанера|49
+l'aggloméré|21
+ДСП|49
+l'isorel|21
+двп|49
+le bois tendre|21
+мягкая древесина|49
+le bois|21
+древо|49
+le bois dur|21
+твёрдая древесина|49
+le vernis|21
+лак|49
+la couleur pour bois|21
+морилка|49
+le fil de fer|21
+проволока|49
+le câble|21
+кабель|49
+l'inox|21
+нержавеющая сталь|49
+galvanisé|21
+оцинкованное железо|49
+le métal|21
+металл|49
+la clef (II)|21
+гаечный ключ|49
+la clef à molette|21
+разводной ключ|49
+le marteau|21
+молоток|49
+la pince plate|21
+пассатижи|49
+la clef à pipe|21
+торцевой ключ|49
+le niveau|21
+ватерпас|49
+le joint|21
+шайба|49
+l'écrou|21
+гайка|49
+la clef (I)|21
+ключ|49
+la pince universelle|21
+плоскогубцы|49
+la douille|21
+насадки|49
+le couteau|21
+нож|49
+le mètre|21
+рулетка|49
+le tournevis|21
+отвёртка|49
+les embouts de tournevis|21
+насадки для отвёртки|49
+les forêts|21
+сверла для дрели|49
+le forêt à métaux|21
+сверло по металлу|49
+l'alésoir|21
+развёртка|49
+les forêts de bois|21
+столярные сверла|49
+le forêt à bois plat|21
+перо|49
+le tournevis cruciforme|21
+крестовая отвёртка|49
+la tête|21
+шляпка гвоздя|49
+le clou|21
+гвоздь|49
+la vis|21
+шуруп|49
+le foret de sécurité|21
+защитная насадка|49
+la foret de maçonnerie|21
+сверла по камню|49
+la pince à dénuder|21
+торцевые кусачки|49
+le fer à souder|21
+паяльник|49
+la pince coupante|21
+кусачки|49
+le ruban isolant|21
+изоляционная лента|49
+le scalpel|21
+скальпель|49
+la soudure|21
+припой|49
+la scie à chantourner|21
+лобзик|49
+les lunettes de sécurité|21
+защитные очки|49
+le rabot|21
+рубанок|49
+la scie égoïne|21
+ножовка|49
+la boîte à onglets|21
+усорез|49
+la perceuse manuelle|21
+ручная дрель|49
+la paille de fer|21
+проволочная мочалка|49
+la scie à métaux|21
+ножовка по металлу|49
+le papier de verre|21
+наждачная бумага|49
+le burin|21
+долото|49
+la lime|21
+напильник|49
+la pierre à aiguiser|21
+точильный камень|49
+le coupe-tube|21
+труборез|49
+la ventouse|21
+вантуз|49
+la clef serre-tube|21
+газовый ключ|49
+le papier peint|21
+обои|49
+le tapissier décorateur|21
+мастер|49
+l'escabeau|21
+стремянка|49
+la brosse à tapisser|21
+обойная щётка|49
+la table à encoller|21
+стол для обоев|49
+la brosse à encoller|21
+щётка для клея|49
+la colle à tapisser|21
+обойный клей|49
+le seau|21
+ведро|49
+les ciseaux|21
+ножницы|49
+le cutter|21
+резак|49
+le fil à plomb|21
+отвес|49
+le grattoir|21
+скребок|49
+décoller|21
+обдирать|49
+mastiquer|21
+шпаклевать|49
+poncer|21
+затирать|49
+plâtrer|21
+штукатурить|49
+poser|21
+клеить обои|49
+carreler|21
+класть кафель|49
+peindre|21
+красить|49
+le rouleau|21
+валик|49
+la brosse|21
+кисть|49
+le pot de peinture|21
+ведро с краской|49
+les bleus|21
+спецовка|49
+la couverture de protection|21
+защитное покрытие|49
+le bac à peinture|21
+лоток для краски|49
+l'éponge|21
+губка|49
+le papier cache|21
+маскирующая лента|49
+le papier de verre|21
+наждачная бумага|49
+le mastic (I)|21
+шпатлёвка|49
+spirit le white-spirit|21
+растворитель (I)|49
+la térébenthine|21
+скипидар|49
+brillant|21
+глянцевый|49
+mat|21
+матовый|49
+la peinture mate|21
+водоэмульсионная краска|49
+le pochoir|21
+трафарет|49
+le papier gaufré|21
+тисненые обои|49
+l'apprêt|21
+грунтовка|49
+la couche de fond|21
+первичная грунтовка|49
+la dernière couche|21
+завершающий слой|49
+l'agent de conservation|21
+защитный слой|49
+le mastic (II)|21
+раствор (цементный)|49
+le solvant|21
+растворитель (II)|49
+l'enduit|21
+уплотнитель|49
+les styles de jardin|21
+виды садов|49
+le patio|21
+сад во внутреннем дворике|49
+le jardin sur le toit|21
+сад на крыше|49
+la rocaille|21
+альпийская горка|49
+le jardin à la française|21
+регулярный парк|49
+la cour|21
+сад во дворе|49
+le jardin paysan|21
+сад в сельском стиле|49
+le jardin d'herbes aromatiques|21
+травяной сад|49
+le jardin d'eau|21
+декоративный пруд|49
+le panier suspendu|21
+подвесной вазон|49
+le treillis|21
+шпалера|49
+la pergola|21
+арка (I)|49
+le pavé|21
+мощеный участок|49
+l'allée|21
+дорожка|49
+le tas de compost|21
+компостная куча|49
+le portail|21
+ворота|49
+la cabane|21
+сарай|49
+la serre|21
+теплица|49
+la clôture|21
+забор|49
+la bordure de plantes herbacées|21
+цветочный бордюр|49
+le potager|21
+огород|49
+l'arceau|21
+арка (II)|49
+la haie|21
+живая изгородь|49
+le bassin|21
+пруд|49
+la pelouse|21
+газон|49
+le parterre|21
+клумба|49
+les planches|21
+настил|49
+la fontaine|21
+фонтан|49
+le sol|21
+почва|49
+la terre|21
+верхний слой|49
+le sable|21
+песок|49
+la chaux|21
+известняк|49
+le vase|21
+сапропель|49
+l'argile|21
+глина|49
+annuel|21
+однолетнее|49
+bisannuel|21
+двулетнее|49
+vivace|21
+многолетнее|49
+le bulbe|21
+луковичное|49
+la fougère|21
+папоротник|49
+le jonc|21
+камыш|49
+le bambou|21
+бамбук|49
+les mauvaises herbes|21
+сорняки|49
+l'herbe (II)|21
+травы|49
+la plante aquatique|21
+водные растения|49
+l'arbre|21
+дерево|49
+le palmier|21
+пальма|49
+le conifère|21
+хвойное|49
+á feuilles persistantes|21
+вечнозелёное|49
+á feuilles caduques|21
+лиственное|49
+la topiaire|21
+фигурно подстриженные деревья|49
+la plante alpestre|21
+альпийское растение|49
+la plante grasse|21
+суккулент|49
+le cactus|21
+кактус|49
+la plante grimpante|21
+вьющееся растение|49
+la plante en pot|21
+горшечное растения|49
+la plante d'ombre|21
+тенелюбивое растение|49
+l'arbuste à fleurs|21
+цветущий кустарник|49
+la couverture du sol|21
+покрытие|49
+la plante rampante|21
+ползучее растение|49
+ornemental|21
+декоративное растение|49
+l'herbe (I)|21
+трава|49
+la bêche|21
+лопата|49
+la grande cisaille|21
+кусторез|49
+le balai à gazon|21
+лёгкие грабли|49
+le râteau|21
+грабли|49
+la houe|21
+тяпка|49
+la tondeuse à gazon|21
+газонокосилка|49
+le sac à herbe|21
+мешок для травы|49
+le moteur|21
+мотор|49
+la tondeuse|21
+триммер|49
+l'écran de protection|21
+щиток|49
+la brouette|21
+садовая тачка|49
+le support|21
+подставка|49
+le bras|21
+ручка|49
+le panier de jardinier|21
+корзинка садовника|49
+la petite fourche|21
+вилка|49
+le sécateur|21
+секатор|49
+les gants de jardinage|21
+садовые перчатки|49
+le déplantoir|21
+совок|49
+la lame|21
+лезвие|49
+le germoir|21
+ящик для рассады|49
+les cannes|21
+колышки|49
+la ficelle|21
+бечёвка|49
+les étiquettes|21
+бирки|49
+les attaches|21
+проволочная подвязка|49
+les anneaux|21
+кольцевая подвязка|49
+la cisaille|21
+садовые ножницы|49
+la scie à main|21
+ножовка|49
+le pesticide|21
+пестициды|49
+le tamis|21
+сито|49
+le pot à fleurs|21
+цветочный горшок|49
+les bottes|21
+резиновые сапоги|49
+le vaporisateur|21
+пульверизатор|49
+l'arroseur|21
+дождевальная установка|49
+le dévidoir de tuyau|21
+рукавная катушка|49
+le jet|21
+наконечник|49
+le tuyau d'arrosage|21
+шланг|49
+la pomme|21
+разбрызгиватель|49
+l'arrosoir|21
+лейка|49
+tondre|21
+стричь газон|49
+la pelouse|21
+газон|49
+le parterre|21
+клумба|49
+la tondeuse|21
+газонокосилка|49
+la haie|21
+живая изгородь|49
+le tuteur|21
+колышек|49
+gazonner|21
+дерновать|49
+piquer|21
+прокалывать|49
+ratisser|21
+рыхлить|49
+tailler|21
+подстригать|49
+bêcher|21
+копать|49
+semer|21
+сеять|49
+fumer en surface|21
+удобрять (I)|49
+arroser|21
+поливать|49
+palisser|21
+направлять рост|49
+enlever les fleurs fanées|21
+удалять отцветшие бутоны|49
+asperger|21
+опрыскивать|49
+greffer|21
+прививать растения|49
+propager|21
+размножать|49
+la coupe|21
+черенок|49
+élaguer|21
+обрезать дерево|49
+transplanter|21
+пересаживать|49
+désherber|21
+полоть|49
+pailler|21
+мульчировать|49
+récolter|21
+собирать урожай|49
+cultiver|21
+культивировать|49
+dessiner|21
+оформлять|49
+fertiliser|21
+удобрять (II)|49
+tamiser|21
+просеивать|49
+biologique|21
+органический|49
+le semis|21
+рассада|49
+le sous-sol|21
+подпочва|49
+soigner|21
+ухаживать|49
+mettre en pot|21
+сажать в горшок|49
+cueillir|21
+собирать|49
+retourner|21
+аэрировать|49
+l'engrais|21
+удобрение|49
+le drainage|21
+дренаж|49
+l'herbicide|21
+гербицид|49
+l'ambulance|21
+скорая помощь|49
+l'infirmier du SAMU|21
+фельдшер|49
+le brancard|21
+носилки|49
+la police|21
+полиция|49
+le policier|21
+полицейский|49
+le badge|21
+значок полицейского|49
+l'uniforme|21
+форма|49
+la matraque|21
+резиновая дубинка|49
+les menottes|21
+наручники|49
+la voiture de police|21
+полицейская машина|49
+la sirène|21
+сирена|49
+les feux|21
+проблесковый маячок|49
+le poste de police|21
+полицейский участок|49
+le crime|21
+преступление|49
+le cambriolage|21
+ограбление|49
+la plainte|21
+жалоба|49
+l'arrestation|21
+арест|49
+l'officier de police|21
+детектив|49
+l'agression|21
+оскорбление действием|49
+l'enquête|21
+расследование|49
+la cellule|21
+КПЗ|49
+l'inspecteur|21
+инспектор|49
+les empreintes|21
+отпечатки пальцев|49
+le suspect|21
+подозрение|49
+l'accusation|21
+обвинение|49
+les pompiers|21
+пожарная команда|49
+l'incendie|21
+пожар|49
+la fumée|21
+дым|49
+la nacelle|21
+люлька|49
+la flèche|21
+стрела крана|49
+le tuyau|21
+брандспойт|49
+le casque|21
+каска|49
+les sapeurs-pompiers|21
+пожарные|49
+le jet d'eau|21
+водомёт|49
+l'échelle|21
+пожарная лестница (I)|49
+la cabine|21
+кабина|49
+le poste d'incendie|21
+пожарная часть|49
+l'escalier de secours|21
+пожарная лестница (II)|49
+la voiture de pompiers|21
+пожарная машина|49
+le détecteur de fumée|21
+дымовая сигнализация|49
+l'avertisseur d'incendie|21
+пожарная сигнализация|49
+la hache|21
+багор|49
+l'extincteur|21
+огнетушитель|49
+la borne d'incendie|21
+гидрант|49
+le caissier|21
+кассир|49
+le guichet|21
+окошко|49
+le client|21
+клиент|49
+les dépliants|21
+буклет|49
+le comptoir|21
+стойка|49
+les fiches de versement|21
+платёжные бланки|49
+le directeur d'agence|21
+менеджер банка|49
+la carte de crédit|21
+кредитная карточка|49
+la carte bancaire|21
+дебетовая карточка|49
+le carnet de chèques|21
+чековая книжка|49
+le talon|21
+корешок квитанции|49
+le numéro de compte|21
+номер счёта|49
+la signature|21
+подпись|49
+le montant|21
+сумма|49
+le chèque|21
+чек|49
+le prêt|21
+заём|49
+l'impôt|21
+налог|49
+l'épargne|21
+сбережения|49
+l'hypothèque|21
+ипотека|49
+le taux d'intérêt|21
+процентная ставка|49
+le découvert|21
+превышение кредита|49
+le paiement|21
+выплата|49
+le prélèvement|21
+списание в безакцептном порядке|49
+la fiche de retrait|21
+расходный ордер|49
+verser|21
+вносить на счёт|49
+le virement bancaire|21
+банковский перевод|49
+les frais bancaire|21
+банковские комиссионные|49
+le compte courant|21
+текущий счёт|49
+le compte d'épargne|21
+сберегательный счёт|49
+le code secret|21
+пин-код|49
+la pièce|21
+монета|49
+l'argent|21
+деньги|49
+le billet|21
+банкнота|49
+le distributeur|21
+банкомат|49
+le clavier|21
+клавиатура|49
+l'écran|21
+экран|49
+la fente|21
+прорезь для карточки|49
+les devises étrangères|21
+иностранная валюта|49
+le bureau de change|21
+обменный пункт|49
+le traveller|21
+дорожный чек|49
+le taux de change|21
+обменный курс|49
+la conseillère financière|21
+финансовый консультант|49
+la bourse|21
+фондовая биржа|49
+le prix des actions|21
+цена акции|49
+l'agent de la bourse|21
+биржевой маклер|49
+encaisser|21
+обналичить|49
+les actions|21
+акций|49
+la valeur|21
+деноминация|49
+les dividendes|21
+дивиденды|49
+la commission|21
+комиссионные|49
+l'action|21
+акция без фиксированного дивиденда|49
+l'investissement|21
+инвестиции|49
+le portefeuille|21
+портфель ценных бумаг|49
+les titres|21
+ценные бумаги|49
+le comptable|21
+бухгалтер|49
+la poste|21
+почтовое отделение|49
+le postier|21
+почтовый работник|49
+le guichet (I)|21
+окошко|49
+la balance|21
+весы|49
+le guichet (II)|21
+стойка|49
+l'enveloppe|21
+конверт|49
+l'adresse|21
+адрес|49
+le tampon de la poste|21
+почтовый штемпель|49
+le timbre|21
+марка|49
+le code postal|21
+почтовый индекс|49
+le facteur|21
+почтальон|49
+la lettre|21
+письмо|49
+l'expéditeur|21
+обратный адрес|49
+la distribution|21
+доставка|49
+fragile|21
+хрупкий|49
+ne pas plier|21
+не сгибать|49
+par avion|21
+авиапочтой|49
+la signature|21
+подпись|49
+le tarif d'affranchissement|21
+почтовые расходы|49
+le sac postal|21
+сумка почтальона|49
+dessus|21
+этой стороной вверх|49
+l'envoi en recommandé|21
+заказное письмо|49
+la levée|21
+выемка писем|49
+le mandat postal|21
+почтовый перевод|49
+le télégramme|21
+телеграмма|49
+le fax|21
+факс|49
+la boîte aux lettres (I)|21
+почтовый ящик|49
+la boîte aux lettres (II)|21
+ящик для писем|49
+le colis|21
+посылка|49
+le service de messagerie|21
+курьер|49
+le téléphone|21
+телефон|49
+le combiné (II)|21
+трубка (I)|49
+la base|21
+база|49
+le téléphone sans fil|21
+беспроводной телефон|49
+le répondeur|21
+автоответчик|49
+le visiophone|21
+видеофон|49
+la cabine téléphonique|21
+телефонная будка|49
+le portable|21
+мобильный телефон|49
+le clavier|21
+клавиатура|49
+le téléphone à pièces|21
+монетный таксофон|49
+le rendu de monnaie|21
+возврат монет|49
+le combiné (I)|21
+трубка (II)|49
+le téléphone à carte|21
+карточный таксофон|49
+les renseignements|21
+телефонный справочник|49
+répondre|21
+ответить|49
+le téléphoniste|21
+оператор|49
+le P.C.V.|21
+звонок за счёт вызываемого абонента|49
+occupé|21
+линия занята|49
+composer|21
+набрать номер|49
+le message vocal|21
+голосовое сообщение|49
+coupé|21
+связь прервана|49
+le hall|21
+вестибюль|49
+la réception|21
+рецепция|49
+le client|21
+постоялец|49
+la clef de la chambre|21
+ключ от номера|49
+les messages|21
+сообщения|49
+le casier|21
+ячейка для корреспонденции|49
+la réceptionniste|21
+портье|49
+le registre|21
+книга записи постояльцев|49
+le comptoir|21
+стойка регистрации|49
+le porteur|21
+носильщик|49
+les bagages|21
+багаж|49
+le diable|21
+тележка|49
+l'ascenseur|21
+лифт|49
+le numéro de chambre|21
+номер комнаты|49
+les chambres|21
+номер|49
+la chambre simple|21
+номер на одного|49
+la chambre double|21
+номер на двоих|49
+la chambre à deux lits|21
+двухместный номер|49
+la salle de bain privée|21
+отдельная ванная|49
+le service de ménage|21
+горничная|49
+le service de blanchisserie|21
+прачечная|49
+le service d'étage|21
+обслуживание в номер|49
+le plateau à petit déjeuner|21
+поднос с завтраком|49
+le minibar|21
+мини-бар|49
+le restaurant|21
+ресторан|49
+la salle de sport|21
+гимнастический зал|49
+la piscine|21
+бассейн|49
+la pension complète|21
+полный пансион|49
+la demi-pension|21
+полупансион|49
+la chambre avec le petit déjeuner|21
+ночлег и завтрак|49
+l'atrium|21
+атриум|49
+l'enseigne|21
+вывеска|49
+l'ascenseur|21
+лифт|49
+le client|21
+покупатель|49
+le rez-de-chaussée|21
+цокольный этаж|49
+l'escalier mécanique|21
+эскалатор|49
+le premier étage|21
+первый этаж|49
+le deuxième étage|21
+второй этаж|49
+le rayon enfants|21
+отдел детских товаров|49
+le service après-vente|21
+обслуживание покупателей|49
+les cabines d'essayage|21
+примерочные|49
+le rayon bagages|21
+отдел сумок|49
+le guide|21
+справочная служба|49
+les soins de bébés|21
+комната матери и ребёнка|49
+le rayon chaussures|21
+обувной отдел|49
+le vendeur|21
+продавец|49
+les vêtements pour hommes|21
+мужская одежда|49
+les vêtements pour femmes|21
+женская одежда|49
+la lingerie|21
+женское бельё|49
+la parfumerie|21
+парфюмерия|49
+la beauté|21
+косметика|49
+le linge de maison|21
+постельное бельё|49
+l'ameublement|21
+мебель|49
+la mercerie|21
+галантерея|49
+la vaisselle|21
+товары для кухни|49
+la porcelaine|21
+фарфор|49
+l'électroménager|21
+электротовары|49
+l'éclairage|21
+светильники|49
+les articles de sport|21
+спорттовары|49
+la papeterie|21
+канцтовары|49
+l'alimentation|21
+продукты|49
+l'allée|21
+проход|49
+l'étagère|21
+полка|49
+le tapis roulant|21
+транспортёр|49
+le caissier|21
+кассир|49
+les promotions|21
+спецпредложения|49
+le client|21
+покупатель|49
+la caisse|21
+кассовый аппарат|49
+le sac à provisions|21
+пластиковый пакет|49
+le caddie|21
+тележка|49
+les provisions|21
+бакалейные продукты|49
+l'anse|21
+ручка|49
+le code-barres|21
+штрихкод|49
+le lecteur optique|21
+сканер|49
+la boulangerie|21
+хлебо-булочные изделия|49
+la crémerie|21
+молочные продукты|49
+les conserves|21
+консервы|49
+la confiserie|21
+кондитерские изделия|49
+les légumes|21
+овощи|49
+les fruits|21
+фрукты|49
+la viande et la volaille|21
+мясо и птица|49
+le poisson|21
+рыба|49
+la charcuterie|21
+гастрономия|49
+les produits surgelés|21
+замороженные продукты|49
+les plats cuisinés|21
+готовые блюда|49
+les boissons|21
+напитки|49
+les produits d'entretien|21
+хозяйственные товары|49
+les articles de toilette|21
+туалетные принадлежности|49
+les articles pour bébés|21
+товары для младенцев|49
+l'électroménager|21
+электротовары|49
+la nourriture pour animaux|21
+корм для животных|49
+les magazines|21
+журналы|49
+le soin dentaire|21
+средства для ухода за зубами|49
+l'hygiène féminine|21
+средства женской гигиены|49
+les déodorants|21
+дезодоранты|49
+les cachets de vitamines|21
+витамины|49
+l'officine|21
+лекарства|49
+le pharmacien|21
+фармацевт|49
+le médicament pour la toux|21
+лекарство от кашля|49
+l'herboristerie|21
+лекарственные травы|49
+les soins de la peau|21
+средства для ухода за кожей|49
+l'écran solaire|21
+солнцезащитный крем|49
+l'après-soleil|21
+крем после загара|49
+l'écran total|21
+крем с УФ-фильтром|49
+le produit anti-insecte|21
+репеллент от насекомых|49
+la serviette humide|21
+влажные салфетки|49
+le kleenex|21
+бумажные салфетки|49
+la capsule|21
+капсулы|49
+la pilule|21
+таблетки|49
+le sirop|21
+сироп|49
+la cuiller pour mesurer|21
+мерная ложечка|49
+l'inhalateur|21
+ингалятор|49
+le mode d'emploi|21
+инструкция|49
+la crème|21
+крем|49
+la pommade|21
+мазь|49
+le gel|21
+гель|49
+le suppositoire|21
+свечи|49
+les gouttes|21
+капли|49
+la seringue|21
+шприц|49
+le spray|21
+спрей|49
+la poudre|21
+порошок|49
+le fer|21
+железо|49
+le médicament multivitamine|21
+поливитамины|49
+soluble|21
+растворимый|49
+le laxatif|21
+слабительное|49
+l'analgésique|21
+болеутоляющее|49
+le calcium|21
+кальций|49
+les effets secondaires|21
+побочный эффект|49
+la posologie|21
+дозировка|49
+la diarrhée|21
+диарея|49
+le sédatif|21
+успокоительное|49
+le magnésium|21
+магний|49
+la date d'expiration|21
+срок годности|49
+la médication|21
+лечение|49
+le médicament|21
+лекарство|49
+le somnifère|21
+снотворное|49
+l'insuline|21
+инсулин|49
+les cachets antinaupathiques|21
+таблетки против укачивания|49
+jetable|21
+одноразовый|49
+la pastille pour la gorge|21
+пастилки от боли в горле|49
+l'anti-inflammatoire|21
+противовоспалительное|49
+les fleurs|21
+цветы|49
+le lis|21
+лилия|49
+l'acacia|21
+акация|49
+l'oeillet|21
+гвоздика|49
+la plante en pot|21
+цветы в горшках|49
+le glaïeul|21
+гладиолус|49
+l'iris|21
+ирис|49
+la marguerite|21
+маргаритка|49
+le chrysanthème|21
+хризантема|49
+la gypsophile|21
+гипсофила|49
+la giroflée|21
+левкой|49
+le gerbera|21
+гербера|49
+le feuillage|21
+листья|49
+la rose|21
+роза|49
+le freesia|21
+фрезия|49
+l'orchidée|21
+орхидея|49
+la pivoine|21
+пион|49
+la jonquille|21
+нарцисс|49
+la tige|21
+стебель|49
+la botte|21
+пучок|49
+la tulipe|21
+тюльпан|49
+le bourgeon|21
+бутон|49
+l'emballage|21
+обёртка|49
+les compositions florales|21
+аранжировка|49
+le ruban|21
+лента|49
+le bouquet|21
+букет|49
+les fleurs séchées|21
+сухие цветы|49
+le pot-pourri|21
+смесь из сухих цветов|49
+la couronne|21
+венок|49
+la guirlande de fleurs|21
+гирлянда|49
+les cigarettes|21
+сигареты|49
+le paquet de cigarettes|21
+пачка сигарет|49
+les allumettes|21
+спички|49
+les billets de loterie|21
+лотерейные билеты|49
+la carte postale|21
+почтовая карточка|49
+les timbres|21
+марки|49
+la bande dessinée|21
+комикс|49
+le magazine|21
+журнал|49
+le journal|21
+газета|49
+le tabac|21
+табак|49
+le briquet|21
+зажигалка|49
+la pipe|21
+трубка|49
+le fourneau|21
+чашечка|49
+le tuyau|21
+мундштук|49
+le cigare|21
+сигара|49
+la confiserie (II)|21
+кондитерский магазин|49
+la boîte de chocolats|21
+коробка шоколадных конфет|49
+les chips|21
+чипсы|49
+le caramel|21
+карамель|49
+le biscuit|21
+печенье|49
+la truffe|21
+трюфель|49
+le chocolat blanc|21
+белый шоколад|49
+le chocolat au lait|21
+молочный шоколад|49
+les bonbons assortis|21
+конфеты ассорти|49
+le chocolat noir|21
+горький шоколад|49
+la confiserie (I)|21
+кондитерские изделия|49
+le chocolat|21
+шоколад|49
+la tablette de chocolat|21
+плитка шоколада|49
+les bonbons|21
+леденцы|49
+la sucette|21
+леденец на палочке|49
+le caramel au beurre|21
+ирис|49
+le nougat|21
+нуга|49
+la guimauve|21
+пастила|49
+le bonbon à la menthe|21
+мятные пастилки|49
+le chewing-gum|21
+жевательная резинка|49
+la dragée à la gelée|21
+желейный мармелад|49
+le bonbon au fruit|21
+фруктовые конфеты|49
+le réglisse|21
+лакрица|49
+la boulangerie|21
+булочная|49
+la pâtisserie|21
+кондитерская|49
+la boucherie|21
+мясной магазин|49
+la poissonnerie|21
+рыбный магазин|49
+le marchand de légumes|21
+овощной магазин|49
+l'épicerie|21
+бакалея|49
+le magasin de chaussures|21
+обувной магазин|49
+la quincaillerie|21
+хозяйственный магазин|49
+le magasin d'antiquités|21
+антикварный магазин|49
+la boutique de cadeaux|21
+магазин подарков|49
+l'agence de voyage|21
+туристическое агентство|49
+la bijouterie|21
+ювелирный магазин|49
+la librairie|21
+книжный магазин|49
+le magasin de disques|21
+музыкальный магазин|49
+le magasin de vins et spiritueux|21
+винный магазин|49
+l'animalerie|21
+зоомагазин|49
+le magasin de meubles|21
+мебельный магазин|49
+la boutique|21
+бутик|49
+le tailleur|21
+ателье|49
+le salon coiffure|21
+парикмахерская|49
+le marché|21
+рынок|49
+la laverie automatique|21
+прачечная|49
+le magasin d'appareils photos|21
+фотомагазин|49
+la pépinière|21
+товары для сада и огорода|49
+le magasin bio|21
+магазин здоровой пищи|49
+le pressing|21
+химчистка|49
+la boutique d'art|21
+художественный салон|49
+l'agent immobilier|21
+агентство недвижимости|49
+le marchand d'occasion|21
+комиссионный магазин|49
+l'agneau|21
+баранина|49
+le bacon|21
+корейка|49
+les saucisses|21
+колбаски|49
+le foie|21
+печень|49
+la balance|21
+весы|49
+le fusil|21
+точила для ножей|49
+l'allonge|21
+мясной крюк|49
+le boucher|21
+мясник|49
+le porc|21
+свинина|49
+la venaison|21
+оленина|49
+les abats|21
+потроха|49
+de ferme|21
+деревенское|49
+la viande rouge|21
+красное мясо|49
+le boeuf|21
+говядина|49
+le lapin|21
+крольчатина|49
+salé|21
+солёное|49
+naturel|21
+натуральное|49
+la viande maigre|21
+постное мясо|49
+le veau|21
+телятина|49
+la langue de boeuf|21
+язык|49
+fumé|21
+копчёное|49
+la viande blanche|21
+белое мясо|49
+la viande cuite|21
+готовое мясо|49
+la tranche|21
+ломтик|49
+le jambon|21
+окорок|49
+la couenne|21
+шкурка|49
+la tranche de lard|21
+свиная корейка|49
+la viande hachée|21
+фарш|49
+le filet|21
+вырезка|49
+le rumsteck|21
+задняя часть|49
+le bifteck d'aloyau|21
+филейный край|49
+la côte de boeuf|21
+грудинка|49
+le gras|21
+жир|49
+l'os|21
+кость|49
+la côtelette|21
+отбивная 	котлета|49
+le gigot|21
+баранья нога|49
+le coeur|21
+сердце|49
+la volaille|21
+птица|49
+la dinde|21
+индейка|49
+la peau|21
+кожа|49
+le blanc|21
+грудка|49
+la cuisse (II)|21
+бедро|49
+le poulet|21
+курица|49
+l'aile|21
+крыло|49
+le poulet préparé|21
+потрошеная курица|49
+le canard|21
+утка|49
+l'oie|21
+гусь|49
+le faisan|21
+фазан|49
+la cuisse (I)|21
+ножка|49
+la caille|21
+перепел|49
+la poissonnerie|21
+рыбный прилавок|49
+la glace|21
+лёд|49
+les crevettes décortiquées|21
+очищенные креветки|49
+le rouget barbet|21
+барабулька|49
+les filets de flétan|21
+филе палтуса|49
+la truite arc-en-ciel|21
+радужная форель|49
+les ailes de raie|21
+крылья ската|49
+la lotte|21
+морской чёрт|49
+le maquereau|21
+скумбрия|49
+la truite|21
+форель|49
+l'espadon|21
+рыба-меч|49
+la sole|21
+морской язык|49
+la limande-sole|21
+камбала европейская|49
+l'aiglefin|21
+пикша|49
+la sardine|21
+сардина|49
+la raie|21
+скат|49
+le merlan|21
+мерлан|49
+le bar|21
+морской окунь|49
+le saumon|21
+лосось|49
+la morue|21
+треска|49
+la daurade|21
+дорада|49
+le thon|21
+тунец|49
+les fruits de mer|21
+морепродукты|49
+la coquille Saint-Jacques|21
+морской гребешок|49
+le homard|21
+омар|49
+la crevette|21
+королевские креветки|49
+la moule|21
+мидии|49
+le crabe|21
+краб|49
+l'huître|21
+устрица|49
+l'écrevisse|21
+рак|49
+la coque|21
+сердцевидка|49
+la pieuvre|21
+осьминог|49
+la seiche|21
+каракатица|49
+le calamar|21
+кальмар|49
+le clam|21
+съедобные моллюски|49
+surgelé|21
+мороженая|49
+préparé|21
+потрошеная|49
+fumé|21
+копчёная|49
+écaillé|21
+без чешуи|49
+en filets|21
+разделанная на филе|49
+salé|21
+солёная|49
+sans peau|21
+без кожи|49
+l'arête|21
+кость|49
+le filet|21
+филе|49
+frais|21
+свежая|49
+la tranche|21
+стейк|49
+la queue|21
+хвост|49
+l'écaille|21
+чешуя|49
+la longe|21
+спинка|49
+la fève|21
+столовый боб|49
+le haricot grimpant|21
+фасоль длинностручковая|49
+la graine|21
+фасолина|49
+le haricot vert|21
+фасоль зелёная (французская)|49
+le petit pois|21
+зелёный горошек|49
+le germe de soja|21
+проростки соевых бобов|49
+le bambou|21
+бамбук|49
+l'okra|21
+окра|49
+la gousse (I)|21
+стручок|49
+le maïs|21
+кукуруза|49
+l'endive|21
+цикорий|49
+le fenouil|21
+фенхель|49
+les coeurs de palmier|21
+сердцевины пальмы|49
+le céleri|21
+сельдерей|49
+la feuille|21
+лист|49
+la fleurette|21
+цветок|49
+la pointe|21
+верхушка|49
+biologique|21
+экологически чистый|49
+le trognon|21
+стебель|49
+le grain|21
+семя|49
+le coeur|21
+сердцевина|49
+le sac en plastique|21
+пластиковый мешок|49
+la roquette|21
+руккола|49
+le cresson|21
+кресс водяной|49
+le radicchio|21
+радичио|49
+le chou de Bruxelles|21
+брюссельская капуста|49
+la bette|21
+мангольд|49
+le chou frisé|21
+капуста листовая|49
+l'oseille|21
+щавель|49
+la chicorée|21
+цикорий-эндивий|49
+le pissenlit|21
+одуванчик|49
+les épinards|21
+шпинат|49
+le chou-rave|21
+кольраби|49
+le chou chinois|21
+китайская капуста|49
+la laitue|21
+салат-латук|49
+le brocoli|21
+брокколи|49
+le chou|21
+капуста белокочанная|49
+le chou précoce|21
+капуста весенняя|49
+les légumes|21
+овощи|49
+la pomme de terre|21
+картофель|49
+le chou-fleur|21
+цветная капуста|49
+l'artichaut|21
+артишок|49
+le radis|21
+редис|49
+le navet|21
+репа|49
+la courge|21
+кабачок|49
+le piment|21
+перец чили|49
+le poivron|21
+болгарский перец|49
+l'oignon|21
+репчатый лук|49
+la tomate cerise|21
+томаты-черри|49
+surgelé|21
+замороженный|49
+amer|21
+горький|49
+la carotte|21
+морковь|49
+le taro|21
+корень таро|49
+cru|21
+сырой|49
+ferme|21
+жёсткий|49
+le fruit de l'arbre à pain|21
+плод хлебного дерева|49
+la châtaigne d'eau|21
+водяной каштан|49
+épicé|21
+острый|49
+la pulpe|21
+мякоть|49
+la pomme de terre nouvelle|21
+молодой картофель|49
+le manioc|21
+маниока|49
+sucré|21
+сладкий|49
+la racine|21
+корень|49
+la patate douce|21
+батат|49
+l'igname|21
+ямс|49
+la betterave|21
+свёкла|49
+le rutabaga|21
+брюква|49
+le topinambour|21
+топинамбур|49
+le raifort|21
+хрен|49
+le panais|21
+пастернак|49
+le gingembre|21
+имбирь|49
+l'aubergine|21
+баклажан|49
+la tomate|21
+помидор|49
+la ciboule|21
+зеленый лук|49
+le poireau|21
+лук-порей|49
+l'échalote|21
+лук шалот|49
+l'ail|21
+чеснок|49
+la gousse (II)|21
+зубчик|49
+le champignon|21
+гриб|49
+la truffe|21
+трюфель|49
+le concombre|21
+огурец|49
+la courgette|21
+цукини|49
+la courge musquée|21
+тыква-горлянка|49
+la courge gland|21
+тыква желудеобразная|49
+la citrouille|21
+тыква обычная|49
+l'orange|21
+апельсин|49
+la clémentine|21
+клемантин|49
+le pamplemousse|21
+грейпфрут|49
+la peau blanche|21
+кожура (I)|49
+le tangelo|21
+танжело|49
+la satsuma|21
+сацума|49
+le quartier|21
+долька|49
+la mandarine|21
+мандарин|49
+le citron vert|21
+лайм|49
+le zeste|21
+цедра|49
+le citron|21
+лимон|49
+le kumquat|21
+кумкват|49
+les fruits à noyau|21
+косточковые|49
+la pêche|21
+персик|49
+la nectarine|21
+нектарина|49
+l'abricot|21
+абрикос|49
+la prune|21
+слива|49
+la cerise|21
+вишня|49
+la poire|21
+груша|49
+la pomme|21
+яблоко|49
+la corbeille de fruits|21
+корзина фруктов|49
+la framboise|21
+малина|49
+la mûre|21
+ежевика|49
+la groseille|21
+красная смородина|49
+la canneberge|21
+клюква|49
+le cassis|21
+чёрная смородина|49
+la myrtille|21
+черника|49
+la groseille blanche|21
+белая смородина|49
+la loganberry|21
+логановая ягода|49
+la groseille à maquereau|21
+крыжовник|49
+le melon|21
+дыня|49
+les raisins|21
+виноград|49
+la pastèque|21
+арбуз|49
+l'écorce|21
+корка|49
+le pépin|21
+семечко|49
+la pulpe (II)|21
+мякоть (I)|49
+sucré|21
+сладкий|49
+aigre|21
+кислый|49
+croquant|21
+хрустящий|49
+sans pépins|21
+бес косточек|49
+la fibre|21
+клетчатка|49
+frais|21
+свежий|49
+pourri|21
+гнилой|49
+juteux|21
+сочный|49
+la rhubarbe|21
+ревень|49
+le jus|21
+сок|49
+la pulpe (I)|21
+мякоть (II)|49
+le trognon|21
+сердцевина|49
+le fruit|21
+фрукты|49
+la mangue|21
+манго|49
+l'avocat|21
+авокадо|49
+l'ananas|21
+ананас|49
+la papaye|21
+папайя|49
+le litchi|21
+личи|49
+le kiwi|21
+киви|49
+le physalis|21
+физалис|49
+le coing|21
+айва|49
+le fruit de la passion|21
+маракуйя|49
+la banane|21
+банан|49
+la peau|21
+кожура (II)|49
+la goyave|21
+гуайява|49
+la grenade|21
+гранат|49
+le kaki|21
+хурма|49
+le feijoa|21
+фейхоа|49
+la figue de Barbarie|21
+фига кактусовая|49
+la carambole|21
+карамбола|49
+le mangoustan|21
+мангостан|49
+le pignon|21
+кедровый орех|49
+la pistache|21
+фисташка|49
+la noix de cajou|21
+кешью|49
+la cacahouète|21
+арахис|49
+la noisette|21
+фундук|49
+la noix du Brèsil|21
+бразильский орех|49
+la noix pacane|21
+пекан|49
+l'amande|21
+миндаль|49
+la noix|21
+грецкий орех|49
+le marron|21
+каштан|49
+le macadamia|21
+макадама|49
+la figue|21
+инжир|49
+la datte|21
+финик|49
+le pruneau|21
+чёрнослив|49
+le raisin de Smyrne|21
+кишмиш|49
+le raisin sec|21
+изюм|49
+le raisin Corinthe|21
+коринка|49
+la noix de coco|21
+кокос|49
+la coquille|21
+скорлупа|49
+vert|21
+зелёный|49
+dur|21
+твёрдый|49
+salé|21
+солёный|49
+grillé|21
+жареный|49
+les fruits tropicaux|21
+тропический фрукт|49
+décortiqué|21
+лущеный|49
+mûr|21
+спелый|49
+mou|21
+мягкий|49
+séché|21
+сушёный|49
+cru|21
+сырой|49
+de saison|21
+сезонный|49
+le fruit confit|21
+засахаренный фрукт|49
+complet|21
+цельный|49
+les céréales|21
+злаки|49
+le blé|21
+пшеница|49
+l'avoine|21
+овес|49
+l'orge|21
+ячмень|49
+le millet|21
+просо|49
+le maïs|21
+кукуруза|49
+le quinoa|21
+квиноа|49
+sec|21
+сухое|49
+frais|21
+свежее|49
+à grains ronds|21
+круглозернистый|49
+la balle|21
+шелуха|49
+parfumé|21
+ароматизированное|49
+complet|21
+цельное зерно|49
+le grain|21
+зерно|49
+laisser tremper|21
+вымачивать|49
+à grains longs|21
+длиннозёрнистый|49
+la graine|21
+семя|49
+la céréale|21
+каша|49
+facile à cuisiner|21
+легко готовить|49
+le riz|21
+рис|49
+le riz blanc|21
+белый рис|49
+le riz complet|21
+коричневый рис|49
+le riz sauvage|21
+дикий рис|49
+le riz rond|21
+круглый рис|49
+les céréales traitées|21
+крупы|49
+le couscous|21
+кускус|49
+le blé écrasé|21
+перловая крупа|49
+la semoule|21
+манная крупа|49
+le son|21
+отруби|49
+les gros haricots blancs|21
+крупная белая фасоль|49
+les haricots blancs|21
+белая фасоль|49
+les haricots rouges|21
+красная фасоль|49
+les adzukis|21
+фасоль адзуки|49
+les graines de soja|21
+соя-бобы|49
+les haricots à oeil noir|21
+фасоль «чёрный глаз»|49
+les haricots pinto|21
+пёстрая фасоль|49
+les haricots mungo|21
+бобы мунг|49
+les flageolets|21
+флажоле|49
+les lentilles|21
+чечевица коричневая|49
+les lentilles rouges|21
+чечевица красная|49
+les petits pois|21
+зелёный горох|49
+les pois chiches|21
+нут|49
+les pois cassés|21
+лущеный горох|49
+les graines|21
+семена|49
+la graine de potiron|21
+тыквенное семя|49
+la graine de moutarde|21
+горчичное семя|49
+la graine de carvi|21
+тмин|49
+la graine de sésame|21
+кунжут|49
+la graine de tournesol|21
+семя подсолнечника|49
+les épices|21
+пряности|49
+la vanille|21
+ваниль|49
+la noix de muscade|21
+мускатный орех (I)|49
+le macis|21
+мускатный цвет|49
+le curcuma|21
+куркума|49
+le cumin|21
+тмин римский|49
+le bouquet garni|21
+смесь пряностей|49
+le poivre de la Jamaïque|21
+душистый перец|49
+le grain de poivre|21
+чёрный перец горошком|49
+le fenugrec|21
+шамбала|49
+le piment|21
+перец чили|49
+le safran|21
+шафран|49
+la cardamome|21
+кардамон|49
+la poudre de curry|21
+карри порошок|49
+le paprika|21
+красный перец|49
+l'ail|21
+чеснок|49
+en flocons|21
+хлопья|49
+en poudre|21
+молотый|49
+écrasé|21
+толчёный|49
+en morceaux|21
+цельный|49
+les herbes|21
+травы|49
+les bâtons|21
+палочки|49
+la cannelle|21
+корица|49
+la citronnelle|21
+сорго лимонное|49
+le clou de girofle|21
+гвоздика|49
+l'anis étoilé|21
+звездчатый анис|49
+le gingembre|21
+имбирь|49
+le fenouil|21
+фенхель|49
+les graines de fenouil|21
+семена фенхеля|49
+la feuille de laurier|21
+лавровый лист|49
+le persil|21
+петрушка|49
+la ciboulette|21
+лук резанец|49
+la menthe|21
+мята|49
+le thym|21
+тимьян|49
+la sauge|21
+шалфей|49
+l'estragon|21
+эстрагон|49
+la marjolaine|21
+майоран|49
+le basilic|21
+базилик|49
+l'origan|21
+душица|49
+la coriandre|21
+кориандр|49
+l'aneth|21
+укроп|49
+le romarin|21
+розмарин|49
+les huiles|21
+масла|49
+l'huile d'amande|21
+миндальное масло|49
+l'huile de noix|21
+масло грецкого ореха|49
+l'huile de pépins de raisin|21
+масло из виноградных косточек|49
+le bouchon|21
+пробка|49
+l'huile de tournesol|21
+подсолнечное масло|49
+l'huile de sésame|21
+кунжутное масло|49
+l'huile de noisette|21
+масло фундука|49
+l'huile d'olive|21
+оливковое масло|49
+les herbes|21
+травы|49
+l'huile parfumée|21
+ароматизированное масло|49
+les produits à tartiner|21
+сладкие пасты|49
+la pâte à tartiner au citron|21
+лимонный крем|49
+la confiture de framboises|21
+малиновый джем|49
+le pot|21
+банка|49
+la confiture d'oranges|21
+апельсиновый конфитюр|49
+le miel liquide|21
+жидкий мёд|49
+le gâteau de miel|21
+медовые соты|49
+le miel solide|21
+твёрдый мёд|49
+le sirop d'érable|21
+кленовый сироп|49
+les condiments|21
+приправы и соусы|49
+le vinaigre|21
+уксус|49
+la mayonnaise|21
+майонез|49
+le chutney|21
+чатни|49
+le vinaigre de cidre|21
+яблочный уксус|49
+le vinaigre de malt|21
+солодовый уксус|49
+le vinaigre balsamique|21
+бальзамический уксус|49
+le vinaigre de vin|21
+винный уксус|49
+le ketchup|21
+кетчуп|49
+la bouteille|21
+бутылка|49
+la sauce|21
+соус|49
+la moutarde anglaise|21
+горчица английская|49
+la moutarde française|21
+горчица французская|49
+la moutarde en grains|21
+зернистая горчица|49
+le beurre de cacahouètes|21
+арахисовая паста|49
+la pâte à tartiner au chocolat|21
+шоколадная паста|49
+les fruits en bocaux|21
+консервированные фрукты|49
+le bocal scellé|21
+герметичная банка|49
+l'huile végétale|21
+растительное масло|49
+l'huile de maïs|21
+кукурузное масло|49
+l'huile de colza|21
+рапсовое масло|49
+l'huile d'arachide|21
+арахисовое масло|49
+l'huile pressée à froid|21
+масло холодного отжима|49
+le fromage|21
+сыры|49
+la croûte|21
+корка|49
+le bleu|21
+сыр блю|49
+le fromage à pâte molle|21
+мягкий сыр|49
+fromage à la crème|21
+полумягкий сыр|49
+le fromage frais|21
+невыдержанный сыр|49
+le fromage à pâte semi-molle|21
+сливочный сыр|49
+le cottage|21
+творог|49
+le fromage à pâte pressée cuite|21
+твёрдый сыр|49
+le fromage râpé|21
+тёртый сыр|49
+le fromage à pâte pressée non cuite|21
+полутвёрдый сыр|49
+le lait|21
+молоко|49
+le lait entier|21
+цельное молоко|49
+le lait de vache|21
+коровье молоко|49
+le lait demi-écrémé|21
+полужирное молоко|49
+le lait écrémé|21
+обезжиренное молоко|49
+le carton de lait|21
+пакет молока|49
+le lait de chèvre|21
+козье молоко|49
+le lait condensé|21
+сгущённое молоко|49
+le beurre|21
+сливочное масло|49
+la margarine|21
+маргарин|49
+la crème|21
+сливки|49
+la crème allégée|21
+нежирные сливки|49
+la crème épaisse|21
+жирные сливки|49
+la crème fouettée|21
+взбитые сливки|49
+la crème fraîche|21
+сметана|49
+le yaourt|21
+йогурт|49
+la glace|21
+мороженое|49
+les oeufs|21
+яйца|49
+l'oeuf á la coque|21
+вареное яйцо|49
+le coquetier|21
+подставка для яиц|49
+le jaune d'oeuf|21
+желток|49
+le blanc d'oeuf|21
+белок|49
+la coquille|21
+скорлупа|49
+l'oeuf d'oie|21
+гусиное яйцо|49
+l'oeuf de poule|21
+куриное яйцо|49
+l'oeuf de cane|21
+утиное яйцо|49
+l'oeuf de caille|21
+перепелиное яйцо|49
+pasteurisé|21
+пастеризованное|49
+sans matières grasses|21
+обезжиренное|49
+salé|21
+солёный|49
+le lait de brebis|21
+овечье молоко|49
+le lactose|21
+лактоза|49
+le milk-shake|21
+молочный коктейль|49
+non pasteurisé|21
+непастеризованное|49
+le lait en poudre|21
+сухое молоко|49
+non salé|21
+несолёный|49
+le babeurre|21
+пахта|49
+homogénéisé|21
+восстановленное|49
+le yaourt surgelé|21
+замороженный йогурт|49
+la boulangerie|21
+булочная|49
+le pain tranché|21
+нарезанный хлеб|49
+les graines de pavot|21
+мак|49
+le pain de seigle|21
+ржаной хлеб|49
+la baguette|21
+багет|49
+faire du pain|21
+выпекание хлеба|49
+la farine blanche|21
+белая мука|49
+la farine complète|21
+ржаная мука|49
+la farine brute|21
+мука грубого помола|49
+la levure|21
+дрожжи|49
+tamiser|21
+просеивать|49
+mélanger|21
+смешивать|49
+pétrir|21
+месить|49
+la pâte|21
+тесто|49
+faire cuire au four|21
+выпекать|49
+le pain blanc|21
+белый хлеб|49
+la croûte|21
+корка|49
+le pain bis|21
+чёрный хлеб|49
+le pain|21
+буханка|49
+le pain de son|21
+серый хлеб|49
+le pain complet|21
+зерновой хлеб|49
+le pain de maïs|21
+кукурузный хлеб|49
+le pain au bicarbonate de soude|21
+хлеб на соде|49
+le pain au levain|21
+хлеб на закваске|49
+le pain plat|21
+лепёшка|49
+le petit pain américain|21
+бублик|49
+le petit pain rond|21
+булочка|49
+le petit pain|21
+булочка плетёная|49
+le pain aux raisins secs|21
+хлеб с изюмом|49
+le pain aux graines|21
+хлеб с семенами|49
+le naan|21
+наан|49
+la pita|21
+пита|49
+la farine avec la levure|21
+мука с дрожжами|49
+se lever|21
+подниматься|49
+lever|21
+бродить|49
+la chapelure|21
+хлебные крошки|49
+la machine à couper|21
+хлеборезка|49
+la farine traitée|21
+обогащенная мука|49
+la farine sans levure|21
+мука без дрожжей|49
+glacer|21
+глазировать|49
+la flûte|21
+бороздка|49
+le boulanger|21
+пекарь|49
+l'éclair|21
+эклер|49
+la crème|21
+крем|49
+la garniture|21
+начинка|49
+la pâte à choux|21
+профитроль|49
+la pâte feuilletée|21
+песочное печенье|49
+la pâte phyllo|21
+слоёное пирожное|49
+le cake|21
+фруктовый кекс|49
+la tarte aux fruits|21
+фруктовая корзиночка|49
+la meringue|21
+безе|49
+enrobé de chocolat|21
+облитый шоколадом|49
+le muffin|21
+маффин|49
+la madeleine|21
+бисквит|49
+les gâteaux|21
+пирожные|49
+la crème pâtissière|21
+кондитерский крем|49
+le petit gâteau|21
+булочка с изюмом|49
+la pâte|21
+выпечка|49
+le riz au lait|21
+рисовый пудинг|49
+le gâteau au chocolat|21
+шоколадный торт|49
+la crème anglaise|21
+ванильный пудинг|49
+la tranche|21
+кусок|49
+la fête|21
+торжество|49
+les pépites de chocolat|21
+шоколадная крошка|49
+les biscuits|21
+печенье|49
+le florentine|21
+флорентийское печенье|49
+le diplomate|21
+бисквит с фруктовым желе и взбитыми сливками|49
+les boudoirs|21
+бисквитные палочки|49
+la mousse|21
+мусс|49
+le sorbet|21
+щербет|49
+la tarte à la crème|21
+пирожное с кремом|49
+la crème caramel|21
+крем-карамель|49
+les gâteaux de fête|21
+праздничные торты|49
+le gâteau de mariage|21
+свадебный торт|49
+la pâte d'amandes|21
+марципан|49
+l'étage inférieur|21
+нижний слой|49
+l'étage supérieur|21
+верхний слой|49
+le ruban|21
+лента|49
+le glaçage|21
+глазурь сахарная|49
+la décoration|21
+украшение|49
+souffler|21
+задуть|49
+à l'huile|21
+растительное масло|49
+le saucisson piquant|21
+колбаса пикантная|49
+le vinaigre|21
+уксус|49
+le salami|21
+салями|49
+le pepperoni|21
+пепперони|49
+le pâté|21
+паштет|49
+le comptoir|21
+прилавок|49
+la viande non cuite|21
+парное мясо|49
+la quiche|21
+киш|49
+les pâtés en croûte|21
+пирожки|49
+la viande cuite|21
+запечённое мясо|49
+le jambon|21
+ветчина|49
+le comptoir sandwichs|21
+прилавок сэндвичей|49
+l'olive verte|21
+зелёные оливки|49
+le petit pain|21
+булочка|49
+l'olive noire|21
+чёрные маслины|49
+la mozzarella|21
+моццарелла|49
+le brie|21
+бри|49
+le fromage de chèvre|21
+сыр козий|49
+le cheddar|21
+чеддер|49
+le parmesan|21
+пармезан|49
+le camembert|21
+камамбер|49
+l'édam|21
+эдам|49
+la croûte|21
+корка|49
+le manchego|21
+манчего|49
+le poisson fumé|21
+копчёная рыба|49
+les câpres|21
+каперсы|49
+le prosciutto|21
+сырокопчёная ветчина|49
+le chorizo|21
+чоризо|49
+l'olive fourrée|21
+фаршированные оливки|49
+l'eau minérale|21
+минеральная вода|49
+l'eau en bouteille|21
+бутилированная вода|49
+gazeux|21
+газированная|49
+non gazeux|21
+негазированная|49
+le soda|21
+содовая вода|49
+le tonic|21
+тоник|49
+l'eau du robinet|21
+водопроводная вода|49
+les boissons chaudes|21
+горячие напитки|49
+le sachet de thé|21
+пакетик чая|49
+les feuilles de thé|21
+листовой чай|49
+le thé|21
+чай|49
+le café|21
+кофе|49
+les grains|21
+зерна|49
+le café moulu|21
+молотый кофе|49
+le chocolat chaud|21
+горячий шоколад|49
+la boisson maltée|21
+солодовый напиток|49
+les boissons non alcoolisées|21
+безалкогольные напитки|49
+le jus de tomate|21
+томатный сок|49
+le jus de raisin|21
+виноградный сок|49
+la paille|21
+соломинка|49
+la limonade|21
+лимонад|49
+l'orangeade|21
+оранжад|49
+le coca|21
+къола|49
+les boissons alcoolisées|21
+алкогольные напитки|49
+le gin|21
+джин|49
+la bière|21
+пиво|49
+la boîte|21
+банка|49
+le cidre|21
+сидр|49
+la bière anglaise|21
+горькое пиво|49
+la bière brune|21
+тёмное пива|49
+la vodka|21
+водка|49
+le whisky|21
+виски|49
+le rhum|21
+ром|49
+le brandy|21
+бренди|49
+le porto|21
+портвейн|49
+le sherry|21
+херес|49
+sec|21
+сухой|49
+le Campari|21
+кампари|49
+le vin rosé|21
+розовое вино|49
+le vin blanc|21
+белое вино|49
+le vin rouge|21
+красное вино|49
+le vin|21
+вино|49
+la liqueur|21
+ликёр|49
+la téquila|21
+текила|49
+le champagne|21
+шампанское|49
+la terrasse de café (II)|21
+терраса кафе|49
+le menu|21
+меню|49
+l'auvent|21
+тент|49
+la terrasse de café (I)|21
+уличное кафе|49
+le parasol|21
+зонтик|49
+le snack|21
+закусочная|49
+le serveur|21
+официант|49
+le percolateur|21
+кофеварка|49
+le café|21
+кофе|49
+le café filtre|21
+фильтрованный кофе|49
+le crème|21
+кофе с молоком|49
+le noir|21
+чёрный кофе|49
+le cappuccino|21
+капучино|49
+le chocolat en poudre|21
+порошок какао|49
+la mousse|21
+пена|49
+le café glacé|21
+кофе гляссе|49
+le thé|21
+чай|49
+le thé au lait|21
+чай с молоком|49
+le thé nature|21
+чёрный чай|49
+la tisane|21
+травяной чай|49
+la camomille|21
+ромашковый чай|49
+le thé vert|21
+зелёный чай|49
+le thé au citron|21
+чай с лимоном|49
+l'infusion de menthe|21
+мятный чай|49
+le thé glacé|21
+чай со льдом|49
+le jus d'orange|21
+апельсиновый сок|49
+le jus de pomme|21
+яблочный сок|49
+le jus d'ananas|21
+ананасовый сок|49
+le jus de tomate|21
+томатный сок|49
+le milk-shake au chocolat|21
+шоколадный молочный коктейль|49
+le milk-shake à la fraise|21
+клубничный молочный коктейль|49
+le milk-shake au café|21
+кофейный молочный коктейль|49
+la nourriture|21
+еда|49
+le sandwich grillé|21
+горячий бутерброд|49
+le pain bis|21
+ржаной хлеб|49
+la salade|21
+салат|49
+la glace|21
+мороженое|49
+la boule|21
+шарик|49
+la pâtisserie|21
+выпечка|49
+les verres|21
+стаканы|49
+la mesure|21
+мерная посуда|49
+la caisse|21
+касса|49
+le barman|21
+бармен|49
+la pompe à bière|21
+пивной кран|49
+le percolateur|21
+кофеварка|49
+le seau à glace|21
+ведёрко для льда|49
+le tabouret de bar|21
+барный стул|49
+le cendrier|21
+пепельница|49
+le dessous de verre|21
+подставка|49
+le comptoir|21
+барная стойка|49
+le tire-bouchon|21
+штопор|49
+l'ouvre-bouteille|21
+открывалка для бутылок|49
+le levier|21
+рычаг|49
+le shaker à cocktails|21
+шейкер|49
+les pinces|21
+щипцы|49
+l'agitateur|21
+мешалка|49
+le verre gradué|21
+мерка|49
+le gin tonic|21
+джин с тоником|49
+le scotch à l'eau|21
+виски с содовой|49
+le pichet|21
+кувшин|49
+le rhum coca|21
+ром с колой|49
+le glaçon|21
+кубик льда|49
+la vodka à l'orange|21
+водка с апельсиновым соком|49
+le martini|21
+мартини|49
+le cocktail|21
+коктейль|49
+le vin|21
+вино|49
+la bière|21
+пиво|49
+un coup|21
+стопка|49
+simple|21
+одинарная|49
+double|21
+двойная|49
+sans glaçons|21
+без льда|49
+avec des glaçons|21
+со льдом|49
+citron et glaçons|21
+со льдом и лимоном|49
+les amuse-gueules|21
+лёгкая закуска|49
+les chips|21
+чипсы|49
+les noix|21
+орешки|49
+les amandes|21
+миндаль|49
+les noix de cajou|21
+кешью|49
+les cacahouètes|21
+арахис|49
+les olives|21
+оливки|49
+la cuisine|21
+кухня|49
+le chef de cuisine|21
+шеф-повар|49
+le commis|21
+младший повар|49
+la serviette|21
+салфетка|49
+la partie non-fumeurs|21
+секция для некурящих|49
+le couvert|21
+сервировка стола|49
+le garçon|21
+официант|49
+le plateau|21
+поднос|49
+le verre|21
+бокал|49
+le menu du déjeuner|21
+обеденное меню|49
+les spécialités|21
+фирменные блюда|49
+le prix|21
+цена|49
+le pourboire|21
+чаевые|49
+le buffet|21
+шведский стол|49
+le sel|21
+соль|49
+le menu du soir|21
+вечернее меню|49
+le reçu|21
+квитанция|49
+le bar|21
+бар|49
+le client|21
+клиент|49
+le poivre|21
+перец|49
+la carte des vins|21
+винная карта|49
+le plateau à desserts|21
+блюдо десертов|49
+l'addition|21
+счёт|49
+service compris|21
+обслуживание включено|49
+service non compris|21
+обслуживание не включено|49
+la partie fumeurs|21
+зоны для курящих|49
+la carte|21
+меню|49
+le menu d'enfant|21
+детское меню|49
+commander|21
+заказывать|49
+payer|21
+платить|49
+les plats|21
+блюда|49
+l'apéritif|21
+аперитив|49
+l'entrée|21
+закуска|49
+la soupe|21
+суп|49
+le plat principal|21
+основное блюдо|49
+l'accompagnement|21
+гарнир|49
+le dessert|21
+десерт|49
+la fourchette|21
+вилка|49
+le café|21
+кофе|49
+la cuiller à café|21
+кофейная ложка|49
+le hamburger avec des frites|21
+гамбургер с картофелем фри|49
+le plateau|21
+поднос|49
+la serviette en papier|21
+бумажная салфетка|49
+les frites|21
+картофель фри|49
+la boisson non-alcoolisée|21
+безалкогольный напиток|49
+la paille|21
+соломинка|49
+le hamburger (II)|21
+гамбургер (I)|49
+la livraison à domicile|21
+доставка на дом|49
+la pizza|21
+пицца|49
+le tarif|21
+прейскурант|49
+le marchand de hot-dogs|21
+уличный лоток|49
+la pizzeria|21
+пиццерия|49
+la restauration rapide|21
+закусочная|49
+la carte|21
+меню|49
+manger sur place|21
+есть на месте|49
+à emporter|21
+брать на вынос|49
+réchauffer|21
+подогревать|49
+le ketchup|21
+томатный кетчуп|49
+le hamburger (I)|21
+гамбургер (II)|49
+le hamburger au poulet|21
+куриный гамбургер|49
+le hamburger végétarien|21
+вегетарианский гамбургер|49
+le hot-dog|21
+хот-дог|49
+la moutarde|21
+горчица|49
+la saucisse|21
+сосиска|49
+le sandwich|21
+сэндвич|49
+le sandwich mixte|21
+клубный сэндвич|49
+le taco|21
+лепёшка с начинкой|49
+la sauce|21
+соус|49
+le kébab|21
+шашлык|49
+les crêpes|21
+блинчики|49
+salé|21
+пикантный|49
+sucré|21
+сладкий|49
+le poisson avec des frites|21
+рыба с жареным картофелем|49
+les côtes|21
+рёбра|49
+le poulet frit|21
+жареный цыплёнок|49
+le buffet du petit déjeuner|21
+завтрак - шведский стол|49
+le lait|21
+молоко|49
+les céréales|21
+сухой завтрак|49
+la confiture|21
+джем|49
+les fruits secs|21
+сухофрукты|49
+le jambon|21
+ветчина|49
+le fromage|21
+сыр|49
+le biscuit scandinave|21
+хрустящие хлебцы|49
+la table du petit déjeuner|21
+стол накрытый для завтрака|49
+le jus de fruit|21
+фруктовый сок|49
+le café|21
+кофе|49
+le croissant|21
+круассан|49
+les boissons|21
+напитки|49
+le chocolat chaud|21
+горячий шоколад|49
+le thé|21
+чай|49
+la brioche|21
+бриошь|49
+le pain|21
+хлеб|49
+le petit déjeuner anglais|21
+английский завтрак|49
+l'oeuf sur le plat|21
+яичница|49
+le toast|21
+тост|49
+la tomate|21
+помидор|49
+le boudin|21
+кровяная колбаса|49
+la saucisse|21
+сосиска|49
+le bacon|21
+бекон|49
+les kippers|21
+копчёная селёдка|49
+le pain perdu|21
+французские тосты|49
+l'oeuf à la coque|21
+вареное яйцо|49
+le jaune d'oeuf|21
+желток|49
+les oeufs brouillés|21
+омлет|49
+les crêpes|21
+блины|49
+les gaufres|21
+вафли|49
+le porridge|21
+каша|49
+les fruits|21
+свежие фрукты|49
+le potage|21
+суп|49
+le bouillon|21
+бульон|49
+le ragoût|21
+густой суп|49
+le curry|21
+карри|49
+le rôti|21
+жаркое|49
+la tourte|21
+пирог|49
+le soufflé|21
+суфле|49
+les boulettes de viande|21
+фрикадельки|49
+l'omelette|21
+омлет|49
+le sauté|21
+соте|49
+les nouilles|21
+лапша|49
+les pâtes|21
+макаронные изделия|49
+le riz|21
+рис|49
+la salade composée|21
+смешанный салат|49
+la salade verte|21
+зелёный салат|49
+la vinaigrette|21
+заправка для салата|49
+farci|21
+фаршированный|49
+en sauce|21
+под соусом|49
+grillé|21
+на гриле|49
+mariné|21
+в маринаде|49
+poché|21
+яичница-глазунья|49
+en purée|21
+пюре|49
+cuit|21
+запечённый|49
+sauté|21
+обжаренный|49
+frit (I)|21
+жареный|49
+macéré|21
+маринованный|49
+fumé|21
+копчёный|49
+frit (II)|21
+жареный во фритюре|49
+au sirop|21
+в сиропе|49
+assaisonné|21
+заправленный|49
+cuit à la vapeur|21
+сварённый на пару|49
+séché|21
+вяленый|49
+l'institutrice|21
+учитель|49
+le tableau|21
+классная доска|49
+la salle de classe|21
+классная комната|49
+l'écolier|21
+школьник|49
+l'élève|21
+ученик|49
+le pupitre|21
+парта|49
+la craie|21
+мел|49
+l'écolière|21
+школьница|49
+l'uniforme|21
+школьная форма|49
+le cartable|21
+портфель|49
+la géographie|21
+география|49
+l'art|21
+искусство|49
+la physique|21
+физика|49
+la littérature|21
+литература|49
+la musique|21
+музыка|49
+la chimie|21
+химия|49
+les langues|21
+языки|49
+les mathématiques|21
+математика|49
+la biologie|21
+биология|49
+les sciences|21
+наука|49
+l'éducation physique|21
+физкультура|49
+lire|21
+читать|49
+écrire|21
+писать|49
+épeler|21
+произносить по буквам|49
+dessiner|21
+рисовать|49
+le rétroprojecteur|21
+проекционный аппарат|49
+le stylo|21
+ручка|49
+la plume|21
+перо|49
+le crayon|21
+карандаш|49
+le crayon de couleur|21
+цветной карандаш|49
+le taille-crayon|21
+точилка для карандашей|49
+le cahier|21
+тетрадь|49
+le livre|21
+учебник|49
+la trousse|21
+пенал|49
+la règle|21
+линейка|49
+la gomme|21
+ластик|49
+questionner|21
+спрашивать|49
+répondre|21
+отвечать|49
+discuter|21
+обсуждать|49
+apprendre|21
+изучать|49
+le directeur|21
+директор школы|49
+la note|21
+оценка|49
+la leçon|21
+урок|49
+l'examen|21
+экзамен|49
+la classe|21
+учебный год|49
+la rédaction|21
+сочинение|49
+l'encyclopédie|21
+энциклопедия|49
+prendre des notes|21
+записывать|49
+les devoirs|21
+домашнее задание|49
+le dictionnaire|21
+словарь|49
+les formes|21
+фигуры|49
+l'arc|21
+дуга|49
+le centre|21
+центр|49
+la circonférence|21
+окружность|49
+le diamètre|21
+диаметр|49
+le cercle|21
+круг|49
+le rayon|21
+радиус|49
+l'ovale|21
+овал|49
+la diagonale|21
+диагональ|49
+le carré|21
+квадрат|49
+le rectangle|21
+прямоугольник|49
+le triangle|21
+треугольник|49
+l'angle|21
+угол|49
+l'hypoténuse|21
+гипотенуза|49
+le parallélogramme|21
+параллелограмм|49
+le rhombe|21
+ромб|49
+le trapèze|21
+трапеция|49
+le pentagone|21
+пятиугольник|49
+l'hexagone|21
+шестиугольник|49
+l'octogone|21
+восьмиугольник|49
+les solides|21
+тела|49
+le cône|21
+конус|49
+le cylindre|21
+цилиндр|49
+le cube|21
+куб|49
+le côté|21
+грань|49
+la pyramide|21
+пирамида|49
+le sommet|21
+вершина|49
+la sphère|21
+шар|49
+les lignes|21
+линии|49
+droit|21
+прямая|49
+parallèle|21
+параллельные|49
+perpendiculaire|21
+перпендикулярные|49
+courbe|21
+кривая|49
+les mesures|21
+измерения|49
+le volume|21
+объём|49
+la fraction|21
+дробь|49
+le numérateur|21
+числитель|49
+le dénominateur|21
+знаменатель|49
+les dimensions|21
+размеры|49
+la hauteur|21
+высота|49
+la profondeur|21
+глубина|49
+l'aire|21
+площадь|49
+la largeur|21
+ширина|49
+la longueur|21
+длина|49
+l'équerre|21
+угольник|49
+le rapporteur|21
+транспортир|49
+la règle|21
+линейка|49
+le compas|21
+циркуль|49
+la calculatrice|21
+калькулятор|49
+la géométrie|21
+геометрия|49
+plus|21
+плюс|49
+fois|21
+раз|49
+égale|21
+равный|49
+additionner|21
+складывать|49
+multiplier|21
+умножать|49
+l'équation|21
+уравнение|49
+l'arithmétique|21
+арифметика|49
+moins|21
+минус|49
+divisé par|21
+делённый на|49
+soustraire|21
+вычитать|49
+diviser|21
+делить|49
+le pourcentage|21
+процент|49
+le laboratoire|21
+лаборатория|49
+la balance|21
+весы|49
+la balance à ressort|21
+безмен|49
+le poids|21
+гирька|49
+le trépied|21
+треножник|49
+le creuset|21
+тигель|49
+le bec Bunsen|21
+спиртовая горелка|49
+la bouteille|21
+флакон|49
+l'entonnoir|21
+воронка|49
+la fiole|21
+колба|49
+l'expérience|21
+эксперимент|49
+le statif|21
+штатив|49
+le bouchon|21
+пробка|49
+la pince (II)|21
+зажим (I)|49
+le support|21
+подставка|49
+l'éprouvette|21
+пробирка|49
+le chronomètre|21
+хронометр|49
+la boîte de Pétri|21
+чашка Петри|49
+le thermomètre|21
+термометр|49
+la seringue|21
+шприц|49
+la pince fine|21
+пинцет|49
+la pipette|21
+пипетка|49
+la pince (I)|21
+щипцы|49
+la spatule|21
+шпатель|49
+le mortier|21
+ступа|49
+le pilon|21
+пестик|49
+le papier filtre|21
+фильтровальная бумага|49
+les lunettes de protection|21
+защитные очки|49
+le bécher|21
+лабораторная посуда|49
+la tige de verre|21
+стеклянная палочка|49
+l'aimant|21
+магнит|49
+la pince crocodile|21
+зажим "крокодильчик"|49
+la pile|21
+батарейка|49
+l'électrode négative|21
+отрицательный электрод|49
+l'électrode positive|21
+положительный электрод|49
+le microscope|21
+микроскоп|49
+le miroir|21
+зеркало|49
+le porte-objet|21
+предметное стекло|49
+la platine|21
+предметный столик|49
+la lentille de l'objectif|21
+линзы объектива|49
+le bouton de mise au point|21
+ручка фокусировки|49
+l'oculaire|21
+окуляр|49
+le secrétariat|21
+деканат|49
+le restaurant universitaire|21
+столовая|49
+le service de santé|21
+оздоровительный комплекс|49
+le terrain de sport|21
+стадион|49
+la résidence universitaire|21
+общежитие|49
+la bibliothèque|21
+библиотека|49
+la revue|21
+журнал|49
+le périodique|21
+периодика|49
+les rayons|21
+книжная полка|49
+le service de prêt|21
+стол библиотекаря|49
+la bibliothécaire|21
+библиотекарь|49
+la carte de lecteur|21
+читательский билет|49
+les renseignements|21
+требование|49
+renouveler|21
+обновлять|49
+la salle de lecture|21
+читальный зал|49
+emprunter|21
+брать (книгу)|49
+le livre|21
+книга|49
+les ouvrages recommandés|21
+список литературы|49
+réserver|21
+заказывать|49
+le titre|21
+заглавие|49
+date la date de retour|21
+дата возврата|49
+le prêt|21
+взять на время|49
+le couloir|21
+проход|49
+l'étudiant|21
+студент|49
+l'assistant|21
+лектор|49
+la salle de cours|21
+аудитория|49
+la cérémonie de la remise des diplômes|21
+церемония вручения дипломов|49
+la licenciée|21
+выпускник|49
+la robe|21
+мантия|49
+l'école des beaux arts|21
+художественная школа|49
+le modèle|21
+модель|49
+le Conservatoire|21
+музыкальная школа|49
+l'école de danse|21
+школа танца|49
+la bourse|21
+стипендия|49
+la recherche|21
+исследования|49
+la dissertation|21
+экзаменационная работа|49
+la médecine|21
+медицина|49
+l'histoire d'art|21
+искусствоведение|49
+le diplôme|21
+диплом|49
+la maîtrise|21
+магистр|49
+l'UFR|21
+факультет|49
+la zoologie|21
+зоология|49
+les sciences politiques|21
+политика|49
+de troisième cycle|21
+аспирант|49
+le doctorat|21
+докторская степень|49
+les études d'ingénieur|21
+инженерное дело|49
+la physique|21
+физика|49
+la littérature|21
+литература|49
+la licence|21
+степень|49
+la thèse|21
+дисертация|49
+le droit|21
+юриспруденция|49
+les sciences économiques|21
+экономика|49
+le bureau (I)|21
+офис|49
+le moniteur|21
+монитор|49
+le porte-crayon|21
+настольный органайзер|49
+le classeur|21
+скоросшиватель|49
+la corbeille arrivée|21
+лоток для входящих документов|49
+la corbeille départ|21
+лоток для исходящих документов|49
+le clavier|21
+клавиатура|49
+le téléphone|21
+телефон|49
+le bureau (II)|21
+письменный стол|49
+la corbeille à papier|21
+корзина для мусора|49
+l'ordinateur|21
+компьютер|49
+la chaise tournante|21
+вращающийся стул|49
+le tiroir|21
+ящик|49
+le meuble-classeur|21
+картотечный шкаф|49
+l'étiquette (I)|21
+бирка|49
+le carnet|21
+записная книжка|49
+l'équipement de bureau|21
+офисное оборудование|49
+l'imprimante|21
+принтер|49
+le magasin à papier|21
+лоток для бумаги|49
+le fax (I)|21
+факс (аппарат)|49
+le fax (II)|21
+факс (сообщение)|49
+le guide|21
+направляющие|49
+imprimer|21
+распечатывать|49
+photocopier|21
+копировать|49
+agrandir|21
+увеличивать|49
+réduire|21
+уменьшать|49
+les fournitures de bureau|21
+канцелярские принадлежность|49
+l'en-tête|21
+бланк письма|49
+la fiche compliments|21
+поздравительная открытка|49
+l'enveloppe|21
+конверт|49
+le dossier-classeur|21
+картотечный ящик|49
+le clipboard|21
+планшет с зажимом|49
+le bloc-notes|21
+блокнот|49
+le dossier suspendu|21
+подвесная папка|49
+l'étiquette (II)|21
+классификационная карточка|49
+le porte-dossiers|21
+файловая папка|49
+la fiche intercalaire|21
+разделитель|49
+le classeur à levier|21
+папка с рычажным зажимом|49
+l'agenda (II)|21
+ежедневник (I)|49
+l'agrafeuse|21
+степлер|49
+les agrafes|21
+скобки|49
+le dévidoir de scotch|21
+держатель для липкой ленты|49
+le perforateur|21
+дырокол|49
+le cachet|21
+печать|49
+le tampon encreur|21
+штемпельная подушка|49
+l'élastique|21
+резинка|49
+la pince à dessin|21
+зажим для бумаг|49
+le trombone|21
+скрепка|49
+le panneau d'affichage|21
+доска объявлений|49
+la punaise|21
+кнопка|49
+la réunion|21
+совещание|49
+le tableau à feuilles mobiles|21
+перекидной блокнот|49
+le compte rendu|21
+протокол|49
+le chevalet|21
+пюпитр|49
+le rapport|21
+доклад|49
+le directeur|21
+директор|49
+la proposition|21
+проект|49
+le cadre|21
+исполнитель|49
+la présentation|21
+презентация|49
+le projecteur|21
+проектор|49
+le conférencier|21
+докладчик|49
+la salle de conférence|21
+зал заседаний|49
+assister à|21
+присутствовать|49
+l'ordre du jour|21
+повестка дня|49
+présider|21
+председательствовать|49
+les affaires|21
+бизнес|49
+le déjeuner d'affaires|21
+деловой завтрак|49
+le portable|21
+ноутбук|49
+les notes|21
+заметки|49
+le voyage d'affaires|21
+командировка|49
+l'homme d'affaires|21
+бизнесмен|49
+la femme d'affaires|21
+бизнес-леди|49
+l'agenda (I)|21
+ежедневник (II)|49
+le rendez-vous|21
+деловая встреча|49
+l'ordinateur de poche|21
+электронная записная книжка|49
+le contrat|21
+сделка|49
+le client|21
+клиент|49
+le directeur général|21
+генеральный директор|49
+la société|21
+фирма|49
+le personnel|21
+персонал|49
+la comptabilité|21
+бухгалтерия|49
+le service du contentieux|21
+юридический отдел|49
+le service de ressources humaines|21
+отдел кадров|49
+le service marketing|21
+служба маркетинга|49
+le livre de paie|21
+платёжная ведомость|49
+le siège social|21
+центральный офис|49
+la succursale|21
+филиал|49
+le salaire|21
+зарплата|49
+le service des ventes|21
+отдел продаж|49
+le service après-vente|21
+отдел обслуживания клиентов|49
+l'imprimante|21
+принтер|49
+le moniteur|21
+монитор|49
+l'écran|21
+экран|49
+l'unité centrale|21
+системный блок|49
+le scanneur|21
+сканер|49
+le haut-parleur|21
+динамик|49
+la touche|21
+клавиша|49
+le clavier|21
+клавиатура|49
+la souris|21
+мышка|49
+le matériel|21
+устройства|49
+le disque|21
+дискета|49
+le portable|21
+ноутбук|49
+le disque dur|21
+жёсткий диск|49
+le modem|21
+модем|49
+le système|21
+система|49
+le logiciel|21
+программное обеспечение|49
+le serveur|21
+сервер|49
+les bytes|21
+байты|49
+l'application|21
+приложение (I)|49
+le port|21
+порт|49
+la mémoire|21
+память|49
+le programme|21
+программа|49
+le processeur|21
+процессор|49
+la RAM|21
+оперативная память|49
+le réseau|21
+сеть|49
+le câble électrique|21
+силовой кабель|49
+le bureau|21
+рабочий стол|49
+la barre de menus|21
+меню|49
+la police|21
+шрифт|49
+l'icône|21
+иконка|49
+la barre de défilement|21
+прокрутка|49
+la fenêtre|21
+окно|49
+le papier peint|21
+обои рабочего стола|49
+la barre d'outils|21
+панель инструментов|49
+le fichier|21
+файл|49
+le dossier|21
+папка|49
+la poubelle|21
+корзина|49
+l'internet|21
+интернет|49
+naviguer|21
+просматривать|49
+le navigateur|21
+браузер|49
+le site web|21
+веб-сайт|49
+l'adresse de courrier électronique|21
+электронный адрес|49
+la boîte de réception|21
+входящая почта|49
+connecter|21
+соединяться|49
+installer|21
+устанавливать|49
+le fournisseur d'accès|21
+интернет-провайдер|49
+le compte de courrier électronique|21
+счёт электронной почты|49
+entrer|21
+входить в систему|49
+en ligne|21
+находиться в системе|49
+télécharger|21
+загружать|49
+envoyer|21
+посылать|49
+sauvegarder|21
+сохранять|49
+le document attaché|21
+приложение (II)|49
+recevoir|21
+получать|49
+chercher|21
+искать|49
+le studio de télévision|21
+телестудия|49
+la caméra|21
+камера|49
+la grue de caméra|21
+операторский кран|49
+le cameraman|21
+оператор|49
+le plateau|21
+декорация (I)|49
+l'éclairage|21
+освещение|49
+le présentateur|21
+ведущий|49
+la chaîne|21
+канал|49
+les nouvelles|21
+новости|49
+la presse|21
+пресса|49
+le feuilleton|21
+мыльная опера|49
+émettre|21
+транслировать|49
+en direct|21
+прямая трансляция|49
+la programmation|21
+программная сетка|49
+le documentaire|21
+документальный фильм|49
+la série télévisée|21
+телесериал|49
+le jeu télévisé|21
+телеигра|49
+en différé|21
+в записи|49
+le dessin animé|21
+мультфильм|49
+l'interviewer|21
+интервьюер|49
+la reporter|21
+репортёр|49
+le télésouffleur|21
+телесуфлёр|49
+la présentatrice|21
+диктор|49
+les acteurs|21
+актёры|49
+la perche|21
+микрофонный журавль|49
+la claquette|21
+хлопушка|49
+le décor de cinéma|21
+декорация (II)|49
+la radio|21
+радио|49
+le pupitre de mixage|21
+микшер|49
+le microphone|21
+микрофон|49
+l'ingénieur du son|21
+звукооператор|49
+le studio d'enregistrement|21
+студия звукозаписи|49
+les grandes ondes|21
+длинные волны|49
+le D.J.|21
+ди-джей|49
+la longueur d'ondes|21
+длина волны|49
+la station de radio|21
+радиостанция|49
+les ondes courtes|21
+короткие волны|49
+les ondes moyennes|21
+средние волны|49
+la fréquence|21
+частота|49
+le volume|21
+громкость|49
+régler|21
+настраивать|49
+le juge|21
+судья|49
+le témoin|21
+свидетель|49
+l'huissier de tribunal|21
+охрана суда|49
+l'avocat|21
+адвокат|49
+le jury|21
+присяжные|49
+le banc des jurés|21
+скамья присяжных|49
+la salle de tribunal|21
+зал суда|49
+l'accusation (I)|21
+обвинение (I)|49
+le greffier|21
+секретарь суда|49
+la défense|21
+защита|49
+l'accuse (II)|21
+подсудимый|49
+le sténographe|21
+стенографистка|49
+le suspect|21
+подозреваемый|49
+le portrait-robot|21
+фоторобот|49
+le gardien de prison|21
+тюремные охранники|49
+la prison|21
+тюрьма|49
+la cellule|21
+камера|49
+le criminel|21
+преступник|49
+le casier judiciaire|21
+криминальное досье|49
+le cabinet|21
+адвокатская контора|49
+le conseil juridique|21
+юридическая консультация|49
+le client|21
+клиент|49
+l'assignation|21
+повестка|49
+la déposition|21
+заявление|49
+le mandat|21
+судебное предписание|49
+l'acte judiciaire|21
+ордер|49
+la date du procès|21
+дата судебного заседания|49
+le plaidoyer|21
+иск|49
+la cause|21
+дело|49
+l'accusation (II)|21
+обвинение (II)|49
+l'accusé (I)|21
+обвиняемый|49
+la preuve|21
+свидетельские показания|49
+le verdict|21
+вердикт|49
+innocent|21
+невиновен|49
+coupable|21
+виновен|49
+acquitté|21
+оправдан|49
+la condamnation|21
+приговор|49
+la caution|21
+залог|49
+l'appel|21
+апелляция|49
+la liberté conditionnelle|21
+условно-досрочное освобождение|49
+le fermier|21
+фермер|49
+les terres cultivées|21
+обрабатываемые земли|49
+la cour de ferme|21
+усадьба|49
+la dépendance|21
+надворная постройка|49
+la maison d'habitation|21
+жилой дом|49
+le champ|21
+поле|49
+la grange|21
+амбар|49
+les bestiaux|21
+скот|49
+le pré|21
+пастбище|49
+la clôture|21
+забор|49
+la barrière|21
+ворота|49
+la haie|21
+ограждение|49
+le potager|21
+огород|49
+le tracteur|21
+трактор|49
+le cultivateur|21
+культиватор|49
+la moissonneuse-batteuse|21
+уборочный комбайн|49
+la ferme de culture|21
+земледельческая ферма|49
+la ferme laitière|21
+молочная ферма|49
+la ferme d'élevage de moutons|21
+овцеферма|49
+le troupeau (II)|21
+отара|49
+la ferme d'aviculture|21
+птицеферма|49
+la ferme d'élevage porcin|21
+свиноферма|49
+le centre de pisciculture|21
+рыбное хозяйство|49
+l'exploitation fruitière|21
+фруктовый сад|49
+le vignoble|21
+виноградник|49
+labourer|21
+пахать|49
+le sillon|21
+борозда|49
+semer|21
+сеять|49
+traire|21
+доить|49
+donner à manger|21
+кормить|49
+arroser|21
+орошать|49
+récolter|21
+собирать урожай|49
+l'herbicide|21
+гербицид|49
+le pesticide|21
+пестицид|49
+le troupeau (I)|21
+стадо|49
+le silo|21
+силос|49
+l'auge|21
+кормушка|49
+planter|21
+сажать|49
+le blé|21
+пшеница|49
+le maïs|21
+кукуруза|49
+l'orge|21
+ячмень|49
+le colza|21
+рапс|49
+le tournesol|21
+подсолнечник|49
+le foin|21
+сено|49
+la balle|21
+тюк|49
+la luzerne|21
+люцерна|49
+le tabac|21
+табак|49
+le riz|21
+рис|49
+le thé|21
+чай|49
+le café|21
+кофе|49
+le lin|21
+лён|49
+la canne à sucre|21
+сахарный тростник|49
+le coton|21
+хлопок|49
+l'épouvantail|21
+пугало|49
+le cochon|21
+свинья|49
+le porcelet|21
+поросёнок|49
+la vache|21
+корова|49
+le veau|21
+телёнок|49
+le taureau|21
+бык|49
+le mouton|21
+овца|49
+l'agneau|21
+ягнёнок|49
+la chèvre|21
+коза|49
+le chevreau|21
+козлёнок|49
+le cheval|21
+лошадь|49
+le poulain|21
+жеребёнок|49
+l'âne|21
+осёл|49
+le poulet|21
+курица|49
+le poussin|21
+цыплёнок|49
+le coq|21
+петух|49
+le dindon|21
+индюк|49
+le canard|21
+утка|49
+le caneton|21
+утёнок|49
+l'écurie|21
+конюшня|49
+l'enclos|21
+загон|49
+le poulailler|21
+курятник|49
+la porcherie|21
+хлев|49
+le chantier|21
+стройка|49
+le chariot de levage|21
+грузоподъемник|49
+l'échafaudage|21
+леса|49
+la palette|21
+паллеты|49
+l'échelle|21
+лестница|49
+la fenêtre|21
+окно|49
+le chevron|21
+стропила|49
+le mur|21
+стена|49
+le linteau|21
+перемычка|49
+construire|21
+строить|49
+la poutre (II)|21
+балка|49
+le casque de sécurité|21
+каска|49
+la ceinture à outils|21
+пояс для инструментов|49
+le maçon|21
+строитель|49
+la poutre (I)|21
+брус|49
+le cément|21
+цемент|49
+la bétonnière|21
+бетономешалка|49
+les matériaux|21
+строительные материалы|49
+la brique|21
+кирпич|49
+le bois|21
+лесоматериалы|49
+la tuile|21
+черепица|49
+le bloc de béton|21
+бетонный блок|49
+les outils|21
+инструменты|49
+la truelle|21
+мастерок|49
+le mortier|21
+строительный раствор|49
+le niveau à bulle|21
+нивелир|49
+le marteau de forgeron|21
+кувалда|49
+la pioche|21
+кирка|49
+le manche|21
+рукоятка|49
+la pelle|21
+лопата|49
+le rouleau compresseur|21
+каток|49
+le tombereau|21
+самосвал|49
+la grue|21
+подъёмный кран|49
+le crocher|21
+крюк|49
+le support|21
+опора|49
+les travaux|21
+дорожные работы|49
+le macadam goudronné|21
+асфальт|49
+le cône|21
+конус|49
+le marteau-piqueur|21
+отбойный молоток|49
+le revêtement|21
+замена покрытия|49
+la pelle mécanique|21
+экскаватор|49
+le menuisier|21
+столяр|49
+l'électricien|21
+электрик|49
+le plombier|21
+слесарь|49
+le jardinier|21
+садовник|49
+le nettoyeur|21
+уборщик|49
+l'aspirateur|21
+пылесос|49
+le mécanicien|21
+механик|49
+le boucher|21
+мясник|49
+le coiffeur (I)|21
+парикмахер (женский)|49
+les ciseaux|21
+ножницы|49
+la marchande de poissons|21
+продавец рыбы|49
+le marchand de légumes|21
+зеленщик|49
+la fleuriste|21
+флорист|49
+le coiffeur (II)|21
+парикмахер (мужской)|49
+le bijoutier|21
+ювелир|49
+l'employée de magasin|21
+продавец|49
+l'agent immobilier|21
+риелтор|49
+l'opticien|21
+оптик|49
+la dentiste|21
+стоматолог|49
+le docteur|21
+врач|49
+la pharmacienne|21
+фармацевт|49
+l'infirmière|21
+медсестра|49
+la vétérinaire|21
+ветеринар|49
+le fermier|21
+фермер|49
+le pêcheur|21
+рыбак|49
+le marin|21
+моряк|49
+le soldat|21
+солдат|49
+la mitrailleuse|21
+автомат|49
+le policier|21
+полицейский|49
+l'uniforme|21
+униформа|49
+le garde|21
+охранник|49
+le badge|21
+значок|49
+le pompier|21
+пожарный|49
+l'avocat|21
+адвокат|49
+le comptable|21
+бухгалтер|49
+l'architecte|21
+архитектор|49
+la maquette|21
+макет|49
+le scientifique|21
+учёный|49
+l'institutrice|21
+учитель|49
+le bibliothécaire|21
+библиотекарь|49
+la réceptionniste|21
+секретарь|49
+le facteur|21
+почтальон|49
+le conducteur de bus|21
+водитель автобуса|49
+le camionneur|21
+водитель грузовика|49
+le chauffeur de taxi|21
+таксист|49
+le pilote|21
+пилот|49
+l'hôtesse de l'air|21
+стюардесса|49
+l'agent de voyages|21
+турагент|49
+le chef|21
+шеф-повар|49
+la toque|21
+поварский колпак|49
+le musicien|21
+музыкант|49
+la ballerine|21
+балерина|49
+le comédien|21
+актёр|49
+la chanteuse|21
+певица|49
+la serveuse|21
+официантка|49
+le barman|21
+бармен|49
+le sportif|21
+спортсмен|49
+le sculpteur|21
+скульптор|49
+la peintre|21
+художник|49
+le photographe|21
+фотограф|49
+le présentateur|21
+диктор|49
+le journaliste|21
+журналист|49
+la rédactrice|21
+редактор|49
+la dessinatrice|21
+дизайнер|49
+la couturière|21
+швея|49
+le couturier|21
+портной|49
+l'autoroute|21
+автострада|49
+le poste de péage|21
+контрольный пункт|49
+les signalisations|21
+дорожная разметка|49
+la bretelle d'accès|21
+въезд на автостраду|49
+à sens unique|21
+одностороннее движение|49
+l'îlot directionnel|21
+разделительная полоса|49
+le carrefour|21
+пересечение|49
+les feux|21
+светофор|49
+le camion|21
+грузовик|49
+le terre-plein|21
+разделительный барьер|49
+le passage inférieur|21
+туннель|49
+l'accotement stabilisé|21
+защитный бортик|49
+l'autopont|21
+эстакада|49
+la circulation|21
+дорожное движение|49
+la bretelle de sortie|21
+съезд с автострады|49
+la voie de dépassement|21
+левый ряд|49
+la voie centrale|21
+средний ряд|49
+la file de droite|21
+правый ряд|49
+le passage clouté|21
+пешеходный переход|49
+le téléphone de secours|21
+аварийный телефон|49
+le parking réservé aux personnes handicapées|21
+парковка для инвалидов|49
+l'embouteillage|21
+пробка|49
+la carte|21
+карта|49
+le parcmètre|21
+парковочный счётчик|49
+l'agent de la circulation|21
+дорожный полицейский|49
+le rond-point|21
+кольцевая транспортная развязка|49
+faire marche arrière|21
+сдавать назад|49
+les travaux|21
+дорожные работы|49
+la déviation|21
+объезд|49
+conduire|21
+водить|49
+la route á quatre voies|21
+четырёхполосная автострада|49
+garer|21
+парковать|49
+remorquer|21
+буксировать|49
+doubler|21
+обгон|49
+la glissière de sécurité|21
+предохранительный барьер|49
+les panneaux routiers|21
+дорожные знаки|49
+sens interdit|21
+проезд запрещён|49
+la limitation de vitesse|21
+ограничение скорости|49
+danger|21
+опасная дорога|49
+arrêt interdit|21
+остановка запрещена|49
+interdit de tourner à droite|21
+правый поворот запрещён|49
+la porte|21
+дверь|49
+la porte automatique|21
+автоматическая двери|49
+la roue avant|21
+переднее колесо|49
+le compartiment à bagages|21
+багажное отделение|49
+la roue arrière|21
+заднее колесо|49
+la fenêtre|21
+окно|49
+le car|21
+рейсовый автобус|49
+le bouton d'arrêt|21
+кнопка остановки|49
+la sonnette|21
+звонок|49
+le ticket|21
+автобусный билет|49
+la gare routière|21
+автовокзал|49
+l'arrêt de bus|21
+остановка автобуса|49
+le prix du ticket|21
+стоимость проезда|49
+le bus a deux étages|21
+двухэтажный автобус|49
+le conducteur|21
+водитель|49
+le numéro de bus|21
+номер маршрута|49
+le tramway|21
+трамвай|49
+le trolleybus|21
+троллейбус|49
+le minibus|21
+микроавтобус|49
+le bus scolaire|21
+школьный автобус|49
+le bus de touristes|21
+туристический автобус|49
+la navette|21
+маршрутный экспресс|49
+l'extérieur|21
+внешний вид|49
+le capot|21
+капот|49
+le rétroviseur extérieur|21
+боковое зеркало|49
+le pare-brise|21
+ветровое стекло|49
+le rétroviseur|21
+зеркало заднего вида|49
+l'essuie-glace|21
+стеклоочиститель (дворник)|49
+la porte|21
+дверь|49
+le coffre|21
+багажник|49
+le pneu|21
+шина|49
+la roue|21
+колесо|49
+le phare|21
+фара|49
+le pare-chocs|21
+бампер|49
+la plaque d'immatriculation|21
+номерной знак|49
+le clignotant|21
+указатель поворота|49
+la galerie|21
+верхний багажник|49
+les bagages|21
+багаж|49
+le hayon|21
+задняя дверь|49
+la ceinture de sécurité|21
+ремень безопасности|49
+le siège d'enfant|21
+детское сиденье|49
+la petite voiture|21
+малолитражка|49
+la berline à hayon|21
+хэтчбэк|49
+la berline|21
+седан|49
+le break|21
+универсал|49
+la décapotable|21
+кабриолет|49
+le cabriolet sport|21
+спортивный автомобиль|49
+la voiture à six places|21
+микроавтобус|49
+la quatre-quatre|21
+внедорожник|49
+la voiture d'époque|21
+антикварный автомобиль|49
+la limousine|21
+лимузин|49
+la station-service|21
+заправочная станция|49
+la pompe|21
+бензоколонка|49
+le tarif|21
+прейскурант|49
+l'aire de stationnement|21
+внешняя стоянка|49
+le compresseur|21
+компрессор|49
+l'huile|21
+масло|49
+sans plomb|21
+неэтилированный|49
+l'essence|21
+бензин|49
+avec plomb|21
+этилированный|49
+le lave-auto|21
+мойка|49
+le diesel|21
+дизтопливо|49
+l'antigel|21
+антифриз|49
+le garage|21
+гараж|49
+le lave-glace|21
+стеклоочиститель|49
+l'intérieur|21
+салон|49
+le siège arrière|21
+заднее сиденье|49
+l'accoudoir|21
+подлокотник|49
+le repose-tête|21
+подголовник|49
+le verrouillage|21
+дверной замок|49
+la poignée|21
+ручка|49
+á deux portes|21
+двухдверный|49
+à quatre portes|21
+четырёхдверный|49
+automatique|21
+автоматический|49
+le frein|21
+тормоза|49
+l'accélérateur|21
+педаль газа|49
+à trois portes|21
+трёхдверный|49
+manuel|21
+ручной|49
+l'allumage|21
+зажигание|49
+l'embrayage|21
+сцепление|49
+la climatisation|21
+кондиционер|49
+les commandes|21
+управление|49
+le volant|21
+руль|49
+le klaxon|21
+клаксон|49
+le tableau de bord|21
+приборная панель|49
+les feux de détresse|21
+аварийные индикаторы|49
+le navigateur par satellite|21
+спутниковая навигационая система|49
+la conduite à gauche|21
+левосторонний руль|49
+le thermomètre|21
+температурный индикатор|49
+le compte-tours|21
+индикатор оборотов двигателя|49
+le compteur|21
+спидометр|49
+la jauge d'essence|21
+топливный индикатор|49
+l'interrupteur des feux|21
+выключатель фар|49
+l'odomètre|21
+счётчик пробега (одометр)|49
+l'airbag|21
+подушка безопасности|49
+la conduite à droite|21
+правосторонний руль|49
+le levier de vitesses|21
+рычаг переключения передач|49
+la manette de chauffage|21
+регулятор обогрева|49
+la stéréo|21
+автомобильная стереосистема|49
+la mécanique|21
+механика|49
+le réservoir de lave-glace|21
+бачок омывателя|49
+la jauge d'huile|21
+измерители уровня масла|49
+le filtre à air|21
+воздушный фильтр|49
+le réservoir de liquide de frein|21
+бачок для тормозной жидкость|49
+la batterie|21
+аккумулятор|49
+le réservoir de liquide de refroidissement|21
+бачок для охлаждающей жидкости|49
+la culasse|21
+головка цилиндра|49
+le tuyau|21
+патрубок|49
+la carrosserie|21
+кузов|49
+le radiateur|21
+радиатор|49
+le ventilateur|21
+вентилятор|49
+le moteur|21
+двигатель|49
+le toit ouvrant|21
+люк|49
+le toit|21
+крыша|49
+la suspension|21
+подвеска|49
+le silencieux|21
+глушитель|49
+l'enjoliveur|21
+колпак|49
+la boîte de vitesses|21
+коробка передач|49
+la transmission|21
+трансмиссия|49
+l'arbre de transmission|21
+карданный вал|49
+le pot d'échappement|21
+выхлопная труба|49
+la crevaison|21
+прокол|49
+la roue de secours|21
+запасное колесо|49
+la manivelle|21
+гаечный ключ|49
+les écrous de roue|21
+болты-держатели колеса|49
+changer une roue|21
+менять колесо|49
+le cric|21
+домкрат|49
+l'accident de voiture|21
+авария|49
+la courroie de cames|21
+кулачковая передача|49
+la panne|21
+поломка|49
+l'assurance|21
+страховка|49
+la dépanneuse|21
+буксир-эвакуатор|49
+le mécanicien|21
+механик|49
+la pression des pneus|21
+давление в шинах|49
+le porte-fusibles|21
+блок предохранителей|49
+la bougie|21
+свеча зажигания|49
+la courroie de ventilateur|21
+ремень вентилятора|49
+le réservoir d'essence|21
+бензобак|49
+le turbocompresseur|21
+турбокомпрессор|49
+le distributeur|21
+распределитель|49
+le réglage de l'allumage|21
+регулирование зажигания|49
+le châssis|21
+шасси|49
+le frein à main|21
+ручной тормоз|49
+l'alternateur|21
+генератор|49
+les commandes|21
+механизм управления|49
+l'embrayage|21
+сцепление|49
+le clignotant|21
+указатель поворота|49
+le compteur|21
+спидометр|49
+le frein|21
+тормоз|49
+le klaxon|21
+сигнал|49
+l'accélérateur|21
+акселератор|49
+le porte-bagages|21
+багажник|49
+le casque|21
+шлем|49
+la visière|21
+щиток|49
+la bande fluorescente|21
+отражающая полоса|49
+la genouillère|21
+наколенник|49
+le vêtement en cuir|21
+кожаный костюм|49
+le réflecteur|21
+отражатель|49
+le siège arrière|21
+заднее сиденье|49
+la selle|21
+сиденье водителя|49
+le moteur|21
+двигатель|49
+le réservoir d'essence|21
+топливный бак|49
+le phare|21
+фара|49
+la suspension|21
+подвеска|49
+le garde-boue|21
+брызговик|49
+le pneu|21
+шина|49
+l'essieu|21
+ось|49
+la pédale de frein|21
+педаль тормоза|49
+la boîte de vitesses|21
+коробка передач|49
+le réservoir d'huile|21
+масляный бак|49
+le silencieux|21
+глушитель|49
+le pot d'échappement|21
+выхлопная труба|49
+le feu arrière|21
+задний фонарь|49
+la moto de course|21
+гоночный|49
+la moto routière|21
+дорожный|49
+le pare-brise|21
+ветровое стекло|49
+la moto tout-terrain|21
+кросс|49
+le scooter|21
+мотороллер|49
+la béquille|21
+стойка|49
+le tandem|21
+тандем|49
+le vélo de course|21
+гоночный велосипед|49
+le vélo tout-terrain|21
+горный велосипед|49
+le vélo de randonnée|21
+прогулочный велосипед|49
+le vélo de ville|21
+дорожный велосипед|49
+la selle|21
+седло|49
+le tube porte-selle|21
+держатель седла|49
+le cadre|21
+рама|49
+le frein|21
+тормоз|49
+le moyeu|21
+ступица|49
+les vitesses|21
+шестерни|49
+la jante|21
+обод|49
+le pneu|21
+шина|49
+la chaîne|21
+цепь|49
+la pédale|21
+педаль|49
+la roue dentée|21
+зубчатое колесо|49
+la valve|21
+ниппель|49
+la bande de roulement|21
+протектор|49
+la roue|21
+колесо|49
+le rayon|21
+спица|49
+la fourche|21
+вилка|49
+le levier de frein|21
+рычаг тормоза|49
+le levier de vitesse|21
+рычаг переключения передач|49
+le guidon|21
+руль|49
+la bouteille d'eau|21
+бутылка для воды|49
+la piste cyclable|21
+велосипедная дорожка|49
+la chambre á air|21
+камера|49
+le siège d'enfant|21
+детское сиденье|49
+l'antivol|21
+замок|49
+la pompe|21
+насос|49
+la boîte d'outils|21
+набор инструментов|49
+la rustine|21
+заплата|49
+le démon te-pneu|21
+рычаг для разбортовка шины|49
+le feu arrière|21
+задний фонарь|49
+le cataphote|21
+отражатель|49
+le phare|21
+фара|49
+les roues d'entraînement|21
+стабилизаторы|49
+la galerie à vélo|21
+стойка для стоянки|49
+la béquille|21
+откидная стойка|49
+le patin de frein|21
+тормозная колодка|49
+le câble|21
+трос|49
+le pignon|21
+цепное колесо|49
+le panier|21
+корзина|49
+la dynamo|21
+динамо-машина|49
+la crevaison|21
+прокол|49
+le cale-pied|21
+туклипс|49
+la lanière|21
+ремень для стопы|49
+faire du vélo|21
+ехать на велосипеде|49
+changer de vitesse|21
+переключать передачу|49
+la gare|21
+вокзал|49
+la voiture|21
+вагон|49
+le quai|21
+перрон|49
+le caddie|21
+тележка|49
+le numéro de vole|21
+номер платформы|49
+le voyageur|21
+пассажир|49
+le train à vapeur|21
+паровоз|49
+la locomotive|21
+локомотив|49
+le train diesel|21
+дизельный|49
+la cabine du conducteur|21
+кабина машиниста|49
+le train électrique|21
+электровоз|49
+le train à grande vitesse|21
+высокоскоростной|49
+le monorail|21
+монорельсовый|49
+le métro|21
+метро|49
+le tram|21
+трамвай|49
+le train de marchandises|21
+товарный|49
+le compartiment|21
+купе|49
+la porte|21
+дверь|49
+la Fenêtre|21
+окно|49
+le porte-bagages|21
+багажная полка|49
+le portillon|21
+турникет|49
+le siège|21
+место|49
+la voie ferrée|21
+путь|49
+le hall de gare|21
+вестибюль вокзала|49
+le haut-parleur|21
+система массового оповещения|49
+l'horaire|21
+расписание|49
+le billet|21
+билет|49
+la voiture-restaurant|21
+вагон-ресторан|49
+le compartiment-couchettes|21
+спальное купе|49
+le réseau ferroviaire|21
+железнодорожная сеть|49
+le plan de métro|21
+схема метро|49
+le guichet|21
+билетная касса|49
+la manette de secours|21
+стоп-кран|49
+le rapide|21
+экспресс|49
+le retard|21
+опоздание|49
+le contrôleur|21
+контролёр|49
+le signal|21
+семафор|49
+l'heure de pointe|21
+час пик|49
+le prix|21
+стоимость проезда|49
+changer|21
+делать пересадку|49
+le rail conducteur|21
+рельс под током|49
+l'avion de ligne|21
+авиалайнер|49
+le nez|21
+нос|49
+le cockpit|21
+кабина пилота|49
+le réacteur|21
+мотор|49
+le fuselage|21
+фюзеляж|49
+l'aile|21
+крыло|49
+la queue|21
+хвост|49
+la gouverne|21
+руль направления|49
+l'empennage|21
+хвостовой стабилизатор|49
+la dérive|21
+киль|49
+l'aileron|21
+элерон|49
+le train d'atterrissage|21
+шасси|49
+la sortie|21
+выход|49
+la roue de nez|21
+носовое колесо|49
+la cabine|21
+салон|49
+la sortie de secours|21
+аварийный выход|49
+l'hôtesse de l'air|21
+стюардесса|49
+le casier à bagages|21
+багажное отделение|49
+le ventilateur|21
+вентилятор|49
+la liseuse|21
+лампочка для чтения|49
+la rangée|21
+ряд|49
+le dossier|21
+спинка кресла|49
+la tablette|21
+откидной столик|49
+le couloir|21
+проход|49
+l'accoudoir|21
+подлокотник|49
+le siège|21
+сиденье|49
+le hublot|21
+иллюминатор|49
+l'U.L.M.|21
+сверхлёгкий самолёт|49
+le planeur|21
+планер|49
+le biplan|21
+биплан|49
+l'avion léger|21
+лёгкий самолёт|49
+l'hélice|21
+пропеллер|49
+la montgolfière|21
+аэростат|49
+l'hydravion|21
+гидросамолёт|49
+le jet privé|21
+частный реактивный самолёт|49
+l'avion supersonique|21
+сверхзвуковой реактивный самолёт|49
+l'hélicoptère|21
+вертолёт|49
+le bombardier|21
+бомбардировщик|49
+le chasseur|21
+истребитель|49
+le pilote|21
+первый пилот|49
+le copilote|21
+второй пилот|49
+décoller|21
+взлетать|49
+voler|21
+лететь|49
+atterrir|21
+садиться|49
+l'altitude|21
+высота|49
+la classe économique|21
+эконом-класс|49
+la classe affaires|21
+бизнес-класс|49
+les bagages à main|21
+ручная кладь|49
+la ceinture de sécurité|21
+ремень безопасности|49
+l'aire de stationnement|21
+площадка перед ангаром|49
+le porte-bagages|21
+багажный контейнер|49
+le terminal|21
+здание аэропорта|49
+le véhicule de service|21
+служебный автотранспорт|49
+la passerelle|21
+трап|49
+l'avion de ligne|21
+авиалайнер|49
+la piste|21
+взлётно-посадочная полоса|49
+le vol international|21
+международный рейс|49
+le vol domestique|21
+внутренний рейс|49
+la correspondance|21
+транзит|49
+le numéro de vol|21
+номер рейса|49
+l'immigration|21
+паспортный контроль (I)|49
+la douane|21
+таможня|49
+la sécurité|21
+служба безопасности|49
+l'excédent de bagages|21
+перевес багажа|49
+le tapis roulant|21
+транспортёр|49
+la machine de rayons x|21
+рентгеновская установка|49
+la brochure de vacances|21
+рекламный проспект|49
+les vacances|21
+отпуск|49
+faire une réservation de vol|21
+забронировать авиабилет|49
+enregistrer|21
+зарегистрироваться|49
+la tour de contrôle|21
+диспетчерская вышка|49
+le paquebot|21
+океанский лайнер|49
+le radar|21
+радар|49
+l'antenne radio|21
+радиоантенна|49
+le pont|21
+палуба|49
+la cheminée|21
+труба|49
+le pont arrière|21
+ют|49
+l'hélice|21
+винт|49
+la quille|21
+киль|49
+le canot de sauvetage|21
+спасательная шлюпка|49
+la coque|21
+корпус|49
+le hublot|21
+иллюминатор|49
+la marque de flottaison|21
+ватерлиния|49
+la proue|21
+нос|49
+la passerelle de commandement|21
+капитанский мостик|49
+la salle des moteurs|21
+машинное отделение|49
+la cabine|21
+каюта|49
+la cuisine|21
+камбуз|49
+le ferry|21
+паром|49
+le dinghy pneumatique|21
+надувная лодка|49
+l'hydroptère|21
+судно на подводных крыльях|49
+le yacht|21
+яхта|49
+le catamaran|21
+катамаран|49
+le remorqueur|21
+буксир|49
+l'aéroglisseur|21
+корабль на воздушной подушке|49
+le navire porte-conteneurs|21
+контейнеровоз|49
+le voilier|21
+парусник|49
+le cargo|21
+грузовое судно|49
+le gréement|21
+такелаж|49
+la cale|21
+трюм|49
+le pétrolier|21
+танкер|49
+le porte-avions|21
+авианосец|49
+le navire de guerre|21
+военный корабль|49
+le sous-marin|21
+подводная лодка|49
+l'entrepôt|21
+пакгауз|49
+la grue|21
+портальный кран|49
+le chariot élévateur|21
+автопогрузчик|49
+la route d'accès|21
+подъездные пути|49
+le bureau des douanes|21
+таможня|49
+le dock|21
+док|49
+le quai|21
+причал (I)|49
+la cargaison|21
+груз|49
+le port de conteneurs|21
+грузовой порт|49
+le conteneur|21
+контейнер|49
+le port de passagers|21
+пассажирский порт|49
+le terminal de ferrys|21
+паромный причал|49
+le guichet|21
+билетная касса|49
+le passager|21
+пассажир|49
+le filet|21
+сеть|49
+le port de pêche|21
+рыболовецкий порт|49
+le bateau de pêche|21
+рыболовецкое судно|49
+la marina|21
+пристань для яхт|49
+les amarres|21
+якорная стоянка (I)|49
+le port|21
+якорная стоянка (II)|49
+l'embarcadère|21
+причал (II)|49
+la jetée|21
+мол|49
+le chantier naval|21
+верфь|49
+le phare|21
+маяк|49
+le feu|21
+прожектор|49
+la bouée|21
+буй|49
+le garde-côte|21
+береговая охрана|49
+le capitaine de port|21
+начальник порта|49
+jeter l'ancre|21
+бросить якорь|49
+la cale sèche|21
+сухой док|49
+mouiller|21
+причаливать|49
+embarquer|21
+подняться на судно|49
+débarquer|21
+сходить на берег|49
+prendre la mer|21
+отчаливать|49
+le poteau|21
+стойка ворот|49
+la ligne de touche|21
+боковая линия|49
+le juge de ligne|21
+судья на линии|49
+la ligne de but|21
+голевая линия|49
+le terrain|21
+футбольное поле|49
+la zone de fond|21
+конечная зона|49
+le ballon|21
+футбольный мяч|49
+la botte|21
+бутса|49
+le joueur de football|21
+футболист|49
+tacler|21
+перехватить мяч|49
+les protections|21
+защитники|49
+faire une passe|21
+передавать мяч|49
+le casque|21
+шлем|49
+attraper|21
+поймать мяч|49
+le temps mort|21
+тайм-аут|49
+la prise de ballon maladroite|21
+утрата мяча|49
+l'équipe|21
+команда|49
+l'attaque|21
+атака|49
+la défense|21
+защита|49
+le score|21
+счёт|49
+la majorette|21
+группа поддержки|49
+le but|21
+тачдаун|49
+le terrain de rugby|21
+игровое поле|49
+le but|21
+ворота|49
+la surface de but|21
+зачётное поле|49
+la ligne de touche|21
+боковая линия|49
+le drapeau|21
+флажок|49
+la ligne de ballon mort|21
+линия мёртвого мяча|49
+le ballon|21
+мяч|49
+le maillot de rugby|21
+форма|49
+botter|21
+ударить ногой|49
+faire une passe|21
+передавать мяч|49
+tacler|21
+захватить|49
+lancer|21
+бросать|49
+l'essai|21
+попытка поймать мяч в падении|49
+la mêlée ouverte|21
+открытая схватка|49
+le joueur|21
+игрок|49
+la mêlée|21
+схватка|49
+le ballon|21
+футбольный мяч|49
+la tenue|21
+футбольная гетра|49
+le joueur de foot|21
+футболист|49
+le gardien de but|21
+вратарь|49
+l'avant|21
+нападающий|49
+l'arbitre|21
+судья|49
+le cercle central|21
+центральный круг|49
+la surface de réparation|21
+штрафная площадка|49
+la ligne de but|21
+линия ворот|49
+la surface de but|21
+вратарская площадка|49
+le but|21
+гол|49
+le défenseur|21
+защитник|49
+le drapeau de coin|21
+угловой флаг|49
+le juge de ligne|21
+судья на линии|49
+le poteau|21
+штанга|49
+le filet|21
+сетка|49
+la barre transversale|21
+перекладина|49
+dribbler|21
+вести мяч|49
+faire une tête|21
+играть головой|49
+le coup franc|21
+свободный удар|49
+le stade|21
+стадион|49
+le penalty|21
+пенальти|49
+marquer un but|21
+забить гол|49
+la faute|21
+фол|49
+le corner|21
+угловой удар|49
+le carton rouge|21
+красная карточка|49
+le carton jaune|21
+жёлтая карточка|49
+l'hors-jeu|21
+положение вне игры|49
+l'expulsion|21
+удаление с поля|49
+le championnat|21
+чемпионат|49
+la mi-temps|21
+тайм|49
+l'égalité|21
+ничья|49
+la prolongation|21
+дополнительное время|49
+le remplaçant|21
+запасной игрок|49
+le remplacement|21
+замена|49
+le hockey sur glace|21
+хоккей с шайбой|49
+la ligne de but|21
+линия ворот|49
+la zone d'attaque|21
+зона нападения|49
+la zone neutre|21
+средняя зона|49
+la zone de défense|21
+зоны защиты|49
+le gardien de but|21
+вратарь|49
+le but|21
+ворота|49
+le cercle de mise en jeu|21
+зона вбрасывания|49
+le cercle central|21
+центральный круг|49
+la patinoire|21
+хоккейная площадка|49
+le hockeyeur|21
+хоккеист|49
+le palet|21
+шайба|49
+la crosse|21
+клюшка (I)|49
+le gant|21
+крага|49
+la protection|21
+наплечник|49
+le patin à glace|21
+конёк|49
+patiner|21
+кататься на коньках|49
+frapper|21
+бить по шайбе|49
+le hockey|21
+хоккей на траве|49
+la crosse de hockey|21
+клюшка (II)|49
+la balle|21
+мяч|49
+le lanceur|21
+боулер|49
+la limite du terrain|21
+ограничительная линия|49
+la ligne d'envoi|21
+линия воротец|49
+le batteur|21
+бэтсмен|49
+le guichet|21
+воротца|49
+le terrain de cricket|21
+питч|49
+le masque protecteur|21
+маска|49
+le piquet|21
+стойка|49
+lancer|21
+подавать мяч|49
+frapper|21
+отбивать мяч|49
+le joueur de cricket|21
+игрок в крикет|49
+la jambière|21
+щиток|49
+attraper|21
+поймать мяч|49
+le gardien de but|21
+кипер|49
+hors-jeu|21
+выйти из игры|49
+le tableau de points|21
+табло|49
+l'arbitre|21
+судья|49
+le terrain|21
+баскетбольная площадка|49
+la ligne de touche|21
+боковая линия|49
+l'arbitre|21
+судья|49
+le cercle central|21
+центральный круг|49
+la ligne de lancer franc|21
+линии штрафного броска|49
+la ligne de bout|21
+лицевая линия|49
+la ligne de centre|21
+центральная линия|49
+la ligne de trois points|21
+трёхочковая линия|49
+le numéro|21
+номер|49
+le ballon|21
+мяч|49
+le joueur de basket|21
+баскетболист|49
+l'anneau|21
+кольцо|49
+le filet|21
+сетка|49
+le panier|21
+корзина|49
+le panneau|21
+щит|49
+la passe|21
+передавать мяч|49
+la faute|21
+фол|49
+le rebond|21
+подбор|49
+la rentrée|21
+вбрасывание|49
+hors-jeu|21
+вне игры|49
+l'entre-deux|21
+спорный мяч|49
+lancer|21
+бросать|49
+attraper|21
+ловить|49
+tirer|21
+бросать в корзину|49
+sauter|21
+прыгать|49
+marquer|21
+прикрывать|49
+bloquer|21
+блокировать|49
+faire un dunk|21
+забрасывать в прыжке|49
+le volley|21
+волейбол|49
+faire une manchette|21
+сделать замок|49
+la genouillère|21
+наколенник|49
+le terrain|21
+площадка|49
+le champ gauche|21
+левое поле|49
+le champ intérieur|21
+внутреннее поле|49
+le champ central|21
+центральное поле|49
+le champ extérieur|21
+внешнее поле|49
+le champ droit|21
+правое поле|49
+la ligne de pénalité|21
+штрафная линия|49
+l'équipe|21
+команда|49
+le banc de touche|21
+скамейка команды|49
+la base du batteur|21
+домашняя база|49
+le mont du lanceur|21
+питчерская горка|49
+l'homme de base|21
+бейсмен|49
+le casque|21
+шлем|49
+la batte|21
+бита|49
+le gant|21
+перчатка|49
+la balle|21
+мяч|49
+le masque|21
+маска|49
+le tour de batte|21
+иннинг|49
+le point|21
+пробежка|49
+sauf|21
+сейф|49
+hors-jeu|21
+аут|49
+le coup manqué|21
+плохой удар|49
+la fausse bane|21
+фолбол|49
+le receveur|21
+кетчер|49
+le lanceur|21
+питчер|49
+lancer (I)|21
+бросать|49
+attraper|21
+ловить|49
+courser|21
+осалить|49
+glisser|21
+совершить подкат|49
+jouer|21
+играть|49
+lancer (II)|21
+подавать|49
+l'arbitre|21
+судья|49
+le manche|21
+ручка|49
+la tête|21
+головка|49
+la corde|21
+струна|49
+l'arbitre|21
+судья|49
+la ligne de fond|21
+задняя линия|49
+le filet|21
+сетка|49
+le smash|21
+смэш|49
+le ramasseur de balles|21
+мальчик, подающий мяч|49
+servir|21
+подавать|49
+les tennis|21
+теннисные туфли|49
+le joueur|21
+теннисист|49
+le court de tennis|21
+теннисный корт|49
+le poignet|21
+напульсник|49
+la balle|21
+мяч|49
+ligne de côté|21
+боковая линия|49
+la raquette (I)|21
+ракетка (I)|49
+le simple|21
+одиночные игры|49
+le set|21
+сет|49
+l'égalité|21
+равный счёт|49
+la faute|21
+ошибка|49
+le slice|21
+слайс|49
+l'effet|21
+вращение|49
+le double|21
+парные игры|49
+le match|21
+партия|49
+l'avantage|21
+преимущество|49
+l'as|21
+ас|49
+l'échange|21
+обмен ударами|49
+le juge de ligne|21
+судья на линии|49
+le jeu|21
+гейм|49
+le tiebreak|21
+тай-брейк|49
+zéro|21
+нулевой счёт|49
+l'amorti|21
+дропшот|49
+le championnat|21
+чемпионат|49
+les coups|21
+удары|49
+la voilée|21
+удар с лета|49
+le retour|21
+приём подачи|49
+le lob|21
+свеча|49
+le coup droit|21
+удар справа|49
+le revers|21
+удар слева|49
+les jeux de raquette|21
+игры с ракеткой|49
+le badminton|21
+бадминтон|49
+le tennis de table|21
+настольный теннис|49
+le volant|21
+волан|49
+la raquette (II)|21
+ракетка (II)|49
+le squash|21
+сквош|49
+le racquetball|21
+ракетбол|49
+le joueur de golf|21
+игрок в гольф|49
+exécuter un swing|21
+выполнить свинг|49
+le trou|21
+лунка|49
+le départ|21
+тин граунд|49
+le green|21
+грин|49
+le bunker|21
+бункер|49
+le drapeau|21
+флажок|49
+le rough|21
+бурьян|49
+l'obstacle d'eau|21
+водная преграда|49
+le parcours de golf|21
+поле для гольфа|49
+le pavillon|21
+гольф-клуб|49
+la position|21
+позиция|49
+le buggy|21
+багги|49
+l'équipement|21
+снаряжение|49
+la balle de golf|21
+мяч для игры гольфа|49
+le tee|21
+прицельный колышек|49
+le gant|21
+перчатка|49
+le caddie (II)|21
+тележка|49
+le parapluie|21
+зонтик|49
+le sac de golf|21
+сумка для клюшек|49
+les pointes|21
+шипы|49
+la chaussure de golf|21
+обуви для гольфа|49
+les clubs de golf|21
+клюшки для гольфа|49
+le bois|21
+деревянная|49
+le putter|21
+паттер|49
+le fer|21
+стальная|49
+la cale|21
+клиновидная|49
+partir du tee|21
+делать первый удар|49
+driver|21
+выполнить драйв|49
+putter|21
+сделать патт|49
+cocher|21
+выполнить чип|49
+le par|21
+пар|49
+le over par|21
+овер-пар|49
+le tournoi|21
+турнир|49
+le caddie (I)|21
+кадди|49
+le coup|21
+удар|49
+la ligne de jeu|21
+линия игры|49
+le under par|21
+андер-пар|49
+le trou en un|21
+хоул-ин-уан|49
+les spectateurs|21
+зрители|49
+le swing d'essai|21
+пробный удар|49
+le swing en arrière|21
+замах|49
+le terrain|21
+стадион|49
+le couloir|21
+дорожка|49
+la piste|21
+трек|49
+la ligne d'arrivée|21
+линия финиша|49
+la ligne de départ|21
+стартовая линия|49
+le bloc de départ|21
+стартовые колодки|49
+le sprinter|21
+спринтер|49
+le disque|21
+метание диска|49
+le lancement du poids|21
+толкание ядра|49
+l'athlète|21
+атлет|49
+le javelot|21
+метание копья|49
+la course|21
+бег|49
+le temps|21
+время|49
+le record|21
+рекорд|49
+la photo-finish|21
+фотофиниш|49
+le marathon|21
+марафон|49
+le saut à la perche|21
+прыжок с шестом|49
+le record personnel|21
+личный рекорд|49
+le bâton|21
+эстафетная палочка|49
+le relais|21
+эстафета|49
+le saut en hauteur|21
+прыжок в высоту|49
+la barre|21
+планка|49
+le saut en longueur|21
+прыжок в длину|49
+les haies|21
+бег с препятствиями|49
+la gymnastique|21
+гимнастика|49
+le saut|21
+опорный прыжок|49
+le cheval|21
+гимнастический конь|49
+le salto|21
+сальто|49
+le tremplin|21
+мостик|49
+la poutre|21
+бревно|49
+la gymnaste|21
+гимнастка|49
+les exercices au sol|21
+вольные упражнения|49
+le tapis|21
+мат|49
+la cabriole|21
+колесо|49
+la gymnastique rythmique|21
+художественная гимнастика|49
+la barre fixe|21
+перекладина|49
+les barres parallèles|21
+параллельные брусья|49
+les barres asymétriques|21
+разновысокие брусья|49
+le cheval d'arçons|21
+козёл|49
+les anneaux|21
+кольца|49
+le podium|21
+пьедестал почёта|49
+les médailles|21
+медали|49
+l'or|21
+золото|49
+l'argent|21
+серебро|49
+le bronze|21
+бронза|49
+le taekwondo|21
+тхэквондо|49
+l'adversaire|21
+противник|49
+le gant|21
+перчатка|49
+le protège-tête|21
+шлем|49
+la ceinture|21
+пояс|49
+le karaté|21
+карате|49
+le judo|21
+дзюдо|49
+l'aïkido|21
+айкидо|49
+le kendo|21
+кендо|49
+le sabre|21
+синаи|49
+le masque|21
+мэн|49
+le kung-fu|21
+кун-фу|49
+la boxe thaïlandaise|21
+кикбоксинг|49
+la lutte|21
+греко-римская борьба|49
+la boxe|21
+бокс|49
+la chute|21
+падение|49
+la prise|21
+захват|49
+la projection|21
+бросок|49
+l'immobilisation|21
+противник на лопатках|49
+le coup de pied|21
+удар ногой|49
+le coup de poing|21
+удар кулаком|49
+le coup (I)|21
+удар ребром ладони|49
+le saut|21
+прыжок|49
+le blocage|21
+блок|49
+le coup (II)|21
+тычковый удар|49
+le ring|21
+ринг|49
+les gants de boxe|21
+боксёрские перчатки|49
+le protège-dents|21
+капа|49
+le round|21
+раунд|49
+le combat|21
+бой|49
+l'entraînement|21
+спарринг|49
+le poing|21
+кулак|49
+le knock-out|21
+нокаут|49
+le punching-bag|21
+боксёрская груша|49
+la ceinture noire|21
+чёрный пояс|49
+l'autodéfense|21
+самооборона|49
+les arts martiaux|21
+боевые искусства|49
+la capoeira|21
+капоэйра|49
+le taï chi|21
+тайцзы|49
+el sumo|21
+борьба сумо|49
+la brassière|21
+нарукавник|49
+les lunettes protectrices|21
+очки|49
+la pince pour le nez|21
+носовая прищепка|49
+la planche|21
+плавательная доска|49
+le maillot de bain|21
+плавательный костюм|49
+le bonnet de natation|21
+шапочка|49
+le slip de bain|21
+плавки|49
+la piscine|21
+бассейн|49
+le plot de départ|21
+стартовая тумба|49
+l'eau|21
+вода|49
+plonger|21
+нырять|49
+le tremplin|21
+трамплин|49
+le plongeur|21
+ныряльщик|49
+nager|21
+плавать|49
+le tour|21
+закрытый поворот|49
+le crawl|21
+кроль|49
+la brasse|21
+брасс|49
+la nage sur le dos|21
+плавание на спине|49
+la nage|21
+взмах|49
+le papillon|21
+баттерфляй|49
+le coup de pied|21
+толчок|49
+la plongée|21
+подводное плавание с аквалангом|49
+la ceinture de plomb|21
+свинцовый пояс|49
+la palme|21
+ласт|49
+la combinaison de plongée|21
+гидрокостюм|49
+la bouteille d'air|21
+пневмоцилиндр|49
+le tuba|21
+трубка|49
+le masque|21
+маска|49
+le régulateur|21
+регулятор|49
+nager sur place|21
+плыть на месте|49
+les casiers|21
+шкафчик в раздевалке|49
+le water-polo|21
+водное поло|49
+le petit bassin|21
+мелкая часть|49
+la crampe|21
+судорога|49
+le plongeon de haut vol|21
+прыжок с трамплина|49
+le départ plongé|21
+прыжки в воду|49
+le maître nageur|21
+спасатель|49
+le grand bassin|21
+глубокая часть|49
+la nage synchronisée|21
+синхронное плавание|49
+se noyer|21
+тонуть|49
+le compas|21
+компас|49
+l'ancre|21
+якорь|49
+naviguer|21
+вести судно|49
+le taquet|21
+крепительная планка|49
+le pont de côté|21
+боковая палуба|49
+la barre|21
+румпель|49
+le yacht|21
+яхта|49
+l'avant|21
+нос|49
+la voile d'avant|21
+фок|49
+le mât|21
+мачта|49
+le gréement|21
+бегучий такелаж|49
+la grand-voile|21
+грот|49
+la bôme|21
+гик|49
+l'arrière|21
+корма|49
+la fusée éclairante|21
+сигнальная ракета|49
+la bouée de sauvetage|21
+спасательный круг|49
+le gilet de sauvetage|21
+спасательный жилет|49
+le radeau de sauvetage|21
+спасательный плот|49
+les sports aquatiques|21
+водные виды спорта|49
+ramer|21
+грести|49
+le rameur|21
+гребец|49
+la rame|21
+весло|49
+le canoë|21
+гребля на байдарках и каноэ|49
+le kayak|21
+байдарка|49
+la pagaie|21
+двухлопастное весло|49
+le surf|21
+сёрфинг|49
+la planche (I)|21
+доска (I)|49
+le ski nautique|21
+водные лыжи|49
+le ski|21
+лыжа|49
+le motonautisme|21
+водно-моторный спорт|49
+le rafting|21
+рафтинг|49
+le jet-ski|21
+аквабайк|49
+la planche à voile|21
+виндсёрфинг|49
+la planche (II)|21
+доска (II)|49
+le planchiste|21
+виндсёрфингист|49
+la voile (II)|21
+парус|49
+le surfeur|21
+сёрфингист|49
+l'équipage|21
+экипаж|49
+le vent|21
+ветер|49
+l'écume|21
+прибой|49
+l'écoute|21
+шкот|49
+la dérive|21
+шверт|49
+le skieur nautique|21
+воднолыжник|49
+louvoyer|21
+менять курс|49
+la vague|21
+волна|49
+les rapides|21
+стремнина|49
+le gouvernail|21
+руль|49
+chavirer|21
+опрокидываться|49
+le cavalier|21
+всадник|49
+la bombe|21
+фуражка|49
+la crinière|21
+грива|49
+les rênes|21
+поводья|49
+le jodhpur|21
+рейтузы|49
+la sangle|21
+подпруга|49
+le sabot|21
+копыто|49
+l'étrier|21
+стремя|49
+la botte|21
+сапог|49
+la queue|21
+хвост|49
+le cheval|21
+лошадь|49
+la selle|21
+седло|49
+le fer à cheval|21
+подкова|49
+la selle de femme|21
+дамское седло|49
+le pommeau|21
+лука|49
+la bride|21
+уздечка|49
+le frontail|21
+налобный ремень|49
+le mors|21
+удила|49
+la muserolle|21
+нахрапник|49
+la cravache|21
+хлыст|49
+la course de chevaux|21
+скачки|49
+le cheval de course|21
+скаковая лошадь|49
+le steeple|21
+стипль-чез|49
+la course de trot|21
+бега в упряжке|49
+le rodéo|21
+родео|49
+le jumping|21
+конкур|49
+la course attelée|21
+гонки в экипажах|49
+la randonnée|21
+конный туризм|49
+le dressage|21
+выездка|49
+le polo|21
+поло|49
+le pas|21
+шаг|49
+le petit galop|21
+лёгкий галоп|49
+le saut|21
+прыжок|49
+le licou|21
+недоуздок|49
+l'enclos|21
+паддок|49
+la course de plat|21
+гладкие скачки|49
+le trot|21
+рысь|49
+le galop|21
+галоп|49
+le valet d'écurie|21
+конюх|49
+l'écurie|21
+конюшня|49
+l'arène|21
+арена|49
+les champs de courses|21
+ипподром|49
+le plomb|21
+грузило|49
+le barbillon|21
+жало|49
+l'oeillet|21
+ушко|49
+l'hameçon|21
+рыболовный крючок|49
+l'amorce|21
+наживка|49
+l'épuisette|21
+подсачек|49
+le flotteur|21
+поплавок|49
+l'appât|21
+блесна|49
+la mouche|21
+мушка|49
+la bourriche|21
+садок|49
+la boîte d'équipement|21
+ящик для снастей|49
+le pêcheur|21
+рыболов|49
+la ligne|21
+леска|49
+la canne à pêche|21
+удилище|49
+le moulinet|21
+катушка (I)|49
+les bottes de pêche|21
+болотные сапоги|49
+la pêche en eau douce|21
+пресноводная рыбалка|49
+la pêche à la mouche|21
+ужение на муху|49
+la pêche sportive|21
+спортивная рыбалка|49
+la pêche hauturière|21
+глубоководная рыбалка|49
+la pêche au lancer en mer|21
+ловля в прибое|49
+lancer|21
+закидывать|49
+attraper|21
+ловить|49
+ramener|21
+сматывать|49
+prendre au filet|21
+ловить сетью|49
+lâcher|21
+выпускать|49
+le matériel de pêche|21
+снасти|49
+l'imperméable|21
+непромокаемый плащ|49
+le permis de pêche|21
+разрешение на вылов|49
+le panier de pêche|21
+корзина для рыбы|49
+mordre|21
+клевать|49
+le tambour|21
+катушка (II)|49
+la perche|21
+шест|49
+la pêche maritime|21
+морская рыбалка|49
+la pêche sous-marine|21
+ловля с острогой|49
+la pente de ski|21
+горнолыжный склон|49
+la télécabine|21
+канатная дорога|49
+le télésiège|21
+кресельный подъёмник|49
+la combinaison de ski|21
+лыжный костюм|49
+le bâton de ski|21
+лыжная палка|49
+la piste de ski|21
+лыжня|49
+le gant|21
+перчатка|49
+la skieuse|21
+лыжник|49
+la chaussure de ski|21
+лыжный ботинок|49
+le ski|21
+лыжа|49
+la carre|21
+боковая стенка|49
+la pointe|21
+носок|49
+la barrière de sécurité|21
+барьер безопасности|49
+la descente|21
+скоростной спуск|49
+le slalom|21
+слалом|49
+la porte|21
+ворота|49
+le saut|21
+фристайл|49
+le ski de randonnée|21
+лыжный кросс|49
+les sports d'hiver|21
+зимние виды|49
+l'escalade en glace|21
+ледовый альпинизм|49
+le patinage|21
+катание на коньках|49
+le patinage artistique|21
+фигурное катание|49
+le patin à glace|21
+конёк|49
+le surf des neiges|21
+сноубординг|49
+les lunettes de ski|21
+очки|49
+le bobsleigh|21
+бобслей|49
+la luge (I)|21
+тобоган|49
+l'autoneige|21
+аэросани|49
+la luge (II)|21
+катание на санях|49
+le ski alpin|21
+горные лыжи|49
+le traîneau à chiens|21
+гонки на собачьих упряжках|49
+le slalom géant|21
+гигантский слалом|49
+le patinage de vitesse|21
+конькобежный спорт|49
+hors piste|21
+сойти с трассы|49
+le biathlon|21
+биатлон|49
+le curling|21
+керлинг|49
+l'avalanche|21
+лавина|49
+le vol plané|21
+планеризм|49
+le planeur|21
+планер|49
+le deltaplane (II)|21
+дельтапланеризм|49
+le deltaplane (I)|21
+дельтаплан|49
+l'escalade|21
+скалолазание|49
+la corde|21
+трос|49
+le parachutisme|21
+парашютный спорт|49
+le parachute|21
+парашют|49
+le parapente|21
+парапланеризм|49
+le saut en chute libre|21
+затяжные прыжки с парашютом|49
+le rappel|21
+спусковой альпинизм|49
+le saut à l'élastique|21
+прыжок на эластичном тросе|49
+le rallye|21
+авторалли|49
+la course automobile|21
+автогонки|49
+le pilote de course|21
+гонщик|49
+le motocross|21
+мотокросс|49
+la course de moto|21
+мотогонки|49
+la planche à roulettes (II)|21
+скейтбординг|49
+la planche à roulettes (I)|21
+скейтборд|49
+le patinage á roulettes|21
+катание на роликовых коньках|49
+le patin á roulettes|21
+роликовый конёк|49
+le lacrosse|21
+лякросс|49
+la crosse|21
+кросс (клюшка)|49
+l'escrime|21
+фехтование|49
+le fleuret|21
+рапира|49
+le masque|21
+маска|49
+le bowling|21
+боулинг|49
+la quille|21
+кегля|49
+la boule de bowling|21
+шар для игры в боулинг|49
+le tir à l'arc|21
+стрельба из лука|49
+l'arc|21
+лук|49
+le tir à cible|21
+пулевая стрельба|49
+la cible|21
+мишень|49
+le billard américain|21
+бильярд|49
+le billard|21
+снукер|49
+le gymnase|21
+спортивный зал|49
+la barre|21
+штанга (I)|49
+les poids|21
+гантельный ряд|49
+le vélo d'entraînement|21
+велотренажёр|49
+l'appareil de gym|21
+жимовая скамья|49
+le banc|21
+атлетическая скамья|49
+la machine à ramer|21
+гребной тренажёр|49
+le tapis roulant|21
+беговая дорожка|49
+la machine de randonnée|21
+кроссовый тренажёр|49
+l'entraîneuse individuelle|21
+персональный тренер|49
+l'escalier d'entrainement|21
+шаговый тренажёр|49
+la piscine|21
+плавленый бассейн|49
+le sauna|21
+сауна|49
+les exercices|21
+упражнения|49
+la fente en avant|21
+выпад (I)|49
+l'étirement|21
+растяжка|49
+la traction|21
+выпад (II)|49
+le collant|21
+трико|49
+la flexion de jambes|21
+приседание|49
+le redressement assis|21
+качание корпуса|49
+l'exercice pour les biceps|21
+упражнение для бицепсов|49
+l'haltère|21
+гантель|49
+la traction pour les jambes|21
+ножной пресс|49
+l'entraînement poids et haltères|21
+тяжёлая атлетика|49
+la barre à poids|21
+штанга (II)|49
+les baskets|21
+спортивная обувь|49
+le jogging|21
+бег трусцой|49
+le maillot|21
+майка|49
+l'aérobic|21
+аэробика|49
+s'entraîner|21
+тренироваться|49
+jogger sur place|21
+бегать на месте|49
+étendre|21
+растягиваться|49
+les exercices Pilates|21
+упражнения пилатес|49
+l'entraînement en circuit|21
+комплекс упражнений|49
+s'échauffer|21
+разминаться|49
+fléchir|21
+прогибаться|49
+tirer|21
+подтягиваться|49
+l'aéroboxe|21
+боксёрские упражнения|49
+le saut à la corde|21
+прыжки через скакалку|49
+la scène|21
+сцена|49
+le rideau|21
+занавес|49
+les coulisses|21
+кулисы|49
+le décor|21
+декорация|49
+le public|21
+зрители|49
+l'orchestre (I)|21
+оркестр|49
+les places|21
+зрительный зал|49
+l'allée|21
+проход|49
+la corbeille|21
+первый ярус|49
+la rangée|21
+ряд|49
+le fauteuil|21
+кресло|49
+la deuxième galerie|21
+второй ярус|49
+la loge|21
+ложа|49
+le balcon|21
+балкон|49
+l'orchestre (II)|21
+партер|49
+la pièce de théâtre|21
+пьеса|49
+la distribution|21
+состав|49
+l'acteur|21
+актёр|49
+l'actrice|21
+актриса|49
+le metteur en scène (I)|21
+режиссёр|49
+la première|21
+премьера|49
+le metteur en scène (II)|21
+постановщик|49
+l'entracte|21
+антракт|49
+le texte|21
+инсценировка|49
+le programme|21
+программа|49
+la fosse d'orchestre|21
+оркестровая яма|49
+le concert|21
+концерт|49
+la comédie musicale|21
+мюзикл|49
+le ballet|21
+балет|49
+le costume|21
+костюм|49
+le placeur|21
+билетер|49
+la musique classique|21
+классическая музыка|49
+la partition|21
+партитура|49
+la bande sonore|21
+звуковая дорожка|49
+applaudir|21
+аплодировать|49
+le bis|21
+бис|49
+l'opéra|21
+опера|49
+le cinéma|21
+кино|49
+le pop-corn|21
+воздушная кукуруза|49
+la salle de cinéma|21
+кинотеатр|49
+l'écran|21
+экран|49
+l'affiche|21
+афиша|49
+la caisse|21
+касса|49
+le foyer|21
+фойе|49
+la comédie|21
+комедия|49
+le thriller|21
+триллер|49
+le film d'horreur|21
+фильм ужасов|49
+le western|21
+вестерн|49
+la comédie romantique|21
+лирическая комедия|49
+le filin de science-fiction|21
+научно-фантастический фильм|49
+le film d'aventures|21
+приключенческий фильм|49
+le film d'animation|21
+мультфильм|49
+les cordes|21
+струнные|49
+la harpe|21
+арфа|49
+le chef d'orchestre|21
+дирижёр|49
+le contrebasse|21
+контрабас|49
+le violon|21
+скрипка|49
+le podium|21
+подиум|49
+l'alto|21
+альт|49
+le violoncelle|21
+виолончель|49
+le piano|21
+фортепьяно|49
+la partition|21
+ноты|49
+la notation|21
+нотная запись|49
+la note|21
+нота|49
+la clé de sol|21
+скрипичный ключ|49
+la portée|21
+нотный стан|49
+l'ouverture|21
+увертюра|49
+la sonate|21
+соната|49
+le ton|21
+тональность|49
+le dièse|21
+диез|49
+la barre de mesure|21
+такт|49
+la gamme|21
+гамма|49
+la symphonie|21
+симфония|49
+les instruments|21
+музыкальные инструменты|49
+le silence|21
+пауза|49
+le bécarre|21
+бекар|49
+la baguette|21
+дирижёрская палочка|49
+les bois|21
+деревянные духовые|49
+le piccolo|21
+пикколо|49
+la flûte traversière|21
+флейта|49
+le hautbois|21
+гобой|49
+la clarinette|21
+кларнет|49
+la clarinette basse|21
+басовый кларнет|49
+le basson|21
+фагот|49
+le saxophone|21
+саксофон|49
+la percussion|21
+ударные|49
+la timbale|21
+литавра|49
+le gong|21
+гонг|49
+les bongos|21
+бонго|49
+la caisse claire|21
+малый барабан|49
+les cymbales|21
+тарелки|49
+le tambour|21
+бубен|49
+le vibraphone|21
+виброфон|49
+le triangle|21
+треугольник|49
+les maracas|21
+маракасы|49
+les cuivres|21
+медные духовые|49
+la trompette|21
+труба|49
+le trombone|21
+тромбон|49
+le cor|21
+валторна|49
+le tuba|21
+туба|49
+le concert de rock|21
+рок-концерт|49
+le chanteur|21
+вокалист|49
+le microphone|21
+микрофон|49
+le batteur|21
+ударник|49
+le guitariste|21
+гитарист|49
+les fans|21
+поклонники|49
+le haut-parleur|21
+усилитель|49
+le bassiste|21
+бас-гитарист|49
+la basse|21
+бас-гитара|49
+le pick-up|21
+адаптер|49
+le manche|21
+гриф|49
+le piano électronique|21
+синтезатор|49
+la guitare électrique|21
+электрогитара|49
+le chevaler|21
+кобылка|49
+le sillet|21
+лад|49
+le batterie|21
+ударная установка|49
+la cheville|21
+колок|49
+la corde|21
+струна|49
+le tambour|21
+барабан|49
+le jazz|21
+джаз|49
+le blues|21
+блюз|49
+la musique punk|21
+панк|49
+la musique folk|21
+фолк|49
+la pop|21
+поп|49
+la dance|21
+танцевальная музыка|49
+le rap|21
+рэп|49
+la heavy métal|21
+хэви-метал|49
+la musique classique|21
+классическая музыка|49
+la chanson|21
+песня|49
+les paroles|21
+текст|49
+la mélodie|21
+мелодия|49
+le beat|21
+ритм|49
+le reggae|21
+регги|49
+la country|21
+кантри|49
+le projecteur|21
+прожектор|49
+le touriste|21
+турист|49
+l'attraction touristique|21
+достопримечательность|49
+le bus touristique|21
+туристический автобус|49
+l'itinéraire|21
+маршрут|49
+à impériale|21
+открытый верх|49
+la tour guidé|21
+экскурсия|49
+les souvenirs|21
+сувениры|49
+la statuette|21
+статуэтка|49
+ouvert|21
+открыто|49
+la guide (II)|21
+путеводитель|49
+le caméscope|21
+видеокамера|49
+à gauche|21
+налево|49
+fermé|21
+закрыто|49
+la pellicule|21
+фотоплёнка|49
+l'appareil photo|21
+фотоаппарат|49
+à droite|21
+направо|49
+le prix d'entrée|21
+входная плата|49
+les piles|21
+батарейки|49
+les directions|21
+направления|49
+tout droit|21
+прямо|49
+les attractions|21
+достопримечательности|49
+le tableau|21
+живопись|49
+le musée d'art|21
+галерея|49
+l'objet exposé|21
+экспонат|49
+le monument|21
+монумент|49
+le musée|21
+музей|49
+l'exposition|21
+экспозиция|49
+le monument historique|21
+памятник архитектуры|49
+la ruine célèbre|21
+исторические руины|49
+le casino|21
+казино|49
+le parc|21
+парк|49
+le parc national|21
+национальный парк|49
+le plan d'étage|21
+план|49
+le plan|21
+карта|49
+l'horaire|21
+график движения|49
+les heures|21
+расписание|49
+l'information touristique|21
+туристическое справочное бюро|49
+le parc|21
+парк|49
+le sentier|21
+пешеходная тропа|49
+le cadran solaire|21
+солнечные часы|49
+le café|21
+кафе|49
+la pelouse|21
+трава|49
+le banc|21
+скамья|49
+les jardins à la française|21
+регулярный парк|49
+la foire|21
+луна-парк|49
+le parc d'attractions|21
+тематический парк|49
+la réserve|21
+сафари-парк|49
+le zoo|21
+зоопарк|49
+le vélo|21
+катание на велосипеде|49
+le jogging|21
+бег трусцой|49
+la planche à roulette|21
+катание на скейте|49
+le roller|21
+катание на роликовых коньках|49
+l'observation des oiseaux|21
+наблюдение за птицами|49
+l'équitation|21
+верховая езда|49
+la randonnée|21
+пешая прогулка|49
+le pique-nique|21
+пикник|49
+le panier à pique-nique|21
+корзина для пикника|49
+le terrain de jeux|21
+детская площадка|49
+le bac à sable|21
+песочница|49
+la pataugeoire|21
+лягушатник|49
+la balançoire|21
+качель|49
+la bascule|21
+доска-качалка|49
+le toboggan|21
+горка|49
+la cage à poules|21
+лесенка|49
+l'hôtel|21
+отель|49
+le parasol|21
+пляжный зонтик|49
+la cabine de plage|21
+пляжная кабинка|49
+le sable|21
+песок|49
+la vague|21
+волна|49
+la mer|21
+море|49
+le sac de plage|21
+пляжная сумка|49
+le bikini|21
+бикини|49
+prendre un bain de soleil|21
+загорать|49
+la tour de surveillance|21
+вышка спасателя|49
+le pare-vent|21
+экран от ветра|49
+la promenade|21
+променад|49
+le transat|21
+шезлонг|49
+les lunettes de soleil|21
+солнцезащитные очки|49
+le chapeau de plage|21
+панама|49
+la lotion solaire|21
+лосьон для загара|49
+l'écran total|21
+солнцезащитный крем|49
+le ballon de plage|21
+пляжный мяч|49
+la bouée|21
+надувной круг|49
+la serviette de plage|21
+пляжное полотенце|49
+le coquillage|21
+ракушка|49
+le château de sable|21
+замок из песка|49
+la pelle|21
+совок|49
+le maillot de bain|21
+купальник|49
+le seau|21
+ведёрко|49
+les toilettes|21
+туалеты|49
+les poubelles|21
+мусорные контейнеры|49
+les douches|21
+душевые кабины|49
+le branchement électrique|21
+подключение к электропитанию|49
+le double toit|21
+откидное полотнище палатки|49
+le piquet|21
+колышек|49
+le terrain de camping|21
+территория кемпинга|49
+la corde|21
+растяжка|49
+la caravane|21
+автофургон|49
+camper|21
+располагаться лагерем|49
+l'emplacement|21
+площадка для палатки|49
+le banc à pique-nique|21
+столик для пикника|49
+le charbon de bois|21
+древесный уголь|49
+le bureau du chef|21
+офис коменданта кемпинга|49
+monter une tente|21
+ставить палатку|49
+le hamac|21
+гамак|49
+l'allume-feu|21
+горючая жидкость|49
+les emplacements de libre|21
+есть свободные места для палаток|49
+le mât|21
+шест палатки|49
+l'autocaravane|21
+трейлер|49
+allumer un feu|21
+развести огонь|49
+complet|21
+свободных мест нет|49
+le lit de camp|21
+походная кровать|49
+la remorque|21
+автоприцеп|49
+le feu de camp|21
+костёр|49
+la tente|21
+палатка|49
+la bouteille d'eau|21
+фляжка|49
+le sac à dos|21
+рюкзак|49
+le cadre|21
+каркас|49
+le tapis de sol (I)|21
+пол|49
+le thermos|21
+термос|49
+le spray contre les insectes|21
+аэрозоль от насекомых|49
+la lampe torche|21
+фонари|49
+les sous-vêtements thermiques|21
+термобельё|49
+la moustiquaire|21
+противомоскитная сетка|49
+le sac de couchage|21
+спальный мешок|49
+l'imperméable|21
+непромокаемая одежда|49
+les chaussures de marche|21
+туристические ботинки|49
+le réchaud barbecue|21
+походная плитка|49
+le barbecue|21
+гриль|49
+le matelas pneumatique|21
+надувной матрас|49
+le baladeur CD|21
+CD-плеер|49
+l'enregistreur minidisc|21
+минидисковый плеер|49
+le baladeur MP3|21
+МРЗ-плеер|49
+le lecteur DVD|21
+DVD-плеер|49
+le DVD|21
+ДиВиДи-диск|49
+la chaîne hi-fi|21
+акустическая стереосистема|49
+le lecteur CD|21
+CD-проигрыватель|49
+la radio|21
+радиоприёмник|49
+l'amplificateur|21
+усилитель|49
+les écouteurs|21
+наушники|49
+le tourne-disque|21
+проигрыватель-вертушка|49
+le support|21
+стойки колонки|49
+le baffle|21
+колонка|49
+la vidéocassette|21
+видеокассета|49
+le magnétoscope|21
+видеомагнитофон|49
+le caméscope|21
+видеокамера|49
+l'écran|21
+экран|49
+l'oeilleton|21
+окуляр|49
+l'antenne parabolique|21
+спутниковая антенна|49
+la télévision grand écran|21
+широкоэкранный телевизор|49
+le jeu vidéo|21
+видео игра|49
+la commande|21
+джойстик|49
+la console|21
+консоль|49
+la télécommande|21
+пульт дистанционного управления|49
+la lecture|21
+пуск|49
+le retour rapide|21
+перемотка назад|49
+le volume|21
+громкость|49
+l'avance rapide|21
+перемотка вперёт|49
+la pause|21
+пауза|49
+l'enregistrement|21
+запись|49
+l'arrêt|21
+остановка|49
+le CD|21
+компакт-диск|49
+le film|21
+художественный фильм|49
+la télévision par câble|21
+кабельное телевидение|49
+stéréo|21
+стерео|49
+regarder la télévision|21
+смотреть телевизор|49
+la cassette|21
+кассета|49
+la publicité|21
+реклама|49
+le programme|21
+программа|49
+changer de chaîne|21
+переключить канал|49
+régler la radio|21
+настроить радиоприёмник|49
+le lecteur cassettes|21
+кассетный плеер|49
+allumer la télévision|21
+включить телевизор|49
+la chaîne à péage|21
+платный канал|49
+éteindre la télévision|21
+выключить телевизор|49
+l'appareil réflex mono-objectif|21
+аналоговая фотокамера|49
+le réglage du temps de pose|21
+регулировка экспозиции|49
+le déclencheur|21
+затвор|49
+le compteur de vues|21
+счётчик кадров|49
+le flash|21
+вспышка|49
+le réglage de l'ouverture|21
+регулировка диафрагмы|49
+l'objectif|21
+объектив|49
+le filtre|21
+фильтр|49
+le bouchon l'objectif|21
+колпачок объектива|49
+le flash compact|21
+выносная вспышка|49
+le posemètre|21
+экспонометр|49
+le zoom|21
+выдвижной объектив ''зум''|49
+le trépied|21
+штатив|49
+l'appareil numérique|21
+цифровой фотоаппарат|49
+l'appareil photo APS|21
+APS-фотоаппарат|49
+l'appareil instantané|21
+полароид|49
+l'appareil jetable|21
+одноразовый фотоаппарат|49
+photographier|21
+фотографировать|49
+la pellicule|21
+фотоплёнка|49
+le rouleau de pellicule|21
+кассета с фотоплёнкой|49
+mettre au point|21
+наводить 	резкость|49
+développer|21
+проявлять|49
+le négatif|21
+негатив|49
+paysage|21
+пейзаж|49
+l'album de photos|21
+фотоальбом|49
+le cadre de photo|21
+фотография в рамке|49
+les problèmes|21
+проблемы|49
+sous-exposé|21
+недодержка|49
+surexpose|21
+передержка|49
+flou|21
+не в фокусе|49
+la tâche rouge|21
+красные глаза|49
+le viseur|21
+видоискатель|49
+l'épreuve|21
+печать|49
+le sac d'appareil photo|21
+футляр для фотоаппарата|49
+mat|21
+матовая|49
+la pose|21
+экспозиция|49
+brillant|21
+глянцевая|49
+la chambre noire|21
+фотолаборатория|49
+l'agrandissement|21
+увеличение|49
+les échecs|21
+шахматы|49
+le cavalier|21
+конь|49
+le pion (I)|21
+пешка|49
+l'échiquier|21
+шахматная доска|49
+noir|21
+чёрное поле|49
+blanc|21
+белое поле|49
+la dame|21
+ферзь|49
+le roi|21
+король|49
+le fou|21
+слон|49
+la tour|21
+ладья|49
+les dames|21
+шашки|49
+la case|21
+квадрат|49
+le pion (II)|21
+шашка|49
+le scrabble|21
+скрэббл|49
+la pièce|21
+костяшка|49
+le trictrac|21
+нарды|49
+le dé|21
+кость|49
+les jeux de société|21
+настольные игры|49
+le jeton|21
+фишка|49
+le Monopoly|21
+монополия|49
+la philatélie|21
+филателия|49
+le puzzle|21
+пазл|49
+les dominos|21
+домино|49
+les cartes|21
+карты|49
+l'as|21
+туз|49
+le valet|21
+валет|49
+le joker|21
+джокер|49
+le carreau|21
+бубны|49
+le pique|21
+пики|49
+le coeur|21
+червы|49
+le trèfle|21
+трефы|49
+donner|21
+сдавать|49
+battre|21
+тасовать|49
+le coup|21
+ход|49
+gagner|21
+выигрывать|49
+le perdant|21
+проигравший|49
+le point|21
+очко|49
+le bridge|21
+бридж|49
+jouer|21
+играть|49
+le gagnant|21
+выигравший|49
+le jeu|21
+игра|49
+la marque|21
+счёт|49
+le joueur|21
+игрок|49
+perdre|21
+проигрывать|49
+le pari|21
+ставка|49
+le poker|21
+покер|49
+la couleur|21
+масть|49
+la peinture|21
+живопись|49
+l'artiste peintre|21
+художник|49
+le chevalet|21
+мольберт|49
+la toile|21
+холст|49
+le pinceau|21
+кисть|49
+la palette|21
+палитра|49
+les couleurs (I)|21
+цвета|49
+rouge|21
+красный|49
+bleu|21
+синий|49
+jaune|21
+жёлтый|49
+vert|21
+зелёный|49
+orange|21
+оранжевый|49
+violet|21
+фиолетовый|49
+blanc|21
+белый|49
+noir|21
+чёрный|49
+gris|21
+серый|49
+rose|21
+розовый|49
+marron|21
+коричневый|49
+indigo|21
+индиго|49
+les couleurs (II)|21
+краски|49
+les couleurs à l'huile|21
+масляные краски|49
+la couleur a l'eau|21
+акварельные краски|49
+les pastels|21
+пастели|49
+l'acrylique|21
+акриловые краски|49
+la gouache|21
+гуашь|49
+le dessin|21
+рисунок|49
+le fusain|21
+уголь|49
+l'encre|21
+тушь|49
+le croquis|21
+эскиз|49
+le carnet à croquis|21
+альбом для рисования|49
+le crayon|21
+карандаш|49
+l'imprimerie|21
+эстамп|49
+la gravure|21
+гравюра|49
+la sculpture|21
+скульптура|49
+la pierre|21
+камень|49
+le maillet|21
+деревянный молоток|49
+la sculpture sur bois|21
+резьба по дереву|49
+le burin|21
+резец|49
+le bois|21
+дерево|49
+le collage|21
+коллаж|49
+la colle|21
+клей|49
+le carton|21
+картон|49
+la poterie|21
+керамика|49
+l'argile|21
+глина|49
+le tour de potier|21
+гончарный круг|49
+la spatule|21
+формовочный инструмент|49
+la joaillerie|21
+ювелирное дело|49
+le papier mâché|21
+папье-маше|49
+l'origami|21
+оригами|49
+le modélisme|21
+моделирование|49
+la machine à coudre|21
+швейная машина|49
+la platine|21
+игольная пластина|49
+l'aiguille|21
+игла|49
+le guide de fil|21
+нитенаправитель|49
+la bobine de fil|21
+катушка ниток|49
+le balancier|21
+маховик|49
+le sélecteur de point|21
+выбор шва|49
+les ciseaux|21
+ножницы|49
+le patron|21
+выкройка|49
+le centimètre|21
+сантиметр|49
+le tissu (I)|21
+материал|49
+la corbeille à couture|21
+портняжная корзинка|49
+la pelote à épingles|21
+подушечка для булавок|49
+la bobine|21
+шпулька|49
+le fil|21
+нить|49
+l'agrafe|21
+крючок|49
+l'oeillet|21
+петелька|49
+de á coudre|21
+напёрсток|49
+la craie de tailleur|21
+портновский мелок|49
+le mannequin|21
+портновский манекен|49
+coudre|21
+шить|49
+le point|21
+шов|49
+repriser|21
+штопать|49
+bâtir|21
+намётывать|49
+couper|21
+кроить|49
+la tapisserie|21
+вышивка крестиком|49
+la broderie|21
+вышивка гладью|49
+le crochet|21
+вязание крючком|49
+l'ouvrage au crochet|21
+вязальный крючок|49
+le macramé|21
+макраме|49
+le patchwork|21
+лоскутное шитье|49
+l'ouatage|21
+стёжка|49
+la dentelle|21
+плетение кружев|49
+le fuseau|21
+коклюшка|49
+le tissage|21
+ткачество|49
+le métier à tisser|21
+ткацкий станок|49
+le tricote|21
+вязание|49
+l'aiguille à tricoter|21
+вязальная спица|49
+l'écheveau|21
+моток пряжи|49
+défaire|21
+распарывать|49
+le nylon|21
+нейлон|49
+le tissu (II)|21
+ткань|49
+la soie|21
+шёлк|49
+le coton|21
+хлопок|49
+le styliste|21
+модельер|49
+le polyester|21
+полиэстер|49
+la fermeture éclair|21
+застёжка-молния|49
+le système solaire|21
+Солнечная система|49
+le soleil|21
+Солнце|49
+la Vénus|21
+Венера|49
+la Mercure|21
+Меркурий|49
+la Terre|21
+земля|49
+la Mars|21
+Марс|49
+la Jupiter|21
+Юпитер|49
+la Saturne|21
+Сатурн|49
+l'Uranus|21
+Уран|49
+la Neptune|21
+Нептун|49
+la Pluton|21
+Плутон|49
+la galaxie|21
+галактика|49
+la nébuleuse|21
+туманность|49
+l'astéroïde|21
+астероид|49
+la comète|21
+комета|49
+l'univers|21
+Вселенная|49
+la planète|21
+планета|49
+la pleine lune|21
+полнолуние|49
+l'orbite|21
+орбита|49
+le météore|21
+метеор|49
+la nouvelle lune|21
+новолуние|49
+la pesanteur|21
+гравитация|49
+le trou noir|21
+чёрная дыра|49
+le croissant de lune|21
+полумесяц|49
+l'exploration spatiale|21
+освоение космоса|49
+l'astronaute|21
+астронавт|49
+le module lunaire|21
+лунный модуль|49
+le lancement|21
+запуск|49
+la rampe de lancement|21
+стартовая площадка|49
+la fusée d'orientation|21
+двигатель малой тяги|49
+le sas d'équipage|21
+люк кабины экипажа|49
+le radar|21
+радар|49
+le scaphandre spatial|21
+космический скафандр|49
+l'accélérateur|21
+ускоритель|49
+la navette spatiale|21
+космический шаттл|49
+le satellite|21
+спутник|49
+la station spatiale|21
+космическая станция|49
+l'astronomie|21
+астрономия|49
+la constellation|21
+созвездие|49
+les jumelles|21
+бинокль|49
+le trépied|21
+штатив|49
+le télescope|21
+телескоп|49
+le pôle|21
+полюс|49
+l'océan|21
+океан|49
+la mer|21
+море|49
+le continent|21
+континент|49
+l'île|21
+остров|49
+la péninsule|21
+полуостров|49
+la chaîne de montagnes|21
+горный хребет|49
+la terre|21
+суша|49
+la planète|21
+планета|49
+le noyau intérieur|21
+внутреннее ядро|49
+le manteau|21
+мантия|49
+l'atmosphère|21
+атмосфера|49
+l'écorce|21
+земная кора|49
+le noyau extérieur|21
+внешнее ядро|49
+le cercle polaire arctique|21
+Северный полярный круг|49
+le tropique du cancer|21
+Северный тропик|49
+les tropiques|21
+тропики|49
+le tropique du capricorne|21
+Южный тропик|49
+les zones|21
+климатические пояса|49
+l'équateur|21
+экватор|49
+l'hémisphère sud|21
+Южное полушарие|49
+la latitude|21
+широта|49
+la longitude|21
+долгота|49
+l'hémisphère nord|21
+Северное Полушарие|49
+le pôle nord|21
+Северный полюс|49
+le volcan|21
+вулкан|49
+la chambre|21
+камера|49
+le magma|21
+магма|49
+la cheminée|21
+жерло|49
+la lave|21
+лава|49
+la cendre|21
+пепел|49
+le cratère|21
+кратер|49
+le tremblement de terre|21
+землетрясение|49
+la plaque|21
+плита|49
+entrer en éruption|21
+извергаться|49
+le tremblement|21
+толчок|49
+la montagne|21
+гора|49
+la pente|21
+склон|49
+la rive|21
+берег|49
+la rivière|21
+река|49
+les rapides|21
+пороги|49
+les rochers|21
+утёсы|49
+le glacier|21
+ледник|49
+la colline|21
+холм|49
+le plateau|21
+плоскогорье|49
+la gorge|21
+ущелье|49
+la caverne|21
+пещера|49
+la vallée|21
+долина|49
+la plaine|21
+равнина|49
+le désert|21
+пустыня|49
+le forêt|21
+лес|49
+le bois|21
+бор|49
+le forêt tropicale|21
+тропический лес|49
+le marais|21
+болото|49
+le pré|21
+луг|49
+la prairie|21
+степь|49
+la cascade|21
+водопад|49
+le ruisseau|21
+ручей|49
+le lac|21
+озеро|49
+le geyser|21
+гейзер|49
+la côte|21
+побережье|49
+la falaise|21
+скала|49
+le récif de corail|21
+коралловый риф|49
+l'estuaire|21
+эстуарий|49
+l'atmosphère|21
+атмосфера|49
+la couche d'ozone|21
+озоновый слой|49
+les rayons ultraviolets|21
+ультрафиолетовые лучи|49
+l'ionosphère|21
+ионосфера|49
+l'aurore|21
+полярное сияние|49
+l'exosphère|21
+экзосфера|49
+la thermosphere|21
+термосфера|49
+la mésosphère|21
+мезосфера|49
+la stratosphère|21
+стратосфера|49
+la troposphère|21
+тропосфера|49
+le soleil|21
+хорошая погода|49
+le vent|21
+ветер|49
+la neige fondue|21
+дождь со снегом|49
+l'averse|21
+ливень|49
+très chaud|21
+жарко|49
+sec|21
+сухо|49
+venteux|21
+ветрено|49
+la grêle|21
+град|49
+ensoleillé|21
+солнечно|49
+froid|21
+холодно|49
+humide (II)|21
+сыро|49
+la tempête|21
+буря|49
+le tonnerre|21
+гром|49
+nuageux|21
+пасмурно|49
+chaud|21
+тепло|49
+humide (I)|21
+влажно|49
+la température|21
+температура|49
+le nuage|21
+облако|49
+la pluie|21
+дождь|49
+l'orage|21
+гроза|49
+la brume|21
+дымка|49
+le brouillard|21
+туман|49
+l'arc-en-ciel|21
+радуга|49
+la neige|21
+снег|49
+le givre|21
+иней|49
+la glace|21
+лёд|49
+le gel|21
+мороз|49
+l'hurricane|21
+ураган|49
+la tornade|21
+торнадо|49
+la mousson|21
+муссон|49
+l'inondation|21
+наводнение|49
+igné|21
+вулканические|49
+le granit|21
+гранит|49
+l'obsidienne|21
+обсидиан|49
+le basalte|21
+базальт|49
+la pierre ponce|21
+пемза|49
+sédimentaire|21
+осадочные|49
+le grès|21
+песчаник|49
+le calcaire|21
+известняк|49
+la craie|21
+мел|49
+le silex|21
+кремень|49
+le conglomérat|21
+конгломерат|49
+le charbon|21
+каменный уголь|49
+métamorphique|21
+метаморфические|49
+l'ardoise|21
+шиферный сланец|49
+le schiste|21
+аспидный сланец|49
+le gneiss|21
+гнейс|49
+le marbre|21
+мрамор|49
+les gemmes|21
+драгоценные камни|49
+l'améthyste|21
+аметист|49
+le rubis|21
+рубин|49
+le jais|21
+гагат|49
+l'opale|21
+опал|49
+la pierre de lune|21
+лунный камень|49
+le grenat|21
+гранат|49
+la topaze|21
+топаз|49
+la tourmaline|21
+турмалин|49
+le saphir|21
+сапфир|49
+l'émeraude|21
+изумруд|49
+le jade|21
+нефрит|49
+l'algue-marine|21
+аквамарин|49
+le quartz|21
+кварц|49
+la mica|21
+слюда|49
+le soufre|21
+сера|49
+l'hématite|21
+красный железняк|49
+la calcite|21
+известковый шпат|49
+la malachite|21
+малахит|49
+la turquoise|21
+бирюза|49
+l'onyx|21
+оникс|49
+l'agate|21
+агат|49
+le graphite|21
+графит|49
+les métaux|21
+металлы|49
+l'or|21
+золото|49
+le platine|21
+платина|49
+le nickel|21
+никель|49
+le fer|21
+железо|49
+le cuivre|21
+медь|49
+l'étain|21
+олово|49
+l'aluminium|21
+алюминий|49
+le mercure|21
+ртуть|49
+le zinc|21
+цинк|49
+les mammifères|21
+млекопитающие|49
+le lapin|21
+кролик|49
+le hamster|21
+хомяк|49
+la souris|21
+мышь|49
+les poils|21
+усы|49
+le rat|21
+крыса|49
+la queue|21
+хвост|49
+l'écureuil|21
+белка|49
+la chauve-souris|21
+летучая мышь|49
+le raton laveur|21
+енот|49
+le renard|21
+лисица|49
+le loup|21
+волк|49
+le chien|21
+собака|49
+le chiot|21
+щенок|49
+le chat|21
+кошка|49
+le chaton|21
+котёнок|49
+la loutre|21
+выдра|49
+le phoque|21
+тюлень|49
+le bébé-phoque|21
+детёныш тюленя|49
+l'otarie|21
+морской лев|49
+le morse|21
+морж|49
+la nageoire|21
+ласт|49
+la baleine|21
+кит|49
+l'évent|21
+дыхало|49
+le dauphin|21
+дельфин|49
+le cerf|21
+олень|49
+la ramure|21
+рог (I)|49
+le zèbre|21
+зебра|49
+le sabot|21
+копыто|49
+la crinière|21
+грива|49
+la girafe|21
+жираф|49
+l'hippopotame|21
+гиппопотам|49
+l'éléphant|21
+слон|49
+la défense|21
+бивень|49
+la trompe|21
+хобот|49
+le rhinocéros|21
+носорог|49
+le tigre|21
+тигр|49
+le lion|21
+лев|49
+le singe|21
+обезьяна|49
+le gorille|21
+горилла|49
+le koala|21
+коала|49
+le kangourou|21
+кенгуру|49
+la poche|21
+сумка|49
+l'ours|21
+медведь|49
+la griffe|21
+коготь|49
+l'ours blanc|21
+белый медведь|49
+le panda|21
+панда|49
+les amphibiens|21
+земноводные|49
+les oiseaux|21
+птицы|49
+le canari|21
+канарейка|49
+le moineau|21
+воробей|49
+le colibri|21
+колибри|49
+l'hirondelle|21
+ласточка|49
+le corbeau|21
+ворона|49
+le pigeon|21
+голубь|49
+le pic|21
+дятел|49
+le faucon|21
+сокол|49
+chouette|21
+сова|49
+la mouette|21
+чайка|49
+l'aigle|21
+орёл|49
+le pélican|21
+пеликан|49
+le flamant|21
+фламинго|49
+la cigogne|21
+аист|49
+la grue|21
+журавль|49
+le pingouin|21
+пингвин|49
+l'autruche|21
+страус|49
+l'oie|21
+гусь|49
+le cygne|21
+лебедь|49
+le faisan|21
+фазан|49
+le paon|21
+павлин|49
+le dindon|21
+индюк|49
+le cacatoès|21
+какаду|49
+le perroquet|21
+попугай|49
+le bec|21
+клюв|49
+la plume|21
+перо|49
+l'aile|21
+крыло|49
+les reptiles|21
+пресмыкающиеся|49
+l'alligator|21
+аллигатор|49
+les écailles|21
+костная чешуи|49
+le lézard|21
+ящерица|49
+l'iguane|21
+игуана|49
+la tortue marine|21
+морская черепаха|49
+la carapace|21
+панцирь|49
+la tortue|21
+черепаха|49
+le serpent|21
+змея|49
+le crocodile|21
+крокодил|49
+les animaux|21
+животные|49
+la grenouille|21
+лягушка|49
+le crapaud|21
+жаба|49
+le têtard|21
+головастик|49
+la salamandre|21
+саламандра|49
+les poissons|21
+рыбы|49
+l'anguille|21
+угорь|49
+le requin|21
+акула|49
+l'hippocampe|21
+морской конёк|49
+la raie|21
+гладкий скат|49
+le poisson rouge|21
+золотая рыбка|49
+l'espadon|21
+рыба-меч|49
+l'ouïe|21
+жабры|49
+la nageoire dorsale|21
+спинной плавник|49
+la carpe koï‎|21
+карп кои|49
+la nageoire pectorale|21
+грудной плавник|49
+l'écaille|21
+чешуя|49
+les invertébrés|21
+беспозвоночные|49
+la fourmi|21
+муравей|49
+la termite|21
+термит|49
+l'abeille|21
+пчела|49
+la guêpe|21
+оса|49
+le scarabée|21
+жук|49
+le cafard|21
+таракан|49
+le papillon de nuit|21
+моль|49
+le papillon|21
+бабочка|49
+le cocon|21
+кокон|49
+la chenille|21
+гусеница|49
+le grillon|21
+сверчок|49
+la sauterelle|21
+кузнечик|49
+la mante religieuse|21
+богомол|49
+le scorpion|21
+скорпион|49
+le mille-pattes|21
+сороконожка|49
+la libellule|21
+стрекоза|49
+la mouche|21
+муха|49
+le moustique|21
+комар|49
+la coccinelle|21
+божья коровка|49
+l'araignée|21
+паук|49
+la limace|21
+слизняк|49
+l'escargot|21
+улитка|49
+le ver|21
+червь|49
+l'étoile de mer|21
+морская звезда|49
+la moule|21
+мидия|49
+le crabe|21
+краб|49
+le homard|21
+омар|49
+la pieuvre|21
+осьминог|49
+le calmar|21
+кальмар|49
+la méduse|21
+медуза|49
+l'arbre|21
+дерево|49
+le chêne|21
+дуб|49
+la racine|21
+корень|49
+la branche|21
+ветвь|49
+l'écorce|21
+кора|49
+le tronc|21
+ствол|49
+la feuille|21
+лист|49
+la brindille|21
+веточка|49
+le saule|21
+ива|49
+le peuplier|21
+тополь|49
+l'eucalyptus|21
+эвкалипт|49
+le mélèze|21
+лиственница|49
+le hêtre|21
+бук|49
+le bouleau|21
+берёза|49
+le pin|21
+сосна|49
+le cèdre|21
+кедр|49
+l'érable|21
+клён|49
+l'orme|21
+вяз|49
+le tilleul|21
+липа|49
+le houx|21
+падуб|49
+la baie|21
+ягода|49
+le palmier|21
+пальма|49
+la plante à fleurs|21
+цветущее растение|49
+la fleur|21
+цветок|49
+l'étamine|21
+тычинка|49
+le pétale|21
+лепесток|49
+la tige (II)|21
+черешок|49
+la tige (I)|21
+стебель|49
+le bouton|21
+бутон|49
+le calice|21
+чашечка|49
+la renoncule|21
+лютик|49
+la pâquerette|21
+ромашка|49
+le chardon|21
+чертополох|49
+le pissenlit|21
+одуванчик|49
+la bruyère|21
+вереск|49
+le coquelicot|21
+мак|49
+la digitale|21
+наперстянка|49
+le chèvrefeuille|21
+жимолость|49
+le tournesol|21
+подсолнечник|49
+le trèfle|21
+клевер|49
+les jacinthes des bois|21
+колокольчик|49
+la primevère|21
+примула|49
+les lupins|21
+люпин|49
+l'ortie|21
+крапива|49
+la rue|21
+улица|49
+le bord du trottoir|21
+бордюр|49
+le coin de la rue|21
+угол улицы|49
+le magasin|21
+магазин|49
+le carrefour|21
+перекрёсток|49
+la voie à sens unique|21
+одностороннее движение|49
+le trottoir|21
+тротуар|49
+l'immeuble de bureaux|21
+офисное здание|49
+l'immeuble|21
+жилой дом|49
+le lampadaire|21
+уличное освещение|49
+la borne|21
+тумба|49
+le panneau de signalisation|21
+указатель|49
+le parking|21
+автостоянка|49
+la ruelle|21
+переулок|49
+les bâtiments|21
+здания|49
+la mairie|21
+ратуша|49
+la bibliothèque|21
+библиотека|49
+le cinéma|21
+кинотеатр|49
+le théâtre|21
+театр|49
+l'université|21
+университет|49
+l'école|21
+школа|49
+le gratte-ciel|21
+небоскрёб|49
+les environs|21
+районы|49
+la zone industrielle|21
+промышленная зона|49
+la ville|21
+центр|49
+la banlieue|21
+предместье|49
+le village|21
+деревня|49
+la zone piétonnière|21
+пешеходная зона|49
+la rue transversale|21
+боковая улица|49
+le caniveau|21
+водосток|49
+l'église|21
+церковь|49
+l'avenue|21
+проспект|49
+la place|21
+площадь|49
+l'arrêt de bus|21
+автобусная остановка|49
+l'usine|21
+фабрика|49
+l'égout|21
+канализация|49
+le gratte-ciel|21
+небоскрёб|49
+le château|21
+замок|49
+la tourelle|21
+башенка|49
+la douve|21
+ров|49
+l'église|21
+церковь|49
+la mosquée|21
+мечеть|49
+le temple|21
+храм|49
+la synagogue|21
+синагога|49
+le barrage|21
+плотина|49
+le pont|21
+мост|49
+la cathédrale|21
+собор|49
+la colonne|21
+колонна|49
+la corniche|21
+карниз|49
+la tour|21
+башня|49
+le pignon|21
+фронтон (I)|49
+le fleuron|21
+флерон|49
+la flèche|21
+шпиль|49
+gothique|21
+готика|49
+l'arc|21
+арка|49
+la frise|21
+фриз|49
+Renaissance|21
+Ренессанс|49
+l'architrave|21
+архитрав|49
+baroque|21
+барокко|49
+rococo|21
+рококо|49
+le choeur|21
+хоры|49
+le contrefort|21
+контрфорс|49
+néoclassique|21
+неоклассицизм|49
+le fronton|21
+фронтон (II)|49
+art nouveau|21
+арт нуво|49
+art déco|21
+арт-деко|49
+l'horloge|21
+часы|49
+la grande aiguille|21
+минутная стрелка|49
+la petite aiguille|21
+часовая стрелка|49
+une heure cinq|21
+пять минут второго|49
+une heure dix|21
+десять минут второго|49
+une heure et quart|21
+четверть второго|49
+une heure vingt|21
+двадцать минут второго|49
+une heure vingt-cinq|21
+двадцать пять минут второго|49
+une heure trente|21
+половина второго|49
+deux heures moins vingt-cinq|21
+без двадцати два|49
+deux heures moins le quart|21
+без четверти два|49
+deux heure moins dix|21
+без десяти два|49
+deux heures moins cinq|21
+без пяти два|49
+deux heures|21
+два часа|49
+l'heure|21
+час|49
+maintenant|21
+сейчас|49
+quarante minutes|21
+сорок минут|49
+la minute|21
+минута|49
+plus tard|21
+потом|49
+vingt minutes|21
+двадцать минут|49
+la seconde|21
+секунда|49
+une demi-heure|21
+полчаса|49
+le minuit|21
+полночь|49
+le lever du soleil|21
+восход солнца|49
+l'aube|21
+рассвет|49
+le matin|21
+утро|49
+le coucher du soleil|21
+закат солнца|49
+le midi|21
+полдень|49
+le crépuscule|21
+сумерки|49
+le soir|21
+вечер|49
+l'après-midi|21
+после полудня|49
+tôn|21
+рано|49
+à l'heure|21
+вовремя|49
+tard|21
+поздно|49
+l'an|21
+год|49
+le mois|21
+месяц|49
+le jour|21
+день|49
+le jour ouvrable|21
+рабочий день|49
+la semaine|21
+неделя|49
+la date|21
+число|49
+hier|21
+вчера|49
+aujourd'hui|21
+сегодня|49
+demain|21
+завтра|49
+le week-end|21
+выходные дни|49
+lundi|21
+понедельник|49
+mardi|21
+вторник|49
+mercredi|21
+среда|49
+jeudi|21
+четверг|49
+vendredi|21
+пятница|49
+samedi|21
+суббота|49
+dimanche|21
+воскресенье|49
+janvier|21
+январь|49
+février|21
+февраль|49
+mars|21
+март|49
+avril|21
+апрель|49
+mai|21
+май|49
+juin|21
+июнь|49
+juillet|21
+июль|49
+août|21
+август|49
+septembre|21
+сентябрь|49
+octobre|21
+октябрь|49
+novembre|21
+ноябрь|49
+décembre|21
+декабрь|49
+les saisons|21
+времена года|49
+le printemps|21
+весна|49
+l'été|21
+лето|49
+l'automne|21
+осень|49
+l'hiver|21
+зима|49
+le siècle|21
+век|49
+la décennie|21
+десятилетие|49
+le millénaire|21
+тысячелетие|49
+quinze jours|21
+две недели|49
+cette semaine|21
+эта неделя|49
+la semaine dernière|21
+прошлая неделя|49
+la semaine prochaine|21
+следующая неделя|49
+avant-hier|21
+позавчера|49
+après-demain|21
+послезавтра|49
+hebdomadaire|21
+еженедельно|49
+mensuel|21
+ежемесячно|49
+annuel|21
+ежегодный|49
+la superficie|21
+площадь|49
+le pied carré|21
+квадратный фут|49
+le mètre carré|21
+квадратный метр|49
+la distance|21
+расстояние|49
+le kilomètre|21
+километр|49
+le mile|21
+миля|49
+la balance|21
+весы|49
+l'once|21
+унция|49
+le kilogramme|21
+килограмм|49
+le gramme|21
+грамм|49
+le yard|21
+ярд|49
+le mètre|21
+метр|49
+la tonne|21
+тонна|49
+le milligramme|21
+миллиграмм|49
+mesurer|21
+измерять|49
+peser|21
+взвешивать|49
+la longueur|21
+длина|49
+le millimètre|21
+миллиметр|49
+le centimètre|21
+сантиметр|49
+le pied|21
+фут|49
+le pouce|21
+дюйм|49
+la capacité|21
+ёмкость (I)|49
+le demi-litre|21
+пол-литра|49
+la pinte|21
+пинта|49
+le millilitre|21
+миллилитр|49
+le pot gradué|21
+мерная кружка|49
+le volume|21
+ёмкость (II)|49
+le récipient|21
+тара|49
+le carton|21
+картонный пакет|49
+le paquet (I)|21
+бумажный пакет|49
+la bouteille|21
+бутылка|49
+le sac|21
+мешок|49
+le pot (II)|21
+пластиковая коробка|49
+le pot (I)|21
+стеклянная банка|49
+la boîte|21
+жестяная банка|49
+le pulvérisateur|21
+пульверизатор|49
+le tube|21
+тюбик|49
+le rouleau|21
+рулон|49
+la bombe|21
+аэрозольный баллон|49
+la mer du Nord|21
+Северное море|49
+l'océan Arctique|21
+Северный Ледовитый океан|49
+les Rocheuses|21
+Скалистые Горы|49
+la mer des Antilles|21
+Карибское море|49
+l'Amazonie|21
+Амазония|49
+l'océan Pacifique|21
+Тихий океан|49
+les Andes|21
+Анды|49
+l'océan Atlantique|21
+Атлантический океан|49
+l'océan Austral|21
+Южный океан|49
+le Sahara|21
+Пустыня Сахара|49
+la mer Rouge|21
+Красное море|49
+l'océan Indien|21
+Индийский океан|49
+la mer d'Arabie|21
+Аравийское море|49
+l'Himalaya|21
+Гималаи|49
+la mer Caspienne|21
+Каспийское море|49
+la mer Noire|21
+Чёрное море|49
+la Sibérie|21
+Сибирь|49
+la Méditerranée|21
+Средиземное море|49
+la mer Baltique|21
+Балтийское море|49
+le nord|21
+север|49
+le sud|21
+юг|49
+l'ouest|21
+запад|49
+l'est|21
+восток|49
+la boussole|21
+компас|49
+zéro|21
+ноль|49
+un|21
+один|49
+deux|21
+два|49
+trois|21
+три|49
+quatre|21
+четыре|49
+cinq|21
+пять|49
+six|21
+шесть|49
+sept|21
+семь|49
+huit|21
+восемь|49
+neuf|21
+девять|49
+dix|21
+десять|49
+onze|21
+одиннадцать|49
+douze|21
+двенадцать|49
+treize|21
+тринадцать|49
+quatorze|21
+четырнадцать|49
+quinze|21
+пятнадцать|49
+seize|21
+шестнадцать|49
+dix-sept|21
+семнадцать|49
+dix-huit|21
+восемнадцати|49
+dix-neuf|21
+девятнадцать|49
+vingt|21
+двадцать|49
+vingt et un|21
+двадцать один|49
+vingt-deux|21
+двадцать два|49
+trente|21
+тридцать|49
+quarante|21
+сорок|49
+cinquante|21
+пятьдесят|49
+soixante|21
+шестьдесят|49
+soixante-dix|21
+семьдесят|49
+quatre-vingt|21
+восемьдесят|49
+quatre-vingt-dix|21
+девяносто|49
+cent|21
+сто|49
+cent dix|21
+сто десять|49
+deux cents|21
+двести|49
+trois cents|21
+триста|49
+quatre cents|21
+четыреста|49
+cinq cents|21
+пятьсот|49
+six cents|21
+шестьсот|49
+sept cents|21
+семьсот|49
+huit cents|21
+восемьсот|49
+neuf cents|21
+девятьсот|49
+mille|21
+одна тысяча|49
+dix mille|21
+десять тысяч|49
+vingt mille|21
+двадцать тысяч|49
+cinquante mille|21
+пятьдесят тысяч|49
+cinquante-cinq mille cinq cents|21
+пятьдесят пять тысяч пятьсот|49
+cent mille|21
+сто тысяч|49
+un million|21
+один миллион|49
+un milliard|21
+один миллиард|49
+primer|21
+первый|49
+deuxième|21
+второй|49
+troisième|21
+третий|49
+quatrième|21
+четвёртый|49
+cinquième|21
+пятый|49
+sixième|21
+шестой|49
+septième|21
+седьмой|49
+huitième|21
+восьмой|49
+neuvième|21
+девятый|49
+dixième|21
+десятый|49
+onzième|21
+одиннадцатый|49
+douzième|21
+двенадцатый|49
+treizième|21
+тринадцатый|49
+quatorzième|21
+четырнадцатый|49
+quinzième|21
+пятнадцатый|49
+seizième|21
+шестнадцатый|49
+dix-septième|21
+семнадцатый|49
+dix-huitième|21
+восемнадцатый|49
+dix-neuvième|21
+девятнадцатый|49
+vingtième|21
+двадцатый|49
+vingt et unième|21
+двадцать первый|49
+vingt- deuxième|21
+двадцать второй|49
+vingt-troisième|21
+двадцать третий|49
+trentième|21
+тридцатый|49
+quarantième|21
+сороковой|49
+cinquantième|21
+пятидесятый|49
+soixantième|21
+шестидесятый|49
+soixante-dixième|21
+семидесятый|49
+quatre-vingtième|21
+восьмидесятый|49
+quatre-vingt- dixième|21
+девяностый|49
+centième|21
+сотый|49
+l'Amérique du Nord et centrale|21
+Северная и Центральная Америка|49
+l'Alaska|21
+Аляска|49
+le Canada|21
+Канада|49
+le Groenland|21
+Гренландия|49
+les États-Unis d'Amérique|21
+Соединенные Штаты Америки|49
+le Mexique|21
+Мексика|49
+le Guatemala|21
+Гватемала|49
+le Bélize|21
+Белиз|49
+le Salvador|21
+Сальвадор|49
+le Honduras|21
+Гондурас|49
+le Nicaragua|21
+Никарагуа|49
+le Costa Rica|21
+Коста-Рика|49
+le Panama|21
+Панама|49
+Cuba|21
+Куба|49
+les Bahamas|21
+Багамские Острова|49
+la Jamaïque|21
+Ямайка|49
+Haïti|21
+Гаити|49
+la République dominicaine|21
+Доминиканская Республика|49
+la Porto Rico|21
+Пуэрто-Рико|49
+la Barbade|21
+Барбадос|49
+la Trinité-et-Tobago|21
+Тринидад и Тобаго|49
+Saint-Kitts-et-Nevis|21
+Сент-Китс и Невис|49
+Antigua-et-Barbuda|21
+Антигуа и Барбуда|49
+la Dominique|21
+Доминика|49
+Sainte-Lucie|21
+Сент-Люсия|49
+Saint-Vincent-et-les-Grenadines|21
+Сент-Винсент и Гренадины|49
+l'Amérique du Sud|21
+Южная Америка|49
+le Venezuela|21
+Венесуэла|49
+la Colombie|21
+Колумбия|49
+l'Équateur|21
+Эквадор|49
+le Pérou|21
+Перу|49
+les îles Galápagos|21
+Галапагосские Острова|49
+la Guyane|21
+Гайана|49
+le Surinam|21
+Суринам|49
+la Guyane française|21
+Французская Гвиана|49
+le Brésil|21
+Бразилия|49
+la Bolivie|21
+Боливия|49
+le Chili|21
+Чили|49
+l'Argentina|21
+Аргентина|49
+le Paraguay|21
+Парагвай|49
+l'Uruguay|21
+Уругвай|49
+les îles Malouines|21
+Фолклендские Острова|49
+l'Europe|21
+Европа|49
+l'Irlande|21
+Ирландия|49
+le Royaume-Uni|21
+Великобритания|49
+le Portugal|21
+Португалия|49
+l'Espagne|21
+Испания|49
+les Baléares|21
+Балеарские Острова|49
+l'Andorre|21
+андорра|49
+la France|21
+Франция|49
+la Belgique|21
+Бельгия|49
+les Pays-Bas|21
+Нидерланды|49
+le Luxembourg|21
+Люксембург|49
+l'Allemagne|21
+Германия|49
+le Danemark|21
+Дания|49
+la Norvège|21
+Норвегия|49
+la Suède|21
+Швеция|49
+la Finlande|21
+Финляндия|49
+l'Estonie|21
+Эстония|49
+la Lettonie|21
+Латвия|49
+la Lituanie|21
+Литва|49
+Kaliningrad|21
+Калининград|49
+la Pologne|21
+Польша|49
+la République tchèque|21
+Чешская Республика|49
+l'Autriche|21
+Австрия|49
+le Liechtenstein|21
+Лихтенштейн|49
+la Suisse|21
+Швейцария|49
+l'Italie|21
+Италия|49
+Monaco|21
+Монако|49
+la Corse|21
+Корсика|49
+la Sardaigne|21
+Сардиния|49
+le Saint-Marin|21
+Сан - Марино|49
+la Cité du Vatican|21
+Ватикан|49
+la Sicile|21
+Сицилия|49
+Malte|21
+Мальта|49
+la Slovénie|21
+Словения|49
+la Croatie|21
+Хорватия|49
+la Hongrie|21
+Венгрия|49
+la Slovaquie|21
+Словакия|49
+l'Ukraine|21
+Украина|49
+la Bélarus|21
+Беларусь|49
+la Moldavie|21
+Молдова|49
+la Roumanie|21
+Румыния|49
+la Serbie|21
+Сербия|49
+la Bosnie-Herzégovine|21
+Босния и Герцеговина|49
+l'Albanie|21
+Албания|49
+la Macédoine|21
+Македония|49
+la Bulgarie|21
+Болгария|49
+la Grèce|21
+Греция|49
+la Turquie|21
+Турция|49
+Chypre|21
+Кипр|49
+l'Afrique|21
+Африка|49
+le Maroc|21
+Марокко|49
+le Sahara occidental|21
+Западная Сахара|49
+la Mauritanie|21
+Мавритания|49
+le Sénégal|21
+Сенегал|49
+la Gambie|21
+Гамбия|49
+la Guinée-Bissau|21
+Гвинея-Бисау|49
+la Guinée|21
+Гвинея|49
+la Sierra Leone|21
+Сьерра-Леоне|49
+le Libéria|21
+Либерия|49
+la Côte d'Ivoire|21
+берег Слоновой Кости|49
+le Burkina|21
+Буркина-Фасо|49
+le Mali|21
+Мали|49
+l'Algérie|21
+Алжир|49
+la Tunisie|21
+Тунис|49
+la Libye|21
+Ливия|49
+le Niger|21
+Нигер|49
+le Ghana|21
+Гана|49
+le Togo|21
+Того|49
+le Bénin|21
+Бенин|49
+le Nigéria|21
+Нигерия|49
+Sao Tomé-et-Principe|21
+Сан-Томе и Принсипи|49
+la Guinée équatoriale|21
+Экваториальная Гвинея|49
+le Cameroun|21
+Камерун|49
+le Tchad|21
+Чад|49
+l'Égypte|21
+Египет|49
+le Soudan|21
+Судан|49
+l'Érythrée|21
+Эритрее|49
+Djibouti|21
+Джибути|49
+l'Éthiopie|21
+Эфиопия|49
+la Somalie|21
+Сомали|49
+le Kenya|21
+Кения|49
+l'Ouganda|21
+Уганда|49
+la République centrafricaine|21
+Центрально-Африканская Республика|49
+le Gabon|21
+Габон|49
+le Congo|21
+Конго|49
+Cabinda|21
+Кабинда|49
+la République démocratique du Congo|21
+Демократическая Республика Конго|49
+le Rwanda|21
+Руанда|49
+le Burundi|21
+Бурунди|49
+la Tanzanie|21
+Танзания|49
+le Mozambique|21
+Мозамбик|49
+le Malawi|21
+Малави|49
+la Zambie|21
+Замбия|49
+l'Angola|21
+Ангола|49
+la Namibie|21
+Намибия|49
+le Botswana|21
+Ботсвана|49
+le Zimbabwe|21
+Зимбабве|49
+l'Afrique du Sud|21
+Южно-Африканская Республика|49
+le Lesotho|21
+Лесото|49
+le Swaziland|21
+Свазиленд|49
+les Comores|21
+Коморские Острова|49
+Madagascar|21
+Мадагаскар|49
+l'île Maurice|21
+Маврикий|49
+Asie et Océanie|21
+Азия и Океания|49
+la Fédération de Russie|21
+Российская Федерация|49
+la Géorgie|21
+Грузия|49
+l'Arménie|21
+Армения|49
+l'Azerbaïdjan|21
+Азербайджан|49
+l'Iran|21
+Иран|49
+l'Irak|21
+Ирак|49
+la Syrie|21
+Сирия|49
+le Liban|21
+Ливан|49
+Israël|21
+Израиль|49
+la Jordanie|21
+Иордания|49
+l'Arabie Saoudite|21
+Саудовская Аравия|49
+le Koweït|21
+Кувейт|49
+le Qatar|21
+Катар|49
+les Émirats arabes unis|21
+ОАЭ|49
+l'Oman|21
+Оман|49
+le Yémen|21
+Йемен|49
+le Kazakhstan|21
+Казахстан|49
+l'Ouzbékistan|21
+Узбекистан|49
+le Turkménistan|21
+Туркменистан|49
+l'Afghanistan|21
+Афганистан|49
+le Tadjikistan|21
+Таджикистан|49
+le Kirghizistan|21
+Киргизия|49
+le Pakistan|21
+Пакистан|49
+l'Inde|21
+Индия|49
+les Maldives|21
+Мальдивы|49
+Sri Lanka|21
+Шри Ланка|49
+la Chine|21
+Китай|49
+la Mongolie|21
+Монголия|49
+la Corée du Nord|21
+Северная Корея|49
+la Corée du Sud|21
+Южная Корея|49
+le Japon|21
+Япония|49
+le Népal|21
+Непал|49
+le Bhoutan|21
+Бутан|49
+le Bangladesh|21
+Бангладеш|49
+le Myanmar|21
+Бирма (Мьянма)|49
+la Thaïlande|21
+Таиланд|49
+le Laos|21
+Лаос|49
+le Vietnam|21
+Вьетнам|49
+le Cambodge|21
+Камбоджа|49
+la Malaisie|21
+Малайзия|49
+Singapour|21
+Сингапур|49
+l'Indonésie|21
+Индонезия|49
+le Brunei|21
+Бруней|49
+les Philippines|21
+Филиппины|49
+Taiwan|21
+Тайвань|49
+le Timor oriental|21
+Восточный Тимор|49
+la Papouasie-Nouvelle-Guinée|21
+Папуа-Новая Гвинея|49
+les îles Salomon|21
+Соломоновы острова|49
+Vanuatu|21
+Вануату|49
+Fidji|21
+Фиджи|49
+l'Australasie|21
+Австралазия|49
+l'Australie|21
+Австралия|49
+la Tasmanie|21
+Тасмания|49
+la Nouvelle-Zélande|21
+Новая Зеландия|49
+le continent|21
+континент|49
+la province|21
+провинция|49
+la zone|21
+зона|49
+le pays|21
+страна|49
+le territoire|21
+территория|49
+le district|21
+район|49
+la nation|21
+нация|49
+la principauté|21
+княжество|49
+l'État|21
+государство|49
+la colonie|21
+колония|49
+la capitale|21
+столица|49
+l'oesophage|21
+пищевод|49
+habillé|21
+элегантная одежда|49
+le fard à joues|21
+румяна|49
+la clef|21
+ключ|49
+la mèche|21
+сверло|49
+le vernis|21
+лак|49
+le terreau|21
+компост|49
+la fourche|21
+вилы|49
+le gravier|21
+гравий|49
+les graines|21
+семена|49
+le pistolet|21
+пистолет|49
+le texto|21
+текстовое сообщение|49
+le panier|21
+корзина|49
+les céréales|21
+сухие завтраки|49
+le compte-gouttes|21
+пипетка|49
+l'aiguille|21
+игла|49
+le rognon|21
+почка|49
+les agrumes|21
+цитрусовые|49
+la fraise|21
+клубника|49
+les fèves|21
+бобы|49
+le biscuit scandinave|21
+хрустящие хлебцы|49
+la tranche|21
+ломоть|49
+le gâteau d'anniversaire|21
+именинный торт|49
+les bougies d'anniversaire|21
+именинные свечи|49
+le piment|21
+чили|49
+séché|21
+вяленый|49
+en saumure|21
+в рассоле|49
+mariné|21
+маринованный|49
+salé|21
+солёный|49
+la sauce|21
+соус|49
+fumé|21
+копчёный|49
+l'expresso|21
+эспрессо|49
+la table|21
+столик|49
+la boisson en boîte|21
+баночный напиток|49
+le petit pan|21
+булочка|49
+les beignets de poulet|21
+кусочки куриного филе|49
+la garniture (II)|21
+начинка|49
+le canapé|21
+бутерброд|49
+la garniture (I)|21
+начинка пиццы|49
+le beurre|21
+сливочное масло|49
+la confiture d'oranges|21
+конфитюр|49
+le pâté|21
+паштет|49
+la crème|21
+сливки|49
+le yaourt aux fruits|21
+фруктовый йогурт|49
+l'histoire|21
+история|49
+compter|21
+считать|49
+le compte-gouttes|21
+капельница|49
+le forceps|21
+зажим (II)|49
+le scalpel|21
+скальпель|49
+le campus|21
+студенческий городок|49
+le catalogue|21
+каталог|49
+la philosophie|21
+философия|49
+le scotch|21
+липкая лента|49
+le courrier électronique|21
+электронная почта|49
+les professions|21
+профессий|49
+le masque|21
+маска|49
+le sac postal|21
+почтовая сумка|49
+la vigne|21
+виноград|49
+le siège du conducteur|21
+место водителя|49
+la poignée|21
+поручень|49
+l'abribus|21
+автобусное депо|49
+l'horaire|21
+расписание|49
+l'accès aux handicapés|21
+вход для инвалидных колясок|49
+les vêtements|21
+одежда|49
+la barre|21
+поперечина|49
+la clef|21
+ключ|49
+le rail|21
+рельс|49
+le missile|21
+снаряд|49
+la pale de rotor|21
+лопасть винта|49
+les arrivées|21
+прибытие|49
+le retrait des bagages|21
+выдача багажа|49
+la carte d'embarquement|21
+посадочный талон|49
+la location de voitures|21
+аренда автомобилей|49
+l'enregistrement des bagages|21
+стойка регистрации|49
+la salle de départ|21
+зал вылета|49
+les départs|21
+отправление|49
+la destination|21
+пункт назначения|49
+la boutique hors taxes|21
+магазин беспошлинной торговли|49
+le numéro de la porte d'embarquement|21
+номер выхода на посадку|49
+les bagages à main|21
+ручная кладь|49
+l'écran d'information|21
+информационное табло|49
+les bagages|21
+багаж|49
+le passeport|21
+паспорт|49
+le contrôle de passeports|21
+паспортный контроль (II)|49
+la station de taxis|21
+стоянка такси|49
+le billet|21
+билет|49
+le chariot|21
+тележка|49
+le visa|21
+виза|49
+l'ancre|21
+якорь|49
+le bollard|21
+швартовая тумба|49
+le canoë|21
+каноэ|49
+le capitaine|21
+капитан|49
+le dock|21
+док|49
+la passerelle|21
+сходня|49
+la barque|21
+шлюпка|49
+le guindeau|21
+брашпиль|49
+le kiosque|21
+рубка|49
+le hors-bord|21
+подвесной мотор|49
+le mur|21
+стенка|49
+la botte|21
+бутса|49
+botter|21
+бить по мячу|49
+faire une passe|21
+пасовать|49
+sauver|21
+брать мяч|49
+shooter|21
+бить по воротам|49
+tacler|21
+делать подкат|49
+faire rebondir|21
+вести мяч|49
+le batteur|21
+отбивать (I)|49
+la ligne de service|21
+линия подачи|49
+le fairway|21
+фарватер|49
+battre un record|21
+побить рекорд|49
+le chronomètre|21
+секундомер|49
+le couloir|21
+дорожка|49
+le nageur|21
+пловец|49
+la coque|21
+корпус|49
+le siège|21
+головка седла|49
+l'obstacle|21
+препятствие|49
+la flèche|21
+стрелка|49
+le carquois|21
+колчан|49
+l'exercice pour la poitrine|21
+грудной пресс|49
+la toile de fond|21
+задник|49
+le cor anglais|21
+английский рожок|49
+la guide (I)|21
+гид|49
+les montagnes russes|21
+американские горки|49
+la piste cavalière|21
+дорожка для верховой езды|49
+le maître nageur|21
+спасатель|49
+le tapis de sol (II)|21
+подстилка|49
+numérique|21
+цифровой|49
+portrait|21
+портрет|49
+le mille|21
+яблочко|49
+la cible|21
+мишень|49
+les fléchettes|21
+дартс|49
+l'épingle|21
+булавка|49
+le pied-de-biche|21
+лапка|49
+la mode|21
+мода|49
+le lin|21
+лён|49
+la laine|21
+пряжа|49
+l'éclipse|21
+затмение|49
+la lune|21
+Луна|49
+l'étoile|21
+звезда|49
+la queue|21
+хвост|49
+l'éclair|21
+молния|49
+le diamant|21
+диамант|49
+le hérisson|21
+ёж|49
+le chameau|21
+верблюд|49
+la bosse|21
+горб|49
+la corne|21
+рог (II)|49
+l'antenne|21
+усик|49
+le dard|21
+жало|49
+la bouche d'égout|21
+люк|49
+le dôme|21
+купол|49
+la voûte|21
+свод|49
+un quart d'heure|21
+четверти часа|49
+la trotteuse|21
+секундная стрелка|49
+mille neuf cents|21
+тысяча девятисотый|49
+mille neuf cent un|21
+тысяча девятьсот первый|49
+mille neuf cent dix|21
+тысяча девятьсот десятый|49
+deux mille|21
+двухтысячный|49
+deux mille un|21
+две тысячи первый|49
+le plateau|21
+чаша весов|49
+la livre|21
+фунт|49
+le litre|21
+литр|49
+le gallon|21
+галлон|49
+la mesure pour les liquides|21
+мера объёма жидкости|49
+le paquet (II)|21
+пачка|49
+deux pintes|21
+кварта|49
+Hawaii|21
+Гавайи|49
+la région|21
+регион|49
+le froncement de sourcils|21
+сдвинутые брови|49
+l'inhalateur|21
+ингалятор|49
+le coup du lapin|21
+травма шеи|49
+l'escalier|21
+лестница|49
+le pilon|21
+пестик|49
+le couvercle|21
+крышка|49
+en verre|21
+стекло|49
+le linge propre|21
+чистое бельё|49
+repasser|21
+гладить|49
+le produit assouplissant|21
+кондиционер для белья|49
+cirer|21
+натирать пол|49
+mettre un tuteur|21
+подвязывать|49
+les services|21
+обслуживание|49
+les jouets|21
+игрушки|49
+le vase|21
+ваза|49
+les cultures|21
+культуры|49
+le maçon|21
+строитель|49
+le tutu|21
+пачка|49
+le filtre d'air|21
+воздушный фильтр|49
+la balle de criquet|21
+мяч для крикета|49
+courir|21
+бежать|49
+être en défense|21
+завладеть мечом|49
+batter|21
+отбивать (II)|49
+le service|21
+подача|49
+la voile (I)|21
+парусный спорт|49
+l'étagère|21
+стойка|49
+la photo|21
+фотография|49
+le tableau|21
+картина|49
+enfiler|21
+вдевать нитку|49
+le glaçon|21
+сосулька|49
+l'argent|21
+серебро|49
+le museau|21
+рыло|49
