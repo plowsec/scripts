@@ -9,7 +9,7 @@ if [ $# -eq 1 ]
 then
     case "$1" in
         'minecraft') 
-            java -jar /home/vladimir/games/Minecraft.jar
+            java -jar path
             ;;
         *)  
             echo "game not known"
